@@ -4,7 +4,7 @@ Uma expressão cron é uma forma de especificar agendamentos recorrentes em sist
 
 A sintaxe básica de uma expressão cron é a seguinte:
 
-#### minuto hora diaDoMês mês diaDaSemana
+### minuto hora diaDoMês mês diaDaSemana
 
 Aqui está uma descrição mais detalhada de cada campo:
 
