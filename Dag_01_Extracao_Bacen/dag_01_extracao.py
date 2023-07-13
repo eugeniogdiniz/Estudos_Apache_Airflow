@@ -1,4 +1,5 @@
-import time 
+import time
+import datetime
 import pandas as pd
 import pyautogui as pyag
 from selenium import webdriver
@@ -11,8 +12,8 @@ from airflow.operators.python_operator import PythonOperator
 
 with DAG(
         "Dag_01_Extracao_Bacen",
-        start_date=days_ago(0),
-        schedule_interval='*/30 14-16 * * 1-5', # executar toda segunda feira
+        start_date = datetime.datetime(2023, 7, 7, 15, 0, 0),
+        schedule_interval='0 18-20 * * 1-5', 
     ) as dag:
 
     tarefa_1 = BashOperator(
@@ -27,7 +28,7 @@ with DAG(
         df_cod_moeda = df.Cód_BCB
         df_pais = df.Pais
         dt_in = days_ago(0).replace(day=1).strftime("%d/%m/%Y")
-        data_interval_end = days_ago(0).strftime("%d/%m/%Y")
+        dt_fim = days_ago(0).strftime("%d/%m/%Y")
         
         lg = len(df_pais)
         l = 0
@@ -42,7 +43,7 @@ with DAG(
         driver = webdriver.Chrome(options=chrome_options)
 
         while (l < lg ):
-            link_download = f'https://ptax.bcb.gov.br/ptax_internet/consultaBoletim.do?method=gerarCSVFechamentoMoedaNoPeriodo&{df_cod_moeda[l]}&DATAINI={dt_in}&DATAFIM={data_interval_end}'
+            link_download = f'https://ptax.bcb.gov.br/ptax_internet/consultaBoletim.do?method=gerarCSVFechamentoMoedaNoPeriodo&{df_cod_moeda[l]}&DATAINI={dt_in}&DATAFIM={dt_fim}'
             driver.get(link_download)
             time.sleep(2)
             pyag.write(df_pais[l])
@@ -61,5 +62,9 @@ with DAG(
         python_callable = extrai_dados,
         op_kwargs = {'data_interval_end': '{{data_interval_end.strftime("%Y-%m-%d")}}'}
     )
+
+    
+
+
 
     tarefa_1 >> tarefa_2
