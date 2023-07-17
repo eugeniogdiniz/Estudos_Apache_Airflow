@@ -1,0 +1,627 @@
+[2023-07-17 09:53:06,896] {processor.py:153} INFO - Started process (PID=4523) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:53:06,896] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:53:06,897] {logging_mixin.py:115} INFO - [2023-07-17 09:53:06,897] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:53:06,912] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:53:07,004] {logging_mixin.py:115} INFO - [2023-07-17 09:53:07,003] {manager.py:508} INFO - Created Permission View: can read on DAG:example_complex
+[2023-07-17 09:53:07,016] {logging_mixin.py:115} INFO - [2023-07-17 09:53:07,016] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_complex
+[2023-07-17 09:53:07,023] {logging_mixin.py:115} INFO - [2023-07-17 09:53:07,023] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_complex
+[2023-07-17 09:53:07,023] {logging_mixin.py:115} INFO - [2023-07-17 09:53:07,023] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:53:07,031] {logging_mixin.py:115} INFO - [2023-07-17 09:53:07,031] {dag.py:2398} INFO - Creating ORM DAG for example_complex
+[2023-07-17 09:53:07,040] {logging_mixin.py:115} INFO - [2023-07-17 09:53:07,040] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:53:07,051] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.159 seconds
+[2023-07-17 09:53:46,644] {processor.py:153} INFO - Started process (PID=4717) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:53:46,645] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:53:46,646] {logging_mixin.py:115} INFO - [2023-07-17 09:53:46,646] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:53:46,654] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:53:46,668] {logging_mixin.py:115} INFO - [2023-07-17 09:53:46,668] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:53:46,681] {logging_mixin.py:115} INFO - [2023-07-17 09:53:46,681] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:53:46,691] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2023-07-17 09:54:27,502] {processor.py:153} INFO - Started process (PID=5028) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:54:27,504] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:54:27,505] {logging_mixin.py:115} INFO - [2023-07-17 09:54:27,505] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:54:27,513] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:54:27,528] {logging_mixin.py:115} INFO - [2023-07-17 09:54:27,528] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:54:27,542] {logging_mixin.py:115} INFO - [2023-07-17 09:54:27,542] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:54:27,553] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2023-07-17 09:55:04,053] {processor.py:153} INFO - Started process (PID=5264) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:55:04,053] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:55:04,054] {logging_mixin.py:115} INFO - [2023-07-17 09:55:04,054] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:55:04,062] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:55:04,078] {logging_mixin.py:115} INFO - [2023-07-17 09:55:04,077] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:55:04,092] {logging_mixin.py:115} INFO - [2023-07-17 09:55:04,092] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:55:04,103] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2023-07-17 09:55:36,008] {processor.py:153} INFO - Started process (PID=5437) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:55:36,008] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:55:36,009] {logging_mixin.py:115} INFO - [2023-07-17 09:55:36,009] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:55:36,017] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:55:36,033] {logging_mixin.py:115} INFO - [2023-07-17 09:55:36,033] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:55:36,047] {logging_mixin.py:115} INFO - [2023-07-17 09:55:36,047] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:55:36,060] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2023-07-17 09:56:10,845] {processor.py:153} INFO - Started process (PID=5798) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:56:10,849] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:56:10,850] {logging_mixin.py:115} INFO - [2023-07-17 09:56:10,850] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:56:10,866] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:56:10,892] {logging_mixin.py:115} INFO - [2023-07-17 09:56:10,892] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:56:10,919] {logging_mixin.py:115} INFO - [2023-07-17 09:56:10,918] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:56:10,941] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2023-07-17 09:56:46,369] {processor.py:153} INFO - Started process (PID=6254) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:56:46,370] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:56:46,371] {logging_mixin.py:115} INFO - [2023-07-17 09:56:46,371] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:56:46,381] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:56:46,400] {logging_mixin.py:115} INFO - [2023-07-17 09:56:46,400] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:56:46,418] {logging_mixin.py:115} INFO - [2023-07-17 09:56:46,418] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:56:46,433] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2023-07-17 09:57:41,077] {processor.py:153} INFO - Started process (PID=6994) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:57:41,080] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:57:41,081] {logging_mixin.py:115} INFO - [2023-07-17 09:57:41,081] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:57:41,101] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:57:41,125] {logging_mixin.py:115} INFO - [2023-07-17 09:57:41,125] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:57:41,148] {logging_mixin.py:115} INFO - [2023-07-17 09:57:41,147] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:57:41,173] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2023-07-17 09:58:14,141] {processor.py:153} INFO - Started process (PID=7590) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:58:14,142] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:58:14,142] {logging_mixin.py:115} INFO - [2023-07-17 09:58:14,142] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:58:14,151] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:58:14,168] {logging_mixin.py:115} INFO - [2023-07-17 09:58:14,168] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:58:14,185] {logging_mixin.py:115} INFO - [2023-07-17 09:58:14,185] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:58:14,196] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2023-07-17 09:58:49,761] {processor.py:153} INFO - Started process (PID=7798) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:58:49,762] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:58:49,762] {logging_mixin.py:115} INFO - [2023-07-17 09:58:49,762] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:58:49,771] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:58:49,784] {logging_mixin.py:115} INFO - [2023-07-17 09:58:49,784] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:58:49,795] {logging_mixin.py:115} INFO - [2023-07-17 09:58:49,795] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:58:49,805] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 09:59:29,149] {processor.py:153} INFO - Started process (PID=8087) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:59:29,150] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 09:59:29,150] {logging_mixin.py:115} INFO - [2023-07-17 09:59:29,150] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:59:29,161] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 09:59:29,177] {logging_mixin.py:115} INFO - [2023-07-17 09:59:29,177] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:59:29,192] {logging_mixin.py:115} INFO - [2023-07-17 09:59:29,192] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 09:59:29,205] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2023-07-17 10:00:05,384] {processor.py:153} INFO - Started process (PID=8364) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:00:05,386] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:00:05,386] {logging_mixin.py:115} INFO - [2023-07-17 10:00:05,386] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:00:05,395] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:00:05,412] {logging_mixin.py:115} INFO - [2023-07-17 10:00:05,412] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:00:05,428] {logging_mixin.py:115} INFO - [2023-07-17 10:00:05,427] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:00:05,442] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.060 seconds
+[2023-07-17 10:00:37,082] {processor.py:153} INFO - Started process (PID=8523) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:00:37,083] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:00:37,084] {logging_mixin.py:115} INFO - [2023-07-17 10:00:37,084] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:00:37,092] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:00:37,109] {logging_mixin.py:115} INFO - [2023-07-17 10:00:37,109] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:00:37,124] {logging_mixin.py:115} INFO - [2023-07-17 10:00:37,123] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:00:37,136] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2023-07-17 10:01:14,015] {processor.py:153} INFO - Started process (PID=8724) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:01:14,016] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:01:14,016] {logging_mixin.py:115} INFO - [2023-07-17 10:01:14,016] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:01:14,025] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:01:14,038] {logging_mixin.py:115} INFO - [2023-07-17 10:01:14,038] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:01:14,049] {logging_mixin.py:115} INFO - [2023-07-17 10:01:14,049] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:01:14,059] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:01:47,986] {processor.py:153} INFO - Started process (PID=8896) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:01:47,986] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:01:47,987] {logging_mixin.py:115} INFO - [2023-07-17 10:01:47,987] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:01:47,995] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:01:48,009] {logging_mixin.py:115} INFO - [2023-07-17 10:01:48,009] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:01:48,021] {logging_mixin.py:115} INFO - [2023-07-17 10:01:48,021] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:01:48,031] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-07-17 10:02:25,875] {processor.py:153} INFO - Started process (PID=9086) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:02:25,875] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:02:25,876] {logging_mixin.py:115} INFO - [2023-07-17 10:02:25,876] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:02:25,883] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:02:25,896] {logging_mixin.py:115} INFO - [2023-07-17 10:02:25,896] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:02:25,907] {logging_mixin.py:115} INFO - [2023-07-17 10:02:25,907] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:02:25,917] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.044 seconds
+[2023-07-17 10:02:58,858] {processor.py:153} INFO - Started process (PID=9309) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:02:58,859] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:02:58,859] {logging_mixin.py:115} INFO - [2023-07-17 10:02:58,859] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:02:58,866] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:02:58,880] {logging_mixin.py:115} INFO - [2023-07-17 10:02:58,880] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:02:58,891] {logging_mixin.py:115} INFO - [2023-07-17 10:02:58,891] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:02:58,900] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2023-07-17 10:03:34,905] {processor.py:153} INFO - Started process (PID=9494) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:03:34,906] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:03:34,906] {logging_mixin.py:115} INFO - [2023-07-17 10:03:34,906] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:03:34,914] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:03:34,927] {logging_mixin.py:115} INFO - [2023-07-17 10:03:34,927] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:03:34,938] {logging_mixin.py:115} INFO - [2023-07-17 10:03:34,938] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:03:34,948] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2023-07-17 10:04:11,032] {processor.py:153} INFO - Started process (PID=9674) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:04:11,032] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:04:11,033] {logging_mixin.py:115} INFO - [2023-07-17 10:04:11,033] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:04:11,040] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:04:11,053] {logging_mixin.py:115} INFO - [2023-07-17 10:04:11,053] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:04:11,064] {logging_mixin.py:115} INFO - [2023-07-17 10:04:11,064] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:04:11,074] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2023-07-17 10:04:45,854] {processor.py:153} INFO - Started process (PID=9862) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:04:45,855] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:04:45,856] {logging_mixin.py:115} INFO - [2023-07-17 10:04:45,856] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:04:45,863] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:04:45,876] {logging_mixin.py:115} INFO - [2023-07-17 10:04:45,876] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:04:45,888] {logging_mixin.py:115} INFO - [2023-07-17 10:04:45,888] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:04:45,897] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2023-07-17 10:05:22,894] {processor.py:153} INFO - Started process (PID=10050) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:05:22,895] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:05:22,896] {logging_mixin.py:115} INFO - [2023-07-17 10:05:22,896] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:05:22,903] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:05:22,916] {logging_mixin.py:115} INFO - [2023-07-17 10:05:22,916] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:05:22,927] {logging_mixin.py:115} INFO - [2023-07-17 10:05:22,927] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:05:22,937] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2023-07-17 10:05:55,961] {processor.py:153} INFO - Started process (PID=10221) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:05:55,962] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:05:55,963] {logging_mixin.py:115} INFO - [2023-07-17 10:05:55,962] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:05:55,970] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:05:55,984] {logging_mixin.py:115} INFO - [2023-07-17 10:05:55,984] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:05:55,997] {logging_mixin.py:115} INFO - [2023-07-17 10:05:55,997] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:05:56,005] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:06:31,334] {processor.py:153} INFO - Started process (PID=10399) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:06:31,335] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:06:31,335] {logging_mixin.py:115} INFO - [2023-07-17 10:06:31,335] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:06:31,343] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:06:31,357] {logging_mixin.py:115} INFO - [2023-07-17 10:06:31,357] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:06:31,369] {logging_mixin.py:115} INFO - [2023-07-17 10:06:31,369] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:06:31,378] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:07:03,286] {processor.py:153} INFO - Started process (PID=10565) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:07:03,287] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:07:03,287] {logging_mixin.py:115} INFO - [2023-07-17 10:07:03,287] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:07:03,294] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:07:03,308] {logging_mixin.py:115} INFO - [2023-07-17 10:07:03,308] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:07:03,319] {logging_mixin.py:115} INFO - [2023-07-17 10:07:03,319] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:07:03,328] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2023-07-17 10:07:40,381] {processor.py:153} INFO - Started process (PID=10807) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:07:40,382] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:07:40,382] {logging_mixin.py:115} INFO - [2023-07-17 10:07:40,382] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:07:40,390] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:07:40,405] {logging_mixin.py:115} INFO - [2023-07-17 10:07:40,404] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:07:40,417] {logging_mixin.py:115} INFO - [2023-07-17 10:07:40,417] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:07:40,427] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-07-17 10:08:13,748] {processor.py:153} INFO - Started process (PID=10984) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:08:13,749] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:08:13,749] {logging_mixin.py:115} INFO - [2023-07-17 10:08:13,749] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:08:13,756] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:08:13,770] {logging_mixin.py:115} INFO - [2023-07-17 10:08:13,770] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:08:13,781] {logging_mixin.py:115} INFO - [2023-07-17 10:08:13,781] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:08:13,791] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:08:47,145] {processor.py:153} INFO - Started process (PID=11154) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:08:47,146] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:08:47,147] {logging_mixin.py:115} INFO - [2023-07-17 10:08:47,147] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:08:47,154] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:08:47,167] {logging_mixin.py:115} INFO - [2023-07-17 10:08:47,167] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:08:47,178] {logging_mixin.py:115} INFO - [2023-07-17 10:08:47,178] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:08:47,188] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2023-07-17 10:09:22,641] {processor.py:153} INFO - Started process (PID=11333) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:09:22,642] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:09:22,642] {logging_mixin.py:115} INFO - [2023-07-17 10:09:22,642] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:09:22,649] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:09:22,663] {logging_mixin.py:115} INFO - [2023-07-17 10:09:22,663] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:09:22,675] {logging_mixin.py:115} INFO - [2023-07-17 10:09:22,675] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:09:22,684] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2023-07-17 10:10:01,390] {processor.py:153} INFO - Started process (PID=11586) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:10:01,391] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:10:01,391] {logging_mixin.py:115} INFO - [2023-07-17 10:10:01,391] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:10:01,399] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:10:01,416] {logging_mixin.py:115} INFO - [2023-07-17 10:10:01,416] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:10:01,431] {logging_mixin.py:115} INFO - [2023-07-17 10:10:01,431] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:10:01,444] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2023-07-17 10:10:36,254] {processor.py:153} INFO - Started process (PID=11777) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:10:36,255] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:10:36,255] {logging_mixin.py:115} INFO - [2023-07-17 10:10:36,255] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:10:36,264] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:10:36,279] {logging_mixin.py:115} INFO - [2023-07-17 10:10:36,279] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:10:36,292] {logging_mixin.py:115} INFO - [2023-07-17 10:10:36,292] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:10:36,302] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2023-07-17 10:11:13,281] {processor.py:153} INFO - Started process (PID=12138) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:11:13,282] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:11:13,282] {logging_mixin.py:115} INFO - [2023-07-17 10:11:13,282] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:11:13,290] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:11:13,304] {logging_mixin.py:115} INFO - [2023-07-17 10:11:13,304] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:11:13,315] {logging_mixin.py:115} INFO - [2023-07-17 10:11:13,315] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:11:13,325] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:11:45,827] {processor.py:153} INFO - Started process (PID=14353) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:11:45,828] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:11:45,828] {logging_mixin.py:115} INFO - [2023-07-17 10:11:45,828] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:11:45,838] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:11:45,853] {logging_mixin.py:115} INFO - [2023-07-17 10:11:45,853] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:11:45,867] {logging_mixin.py:115} INFO - [2023-07-17 10:11:45,867] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:11:45,878] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2023-07-17 10:12:21,829] {processor.py:153} INFO - Started process (PID=14561) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:12:21,830] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:12:21,830] {logging_mixin.py:115} INFO - [2023-07-17 10:12:21,830] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:12:21,839] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:12:21,855] {logging_mixin.py:115} INFO - [2023-07-17 10:12:21,855] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:12:21,871] {logging_mixin.py:115} INFO - [2023-07-17 10:12:21,871] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:12:21,883] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2023-07-17 10:12:53,728] {processor.py:153} INFO - Started process (PID=14785) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:12:53,728] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:12:53,729] {logging_mixin.py:115} INFO - [2023-07-17 10:12:53,729] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:12:53,739] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:12:53,756] {logging_mixin.py:115} INFO - [2023-07-17 10:12:53,756] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:12:53,772] {logging_mixin.py:115} INFO - [2023-07-17 10:12:53,772] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:12:53,782] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2023-07-17 10:13:26,676] {processor.py:153} INFO - Started process (PID=14989) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:13:26,677] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:13:26,677] {logging_mixin.py:115} INFO - [2023-07-17 10:13:26,677] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:13:26,690] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:13:26,751] {logging_mixin.py:115} INFO - [2023-07-17 10:13:26,751] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:13:26,780] {logging_mixin.py:115} INFO - [2023-07-17 10:13:26,780] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:13:26,799] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.129 seconds
+[2023-07-17 10:14:04,495] {processor.py:153} INFO - Started process (PID=15319) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:14:04,496] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:14:04,497] {logging_mixin.py:115} INFO - [2023-07-17 10:14:04,497] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:14:04,505] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:14:04,524] {logging_mixin.py:115} INFO - [2023-07-17 10:14:04,524] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:14:04,537] {logging_mixin.py:115} INFO - [2023-07-17 10:14:04,537] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:14:04,551] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.059 seconds
+[2023-07-17 10:14:37,623] {processor.py:153} INFO - Started process (PID=15497) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:14:37,624] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:14:37,625] {logging_mixin.py:115} INFO - [2023-07-17 10:14:37,625] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:14:37,636] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:14:37,656] {logging_mixin.py:115} INFO - [2023-07-17 10:14:37,656] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:14:37,674] {logging_mixin.py:115} INFO - [2023-07-17 10:14:37,674] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:14:37,691] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2023-07-17 10:15:15,898] {processor.py:153} INFO - Started process (PID=15698) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:15:15,900] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:15:15,900] {logging_mixin.py:115} INFO - [2023-07-17 10:15:15,900] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:15:15,909] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:15:15,925] {logging_mixin.py:115} INFO - [2023-07-17 10:15:15,925] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:15:15,941] {logging_mixin.py:115} INFO - [2023-07-17 10:15:15,941] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:15:15,952] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2023-07-17 10:15:50,966] {processor.py:153} INFO - Started process (PID=15970) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:15:50,967] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:15:50,967] {logging_mixin.py:115} INFO - [2023-07-17 10:15:50,967] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:15:50,975] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:15:50,989] {logging_mixin.py:115} INFO - [2023-07-17 10:15:50,988] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:15:51,000] {logging_mixin.py:115} INFO - [2023-07-17 10:15:51,000] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:15:51,010] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:16:26,647] {processor.py:153} INFO - Started process (PID=16217) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:16:26,648] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:16:26,649] {logging_mixin.py:115} INFO - [2023-07-17 10:16:26,649] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:16:26,658] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:16:26,676] {logging_mixin.py:115} INFO - [2023-07-17 10:16:26,676] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:16:26,695] {logging_mixin.py:115} INFO - [2023-07-17 10:16:26,695] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:16:26,706] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-07-17 10:17:04,322] {processor.py:153} INFO - Started process (PID=16531) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:17:04,323] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:17:04,325] {logging_mixin.py:115} INFO - [2023-07-17 10:17:04,324] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:17:04,360] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:17:04,424] {logging_mixin.py:115} INFO - [2023-07-17 10:17:04,424] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:17:04,444] {logging_mixin.py:115} INFO - [2023-07-17 10:17:04,444] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:17:04,462] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.145 seconds
+[2023-07-17 10:17:48,803] {processor.py:153} INFO - Started process (PID=16988) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:17:48,806] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:17:48,807] {logging_mixin.py:115} INFO - [2023-07-17 10:17:48,807] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:17:48,820] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:17:48,870] {logging_mixin.py:115} INFO - [2023-07-17 10:17:48,870] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:17:48,894] {logging_mixin.py:115} INFO - [2023-07-17 10:17:48,894] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:17:48,909] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2023-07-17 10:18:26,759] {processor.py:153} INFO - Started process (PID=17264) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:18:26,761] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:18:26,762] {logging_mixin.py:115} INFO - [2023-07-17 10:18:26,762] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:18:26,772] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:18:26,795] {logging_mixin.py:115} INFO - [2023-07-17 10:18:26,795] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:18:26,811] {logging_mixin.py:115} INFO - [2023-07-17 10:18:26,810] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:18:26,825] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2023-07-17 10:19:02,608] {processor.py:153} INFO - Started process (PID=17547) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:19:02,609] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:19:02,610] {logging_mixin.py:115} INFO - [2023-07-17 10:19:02,610] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:19:02,620] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:19:02,640] {logging_mixin.py:115} INFO - [2023-07-17 10:19:02,640] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:19:02,657] {logging_mixin.py:115} INFO - [2023-07-17 10:19:02,657] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:19:02,667] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-07-17 10:19:38,793] {processor.py:153} INFO - Started process (PID=17734) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:19:38,794] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:19:38,795] {logging_mixin.py:115} INFO - [2023-07-17 10:19:38,795] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:19:38,805] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:19:38,823] {logging_mixin.py:115} INFO - [2023-07-17 10:19:38,823] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:19:38,837] {logging_mixin.py:115} INFO - [2023-07-17 10:19:38,837] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:19:38,852] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2023-07-17 10:20:13,453] {processor.py:153} INFO - Started process (PID=17912) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:20:13,454] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:20:13,455] {logging_mixin.py:115} INFO - [2023-07-17 10:20:13,454] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:20:13,463] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:20:13,479] {logging_mixin.py:115} INFO - [2023-07-17 10:20:13,478] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:20:13,492] {logging_mixin.py:115} INFO - [2023-07-17 10:20:13,492] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:20:13,504] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2023-07-17 10:20:51,395] {processor.py:153} INFO - Started process (PID=18105) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:20:51,396] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:20:51,396] {logging_mixin.py:115} INFO - [2023-07-17 10:20:51,396] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:20:51,405] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:20:51,423] {logging_mixin.py:115} INFO - [2023-07-17 10:20:51,423] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:20:51,438] {logging_mixin.py:115} INFO - [2023-07-17 10:20:51,438] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:20:51,450] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2023-07-17 10:21:23,481] {processor.py:153} INFO - Started process (PID=18916) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:21:23,481] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:21:23,482] {logging_mixin.py:115} INFO - [2023-07-17 10:21:23,482] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:21:23,491] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:21:23,514] {logging_mixin.py:115} INFO - [2023-07-17 10:21:23,514] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:21:23,531] {logging_mixin.py:115} INFO - [2023-07-17 10:21:23,531] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:21:23,543] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2023-07-17 10:21:59,514] {processor.py:153} INFO - Started process (PID=19112) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:21:59,515] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:21:59,515] {logging_mixin.py:115} INFO - [2023-07-17 10:21:59,515] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:21:59,524] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:21:59,539] {logging_mixin.py:115} INFO - [2023-07-17 10:21:59,539] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:21:59,554] {logging_mixin.py:115} INFO - [2023-07-17 10:21:59,554] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:21:59,567] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2023-07-17 10:22:34,250] {processor.py:153} INFO - Started process (PID=19348) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:22:34,251] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:22:34,251] {logging_mixin.py:115} INFO - [2023-07-17 10:22:34,251] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:22:34,259] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:22:34,273] {logging_mixin.py:115} INFO - [2023-07-17 10:22:34,273] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:22:34,285] {logging_mixin.py:115} INFO - [2023-07-17 10:22:34,285] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:22:34,294] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:23:08,456] {processor.py:153} INFO - Started process (PID=19535) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:23:08,457] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:23:08,458] {logging_mixin.py:115} INFO - [2023-07-17 10:23:08,458] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:23:08,467] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:23:08,487] {logging_mixin.py:115} INFO - [2023-07-17 10:23:08,487] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:23:08,502] {logging_mixin.py:115} INFO - [2023-07-17 10:23:08,502] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:23:08,515] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-07-17 10:23:45,117] {processor.py:153} INFO - Started process (PID=19724) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:23:45,118] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:23:45,119] {logging_mixin.py:115} INFO - [2023-07-17 10:23:45,118] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:23:45,127] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:23:45,143] {logging_mixin.py:115} INFO - [2023-07-17 10:23:45,143] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:23:45,155] {logging_mixin.py:115} INFO - [2023-07-17 10:23:45,155] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:23:45,165] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2023-07-17 10:24:18,044] {processor.py:153} INFO - Started process (PID=19895) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:24:18,045] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:24:18,046] {logging_mixin.py:115} INFO - [2023-07-17 10:24:18,046] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:24:18,054] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:24:18,068] {logging_mixin.py:115} INFO - [2023-07-17 10:24:18,068] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:24:18,081] {logging_mixin.py:115} INFO - [2023-07-17 10:24:18,081] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:24:18,090] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-07-17 10:24:52,229] {processor.py:153} INFO - Started process (PID=20065) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:24:52,230] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:24:52,230] {logging_mixin.py:115} INFO - [2023-07-17 10:24:52,230] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:24:52,238] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:24:52,252] {logging_mixin.py:115} INFO - [2023-07-17 10:24:52,252] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:24:52,264] {logging_mixin.py:115} INFO - [2023-07-17 10:24:52,264] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:24:52,273] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:25:27,481] {processor.py:153} INFO - Started process (PID=20240) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:25:27,482] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:25:27,482] {logging_mixin.py:115} INFO - [2023-07-17 10:25:27,482] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:25:27,490] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:25:27,504] {logging_mixin.py:115} INFO - [2023-07-17 10:25:27,504] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:25:27,516] {logging_mixin.py:115} INFO - [2023-07-17 10:25:27,516] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:25:27,525] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2023-07-17 10:26:01,747] {processor.py:153} INFO - Started process (PID=20417) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:26:01,748] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:26:01,749] {logging_mixin.py:115} INFO - [2023-07-17 10:26:01,748] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:26:01,756] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:26:01,770] {logging_mixin.py:115} INFO - [2023-07-17 10:26:01,770] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:26:01,782] {logging_mixin.py:115} INFO - [2023-07-17 10:26:01,782] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:26:01,791] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:26:39,498] {processor.py:153} INFO - Started process (PID=20615) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:26:39,499] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:26:39,499] {logging_mixin.py:115} INFO - [2023-07-17 10:26:39,499] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:26:39,506] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:26:39,520] {logging_mixin.py:115} INFO - [2023-07-17 10:26:39,520] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:26:39,532] {logging_mixin.py:115} INFO - [2023-07-17 10:26:39,532] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:26:39,541] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2023-07-17 10:27:13,725] {processor.py:153} INFO - Started process (PID=20786) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:27:13,725] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:27:13,726] {logging_mixin.py:115} INFO - [2023-07-17 10:27:13,726] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:27:13,733] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:27:13,748] {logging_mixin.py:115} INFO - [2023-07-17 10:27:13,748] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:27:13,760] {logging_mixin.py:115} INFO - [2023-07-17 10:27:13,760] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:27:13,770] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2023-07-17 10:27:48,802] {processor.py:153} INFO - Started process (PID=21033) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:27:48,803] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:27:48,803] {logging_mixin.py:115} INFO - [2023-07-17 10:27:48,803] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:27:48,811] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:27:48,824] {logging_mixin.py:115} INFO - [2023-07-17 10:27:48,824] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:27:48,835] {logging_mixin.py:115} INFO - [2023-07-17 10:27:48,835] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:27:48,845] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2023-07-17 10:28:25,602] {processor.py:153} INFO - Started process (PID=21227) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:28:25,603] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:28:25,603] {logging_mixin.py:115} INFO - [2023-07-17 10:28:25,603] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:28:25,611] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:28:25,625] {logging_mixin.py:115} INFO - [2023-07-17 10:28:25,625] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:28:25,637] {logging_mixin.py:115} INFO - [2023-07-17 10:28:25,637] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:28:25,647] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2023-07-17 10:28:59,267] {processor.py:153} INFO - Started process (PID=21399) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:28:59,268] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:28:59,268] {logging_mixin.py:115} INFO - [2023-07-17 10:28:59,268] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:28:59,275] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:28:59,289] {logging_mixin.py:115} INFO - [2023-07-17 10:28:59,289] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:28:59,301] {logging_mixin.py:115} INFO - [2023-07-17 10:28:59,301] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:28:59,311] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:29:34,754] {processor.py:153} INFO - Started process (PID=21588) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:29:34,755] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:29:34,756] {logging_mixin.py:115} INFO - [2023-07-17 10:29:34,756] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:29:34,764] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:29:34,778] {logging_mixin.py:115} INFO - [2023-07-17 10:29:34,778] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:29:34,790] {logging_mixin.py:115} INFO - [2023-07-17 10:29:34,790] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:29:34,800] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-07-17 10:30:10,095] {processor.py:153} INFO - Started process (PID=21839) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:30:10,096] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:30:10,096] {logging_mixin.py:115} INFO - [2023-07-17 10:30:10,096] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:30:10,105] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:30:10,123] {logging_mixin.py:115} INFO - [2023-07-17 10:30:10,123] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:30:10,138] {logging_mixin.py:115} INFO - [2023-07-17 10:30:10,138] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:30:10,154] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2023-07-17 10:30:45,466] {processor.py:153} INFO - Started process (PID=22035) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:30:45,467] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:30:45,467] {logging_mixin.py:115} INFO - [2023-07-17 10:30:45,467] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:30:45,474] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:30:45,488] {logging_mixin.py:115} INFO - [2023-07-17 10:30:45,488] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:30:45,501] {logging_mixin.py:115} INFO - [2023-07-17 10:30:45,501] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:30:45,515] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2023-07-17 10:31:23,139] {processor.py:153} INFO - Started process (PID=22226) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:31:23,140] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:31:23,141] {logging_mixin.py:115} INFO - [2023-07-17 10:31:23,141] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:31:23,152] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:31:23,166] {logging_mixin.py:115} INFO - [2023-07-17 10:31:23,166] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:31:23,181] {logging_mixin.py:115} INFO - [2023-07-17 10:31:23,181] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:31:23,193] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2023-07-17 10:31:59,640] {processor.py:153} INFO - Started process (PID=22498) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:31:59,641] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:31:59,641] {logging_mixin.py:115} INFO - [2023-07-17 10:31:59,641] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:31:59,649] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:31:59,663] {logging_mixin.py:115} INFO - [2023-07-17 10:31:59,662] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:31:59,674] {logging_mixin.py:115} INFO - [2023-07-17 10:31:59,674] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:31:59,684] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:32:31,591] {processor.py:153} INFO - Started process (PID=22684) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:32:31,592] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:32:31,592] {logging_mixin.py:115} INFO - [2023-07-17 10:32:31,592] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:32:31,600] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:32:31,616] {logging_mixin.py:115} INFO - [2023-07-17 10:32:31,616] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:32:31,628] {logging_mixin.py:115} INFO - [2023-07-17 10:32:31,628] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:32:31,638] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2023-07-17 10:33:06,270] {processor.py:153} INFO - Started process (PID=23013) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:33:06,271] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:33:06,272] {logging_mixin.py:115} INFO - [2023-07-17 10:33:06,272] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:33:06,279] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:33:06,293] {logging_mixin.py:115} INFO - [2023-07-17 10:33:06,293] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:33:06,306] {logging_mixin.py:115} INFO - [2023-07-17 10:33:06,306] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:33:06,315] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:33:39,341] {processor.py:153} INFO - Started process (PID=23190) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:33:39,342] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:33:39,342] {logging_mixin.py:115} INFO - [2023-07-17 10:33:39,342] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:33:39,349] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:33:39,365] {logging_mixin.py:115} INFO - [2023-07-17 10:33:39,365] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:33:39,377] {logging_mixin.py:115} INFO - [2023-07-17 10:33:39,377] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:33:39,387] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-07-17 10:34:19,171] {processor.py:153} INFO - Started process (PID=23390) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:34:19,172] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:34:19,172] {logging_mixin.py:115} INFO - [2023-07-17 10:34:19,172] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:34:19,180] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:34:19,194] {logging_mixin.py:115} INFO - [2023-07-17 10:34:19,194] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:34:19,209] {logging_mixin.py:115} INFO - [2023-07-17 10:34:19,209] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:34:19,218] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2023-07-17 10:34:52,268] {processor.py:153} INFO - Started process (PID=23618) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:34:52,269] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:34:52,269] {logging_mixin.py:115} INFO - [2023-07-17 10:34:52,269] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:34:52,280] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:34:52,297] {logging_mixin.py:115} INFO - [2023-07-17 10:34:52,297] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:34:52,316] {logging_mixin.py:115} INFO - [2023-07-17 10:34:52,316] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:34:52,326] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2023-07-17 10:35:28,234] {processor.py:153} INFO - Started process (PID=23798) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:35:28,235] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:35:28,235] {logging_mixin.py:115} INFO - [2023-07-17 10:35:28,235] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:35:28,244] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:35:28,260] {logging_mixin.py:115} INFO - [2023-07-17 10:35:28,259] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:35:28,274] {logging_mixin.py:115} INFO - [2023-07-17 10:35:28,274] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:35:28,284] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2023-07-17 10:36:01,931] {processor.py:153} INFO - Started process (PID=23974) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:36:01,932] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:36:01,932] {logging_mixin.py:115} INFO - [2023-07-17 10:36:01,932] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:36:01,941] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:36:01,955] {logging_mixin.py:115} INFO - [2023-07-17 10:36:01,955] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:36:01,966] {logging_mixin.py:115} INFO - [2023-07-17 10:36:01,966] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:36:01,977] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-07-17 10:36:36,741] {processor.py:153} INFO - Started process (PID=24150) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:36:36,742] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:36:36,742] {logging_mixin.py:115} INFO - [2023-07-17 10:36:36,742] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:36:36,750] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:36:36,764] {logging_mixin.py:115} INFO - [2023-07-17 10:36:36,764] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:36:36,777] {logging_mixin.py:115} INFO - [2023-07-17 10:36:36,777] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:36:36,787] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-07-17 10:37:15,089] {processor.py:153} INFO - Started process (PID=24487) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:37:15,090] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:37:15,090] {logging_mixin.py:115} INFO - [2023-07-17 10:37:15,090] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:37:15,098] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:37:15,112] {logging_mixin.py:115} INFO - [2023-07-17 10:37:15,112] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:37:15,126] {logging_mixin.py:115} INFO - [2023-07-17 10:37:15,126] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:37:15,135] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-07-17 10:37:49,095] {processor.py:153} INFO - Started process (PID=24721) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:37:49,095] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:37:49,096] {logging_mixin.py:115} INFO - [2023-07-17 10:37:49,096] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:37:49,103] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:37:49,117] {logging_mixin.py:115} INFO - [2023-07-17 10:37:49,117] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:37:49,130] {logging_mixin.py:115} INFO - [2023-07-17 10:37:49,130] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:37:49,138] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-07-17 10:38:25,390] {processor.py:153} INFO - Started process (PID=24975) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:38:25,391] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:38:25,391] {logging_mixin.py:115} INFO - [2023-07-17 10:38:25,391] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:38:25,399] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:38:25,414] {logging_mixin.py:115} INFO - [2023-07-17 10:38:25,414] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:38:25,426] {logging_mixin.py:115} INFO - [2023-07-17 10:38:25,426] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:38:25,439] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2023-07-17 10:39:01,624] {processor.py:153} INFO - Started process (PID=25246) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:39:01,625] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:39:01,626] {logging_mixin.py:115} INFO - [2023-07-17 10:39:01,626] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:39:01,636] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:39:01,654] {logging_mixin.py:115} INFO - [2023-07-17 10:39:01,653] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:39:01,669] {logging_mixin.py:115} INFO - [2023-07-17 10:39:01,669] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:39:01,687] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2023-07-17 10:39:38,758] {processor.py:153} INFO - Started process (PID=25434) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:39:38,762] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:39:38,763] {logging_mixin.py:115} INFO - [2023-07-17 10:39:38,763] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:39:38,788] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:39:38,819] {logging_mixin.py:115} INFO - [2023-07-17 10:39:38,819] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:39:38,840] {logging_mixin.py:115} INFO - [2023-07-17 10:39:38,840] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:39:38,858] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2023-07-17 10:40:16,938] {processor.py:153} INFO - Started process (PID=25636) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:40:16,939] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:40:16,940] {logging_mixin.py:115} INFO - [2023-07-17 10:40:16,940] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:40:16,950] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:40:16,966] {logging_mixin.py:115} INFO - [2023-07-17 10:40:16,966] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:40:16,984] {logging_mixin.py:115} INFO - [2023-07-17 10:40:16,984] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:40:16,996] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.060 seconds
+[2023-07-17 10:40:51,133] {processor.py:153} INFO - Started process (PID=25843) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:40:51,134] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:40:51,134] {logging_mixin.py:115} INFO - [2023-07-17 10:40:51,134] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:40:51,148] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:40:51,166] {logging_mixin.py:115} INFO - [2023-07-17 10:40:51,166] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:40:51,185] {logging_mixin.py:115} INFO - [2023-07-17 10:40:51,185] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:40:51,200] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2023-07-17 10:41:27,219] {processor.py:153} INFO - Started process (PID=26024) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:41:27,220] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:41:27,221] {logging_mixin.py:115} INFO - [2023-07-17 10:41:27,221] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:41:27,230] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:41:27,247] {logging_mixin.py:115} INFO - [2023-07-17 10:41:27,247] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:41:27,263] {logging_mixin.py:115} INFO - [2023-07-17 10:41:27,263] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:41:27,275] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2023-07-17 10:42:03,253] {processor.py:153} INFO - Started process (PID=26211) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:42:03,254] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:42:03,255] {logging_mixin.py:115} INFO - [2023-07-17 10:42:03,255] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:42:03,267] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:42:03,287] {logging_mixin.py:115} INFO - [2023-07-17 10:42:03,286] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:42:03,303] {logging_mixin.py:115} INFO - [2023-07-17 10:42:03,303] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:42:03,313] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.063 seconds
+[2023-07-17 10:42:40,894] {processor.py:153} INFO - Started process (PID=26460) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:42:40,895] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:42:40,895] {logging_mixin.py:115} INFO - [2023-07-17 10:42:40,895] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:42:40,906] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:42:40,925] {logging_mixin.py:115} INFO - [2023-07-17 10:42:40,925] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:42:40,942] {logging_mixin.py:115} INFO - [2023-07-17 10:42:40,942] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:42:40,954] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.063 seconds
+[2023-07-17 10:43:12,476] {processor.py:153} INFO - Started process (PID=26644) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:43:12,478] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:43:12,478] {logging_mixin.py:115} INFO - [2023-07-17 10:43:12,478] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:43:12,487] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:43:12,502] {logging_mixin.py:115} INFO - [2023-07-17 10:43:12,502] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:43:12,516] {logging_mixin.py:115} INFO - [2023-07-17 10:43:12,516] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:43:12,525] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2023-07-17 10:43:49,258] {processor.py:153} INFO - Started process (PID=26951) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:43:49,259] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:43:49,259] {logging_mixin.py:115} INFO - [2023-07-17 10:43:49,259] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:43:49,268] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:43:49,285] {logging_mixin.py:115} INFO - [2023-07-17 10:43:49,285] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:43:49,299] {logging_mixin.py:115} INFO - [2023-07-17 10:43:49,299] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:43:49,310] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2023-07-17 10:44:25,199] {processor.py:153} INFO - Started process (PID=27190) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:44:25,200] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:44:25,200] {logging_mixin.py:115} INFO - [2023-07-17 10:44:25,200] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:44:25,208] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:44:25,224] {logging_mixin.py:115} INFO - [2023-07-17 10:44:25,224] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:44:25,239] {logging_mixin.py:115} INFO - [2023-07-17 10:44:25,239] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:44:25,251] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2023-07-17 10:45:00,348] {processor.py:153} INFO - Started process (PID=28045) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:45:00,349] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:45:00,349] {logging_mixin.py:115} INFO - [2023-07-17 10:45:00,349] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:45:00,358] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:45:00,374] {logging_mixin.py:115} INFO - [2023-07-17 10:45:00,374] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:45:00,388] {logging_mixin.py:115} INFO - [2023-07-17 10:45:00,388] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:45:00,397] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2023-07-17 10:45:36,115] {processor.py:153} INFO - Started process (PID=28822) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:45:36,116] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-17 10:45:36,116] {logging_mixin.py:115} INFO - [2023-07-17 10:45:36,116] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:45:36,125] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-17 10:45:36,141] {logging_mixin.py:115} INFO - [2023-07-17 10:45:36,141] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:45:36,157] {logging_mixin.py:115} INFO - [2023-07-17 10:45:36,157] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-17 10:45:36,168] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds

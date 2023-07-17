@@ -1,0 +1,655 @@
+[2023-07-17 09:52:51,289] {processor.py:153} INFO - Started process (PID=4321) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:52:51,289] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:52:51,289] {logging_mixin.py:115} INFO - [2023-07-17 09:52:51,289] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:52:51,303] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:52:51,515] {logging_mixin.py:115} INFO - [2023-07-17 09:52:51,515] {manager.py:508} INFO - Created Permission View: can read on DAG:latest_only
+[2023-07-17 09:52:51,542] {logging_mixin.py:115} INFO - [2023-07-17 09:52:51,542] {manager.py:508} INFO - Created Permission View: can edit on DAG:latest_only
+[2023-07-17 09:52:51,565] {logging_mixin.py:115} INFO - [2023-07-17 09:52:51,565] {manager.py:508} INFO - Created Permission View: can delete on DAG:latest_only
+[2023-07-17 09:52:51,565] {logging_mixin.py:115} INFO - [2023-07-17 09:52:51,565] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:52:51,580] {logging_mixin.py:115} INFO - [2023-07-17 09:52:51,580] {dag.py:2398} INFO - Creating ORM DAG for latest_only
+[2023-07-17 09:52:51,594] {logging_mixin.py:115} INFO - [2023-07-17 09:52:51,594] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:52:51.593902+00:00, run_after=2023-07-17T16:52:51.593902+00:00
+[2023-07-17 09:52:51,613] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.341 seconds
+[2023-07-17 09:53:29,758] {processor.py:153} INFO - Started process (PID=4685) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:53:29,759] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:53:29,760] {logging_mixin.py:115} INFO - [2023-07-17 09:53:29,760] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:53:29,764] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:53:29,776] {logging_mixin.py:115} INFO - [2023-07-17 09:53:29,776] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:53:29,790] {logging_mixin.py:115} INFO - [2023-07-17 09:53:29,790] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:53:29.790353+00:00, run_after=2023-07-17T16:53:29.790353+00:00
+[2023-07-17 09:53:29,802] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2023-07-17 09:54:05,444] {processor.py:153} INFO - Started process (PID=4813) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:54:05,445] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:54:05,445] {logging_mixin.py:115} INFO - [2023-07-17 09:54:05,445] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:54:05,449] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:54:05,462] {logging_mixin.py:115} INFO - [2023-07-17 09:54:05,462] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:54:05,475] {logging_mixin.py:115} INFO - [2023-07-17 09:54:05,475] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:54:05.475206+00:00, run_after=2023-07-17T16:54:05.475206+00:00
+[2023-07-17 09:54:05,489] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2023-07-17 09:54:41,547] {processor.py:153} INFO - Started process (PID=5123) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:54:41,548] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:54:41,549] {logging_mixin.py:115} INFO - [2023-07-17 09:54:41,549] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:54:41,554] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:54:41,568] {logging_mixin.py:115} INFO - [2023-07-17 09:54:41,567] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:54:41,582] {logging_mixin.py:115} INFO - [2023-07-17 09:54:41,581] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:54:41.581683+00:00, run_after=2023-07-17T16:54:41.581683+00:00
+[2023-07-17 09:54:41,592] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2023-07-17 09:55:15,463] {processor.py:153} INFO - Started process (PID=5342) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:55:15,463] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:55:15,464] {logging_mixin.py:115} INFO - [2023-07-17 09:55:15,464] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:55:15,468] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:55:15,482] {logging_mixin.py:115} INFO - [2023-07-17 09:55:15,481] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:55:15,500] {logging_mixin.py:115} INFO - [2023-07-17 09:55:15,500] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:55:15.499786+00:00, run_after=2023-07-17T16:55:15.499786+00:00
+[2023-07-17 09:55:15,512] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2023-07-17 09:55:48,194] {processor.py:153} INFO - Started process (PID=5525) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:55:48,195] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:55:48,196] {logging_mixin.py:115} INFO - [2023-07-17 09:55:48,196] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:55:48,200] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:55:48,214] {logging_mixin.py:115} INFO - [2023-07-17 09:55:48,214] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:55:48,229] {logging_mixin.py:115} INFO - [2023-07-17 09:55:48,229] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:55:48.229006+00:00, run_after=2023-07-17T16:55:48.229006+00:00
+[2023-07-17 09:55:48,244] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2023-07-17 09:56:24,036] {processor.py:153} INFO - Started process (PID=5985) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:56:24,037] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:56:24,038] {logging_mixin.py:115} INFO - [2023-07-17 09:56:24,038] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:56:24,045] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:56:24,061] {logging_mixin.py:115} INFO - [2023-07-17 09:56:24,061] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:56:24,080] {logging_mixin.py:115} INFO - [2023-07-17 09:56:24,080] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:56:24.079622+00:00, run_after=2023-07-17T16:56:24.079622+00:00
+[2023-07-17 09:56:24,098] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.065 seconds
+[2023-07-17 09:56:57,104] {processor.py:153} INFO - Started process (PID=6429) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:56:57,105] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:56:57,105] {logging_mixin.py:115} INFO - [2023-07-17 09:56:57,105] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:56:57,112] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:56:57,137] {logging_mixin.py:115} INFO - [2023-07-17 09:56:57,137] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:56:57,169] {logging_mixin.py:115} INFO - [2023-07-17 09:56:57,169] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:56:57.168291+00:00, run_after=2023-07-17T16:56:57.168291+00:00
+[2023-07-17 09:56:57,185] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.086 seconds
+[2023-07-17 09:57:48,093] {processor.py:153} INFO - Started process (PID=7093) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:57:48,095] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:57:48,095] {logging_mixin.py:115} INFO - [2023-07-17 09:57:48,095] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:57:48,100] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:57:48,122] {logging_mixin.py:115} INFO - [2023-07-17 09:57:48,122] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:57:48,141] {logging_mixin.py:115} INFO - [2023-07-17 09:57:48,141] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:57:48.140767+00:00, run_after=2023-07-17T16:57:48.140767+00:00
+[2023-07-17 09:57:48,153] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2023-07-17 09:58:22,432] {processor.py:153} INFO - Started process (PID=7650) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:58:22,432] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:58:22,433] {logging_mixin.py:115} INFO - [2023-07-17 09:58:22,433] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:58:22,437] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:58:22,450] {logging_mixin.py:115} INFO - [2023-07-17 09:58:22,449] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:58:22,464] {logging_mixin.py:115} INFO - [2023-07-17 09:58:22,464] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:58:22.464163+00:00, run_after=2023-07-17T16:58:22.464163+00:00
+[2023-07-17 09:58:22,478] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2023-07-17 09:58:56,028] {processor.py:153} INFO - Started process (PID=7830) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:58:56,029] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:58:56,029] {logging_mixin.py:115} INFO - [2023-07-17 09:58:56,029] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:58:56,033] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:58:56,045] {logging_mixin.py:115} INFO - [2023-07-17 09:58:56,045] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:58:56,056] {logging_mixin.py:115} INFO - [2023-07-17 09:58:56,056] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:58:56.056674+00:00, run_after=2023-07-17T16:58:56.056674+00:00
+[2023-07-17 09:58:56,066] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 09:59:33,979] {processor.py:153} INFO - Started process (PID=8123) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:59:33,980] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 09:59:33,980] {logging_mixin.py:115} INFO - [2023-07-17 09:59:33,980] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:59:33,984] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 09:59:33,999] {logging_mixin.py:115} INFO - [2023-07-17 09:59:33,998] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:59:34,013] {logging_mixin.py:115} INFO - [2023-07-17 09:59:34,013] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T12:59:34.013489+00:00, run_after=2023-07-17T16:59:34.013489+00:00
+[2023-07-17 09:59:34,025] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2023-07-17 10:00:08,964] {processor.py:153} INFO - Started process (PID=8384) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:00:08,965] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:00:08,966] {logging_mixin.py:115} INFO - [2023-07-17 10:00:08,966] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:00:08,970] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:00:08,982] {logging_mixin.py:115} INFO - [2023-07-17 10:00:08,982] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:00:08,995] {logging_mixin.py:115} INFO - [2023-07-17 10:00:08,994] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:00:08.994769+00:00, run_after=2023-07-17T17:00:08.994769+00:00
+[2023-07-17 10:00:09,004] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-07-17 10:00:39,807] {processor.py:153} INFO - Started process (PID=8549) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:00:39,807] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:00:39,808] {logging_mixin.py:115} INFO - [2023-07-17 10:00:39,808] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:00:39,812] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:00:39,825] {logging_mixin.py:115} INFO - [2023-07-17 10:00:39,825] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:00:39,839] {logging_mixin.py:115} INFO - [2023-07-17 10:00:39,839] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:00:39.839015+00:00, run_after=2023-07-17T17:00:39.839015+00:00
+[2023-07-17 10:00:39,850] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2023-07-17 10:01:14,633] {processor.py:153} INFO - Started process (PID=8729) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:01:14,634] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:01:14,634] {logging_mixin.py:115} INFO - [2023-07-17 10:01:14,634] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:01:14,638] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:01:14,650] {logging_mixin.py:115} INFO - [2023-07-17 10:01:14,650] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:01:14,663] {logging_mixin.py:115} INFO - [2023-07-17 10:01:14,663] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:01:14.662906+00:00, run_after=2023-07-17T17:01:14.662906+00:00
+[2023-07-17 10:01:14,673] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-07-17 10:01:46,534] {processor.py:153} INFO - Started process (PID=8889) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:01:46,535] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:01:46,536] {logging_mixin.py:115} INFO - [2023-07-17 10:01:46,536] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:01:46,539] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:01:46,551] {logging_mixin.py:115} INFO - [2023-07-17 10:01:46,551] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:01:46,563] {logging_mixin.py:115} INFO - [2023-07-17 10:01:46,563] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:01:46.562990+00:00, run_after=2023-07-17T17:01:46.562990+00:00
+[2023-07-17 10:01:46,573] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:02:19,249] {processor.py:153} INFO - Started process (PID=9054) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:02:19,249] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:02:19,250] {logging_mixin.py:115} INFO - [2023-07-17 10:02:19,250] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:02:19,253] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:02:19,265] {logging_mixin.py:115} INFO - [2023-07-17 10:02:19,265] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:02:19,276] {logging_mixin.py:115} INFO - [2023-07-17 10:02:19,276] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:02:19.276410+00:00, run_after=2023-07-17T17:02:19.276410+00:00
+[2023-07-17 10:02:19,286] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-07-17 10:02:53,182] {processor.py:153} INFO - Started process (PID=9280) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:02:53,183] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:02:53,184] {logging_mixin.py:115} INFO - [2023-07-17 10:02:53,184] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:02:53,191] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:02:53,210] {logging_mixin.py:115} INFO - [2023-07-17 10:02:53,210] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:02:53,232] {logging_mixin.py:115} INFO - [2023-07-17 10:02:53,232] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:02:53.231753+00:00, run_after=2023-07-17T17:02:53.231753+00:00
+[2023-07-17 10:02:53,247] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.068 seconds
+[2023-07-17 10:03:26,073] {processor.py:153} INFO - Started process (PID=9447) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:03:26,074] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:03:26,074] {logging_mixin.py:115} INFO - [2023-07-17 10:03:26,074] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:03:26,078] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:03:26,089] {logging_mixin.py:115} INFO - [2023-07-17 10:03:26,089] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:03:26,101] {logging_mixin.py:115} INFO - [2023-07-17 10:03:26,101] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:03:26.100822+00:00, run_after=2023-07-17T17:03:26.100822+00:00
+[2023-07-17 10:03:26,110] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-07-17 10:03:59,620] {processor.py:153} INFO - Started process (PID=9617) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:03:59,621] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:03:59,621] {logging_mixin.py:115} INFO - [2023-07-17 10:03:59,621] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:03:59,625] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:03:59,637] {logging_mixin.py:115} INFO - [2023-07-17 10:03:59,637] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:03:59,648] {logging_mixin.py:115} INFO - [2023-07-17 10:03:59,648] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:03:59.648661+00:00, run_after=2023-07-17T17:03:59.648661+00:00
+[2023-07-17 10:03:59,658] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:04:33,834] {processor.py:153} INFO - Started process (PID=9796) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:04:33,835] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:04:33,835] {logging_mixin.py:115} INFO - [2023-07-17 10:04:33,835] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:04:33,839] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:04:33,851] {logging_mixin.py:115} INFO - [2023-07-17 10:04:33,851] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:04:33,863] {logging_mixin.py:115} INFO - [2023-07-17 10:04:33,863] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:04:33.863247+00:00, run_after=2023-07-17T17:04:33.863247+00:00
+[2023-07-17 10:04:33,873] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:05:08,946] {processor.py:153} INFO - Started process (PID=9974) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:05:08,947] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:05:08,947] {logging_mixin.py:115} INFO - [2023-07-17 10:05:08,947] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:05:08,951] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:05:08,962] {logging_mixin.py:115} INFO - [2023-07-17 10:05:08,962] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:05:08,974] {logging_mixin.py:115} INFO - [2023-07-17 10:05:08,974] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:05:08.973850+00:00, run_after=2023-07-17T17:05:08.973850+00:00
+[2023-07-17 10:05:08,984] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-07-17 10:05:40,752] {processor.py:153} INFO - Started process (PID=10143) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:05:40,753] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:05:40,753] {logging_mixin.py:115} INFO - [2023-07-17 10:05:40,753] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:05:40,757] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:05:40,768] {logging_mixin.py:115} INFO - [2023-07-17 10:05:40,768] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:05:40,780] {logging_mixin.py:115} INFO - [2023-07-17 10:05:40,780] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:05:40.779979+00:00, run_after=2023-07-17T17:05:40.779979+00:00
+[2023-07-17 10:05:40,789] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-07-17 10:06:18,257] {processor.py:153} INFO - Started process (PID=10334) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:06:18,257] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:06:18,258] {logging_mixin.py:115} INFO - [2023-07-17 10:06:18,258] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:06:18,262] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:06:18,273] {logging_mixin.py:115} INFO - [2023-07-17 10:06:18,273] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:06:18,285] {logging_mixin.py:115} INFO - [2023-07-17 10:06:18,285] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:06:18.284875+00:00, run_after=2023-07-17T17:06:18.284875+00:00
+[2023-07-17 10:06:18,294] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-07-17 10:06:53,012] {processor.py:153} INFO - Started process (PID=10512) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:06:53,013] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:06:53,013] {logging_mixin.py:115} INFO - [2023-07-17 10:06:53,013] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:06:53,017] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:06:53,029] {logging_mixin.py:115} INFO - [2023-07-17 10:06:53,029] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:06:53,040] {logging_mixin.py:115} INFO - [2023-07-17 10:06:53,040] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:06:53.040683+00:00, run_after=2023-07-17T17:06:53.040683+00:00
+[2023-07-17 10:06:53,050] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-07-17 10:07:28,966] {processor.py:153} INFO - Started process (PID=10693) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:07:28,967] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:07:28,967] {logging_mixin.py:115} INFO - [2023-07-17 10:07:28,967] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:07:28,971] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:07:28,982] {logging_mixin.py:115} INFO - [2023-07-17 10:07:28,982] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:07:28,994] {logging_mixin.py:115} INFO - [2023-07-17 10:07:28,994] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:07:28.994063+00:00, run_after=2023-07-17T17:07:28.994063+00:00
+[2023-07-17 10:07:29,007] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.043 seconds
+[2023-07-17 10:08:01,358] {processor.py:153} INFO - Started process (PID=10924) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:08:01,359] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:08:01,359] {logging_mixin.py:115} INFO - [2023-07-17 10:08:01,359] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:08:01,363] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:08:01,374] {logging_mixin.py:115} INFO - [2023-07-17 10:08:01,374] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:08:01,386] {logging_mixin.py:115} INFO - [2023-07-17 10:08:01,386] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:08:01.386338+00:00, run_after=2023-07-17T17:08:01.386338+00:00
+[2023-07-17 10:08:01,396] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-07-17 10:08:35,123] {processor.py:153} INFO - Started process (PID=11091) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:08:35,124] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:08:35,125] {logging_mixin.py:115} INFO - [2023-07-17 10:08:35,125] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:08:35,128] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:08:35,140] {logging_mixin.py:115} INFO - [2023-07-17 10:08:35,140] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:08:35,152] {logging_mixin.py:115} INFO - [2023-07-17 10:08:35,152] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:08:35.151923+00:00, run_after=2023-07-17T17:08:35.151923+00:00
+[2023-07-17 10:08:35,161] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-07-17 10:09:07,511] {processor.py:153} INFO - Started process (PID=11254) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:09:07,512] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:09:07,512] {logging_mixin.py:115} INFO - [2023-07-17 10:09:07,512] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:09:07,516] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:09:07,527] {logging_mixin.py:115} INFO - [2023-07-17 10:09:07,527] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:09:07,539] {logging_mixin.py:115} INFO - [2023-07-17 10:09:07,538] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:09:07.538776+00:00, run_after=2023-07-17T17:09:07.538776+00:00
+[2023-07-17 10:09:07,548] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.039 seconds
+[2023-07-17 10:09:41,270] {processor.py:153} INFO - Started process (PID=11486) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:09:41,270] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:09:41,271] {logging_mixin.py:115} INFO - [2023-07-17 10:09:41,271] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:09:41,277] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:09:41,292] {logging_mixin.py:115} INFO - [2023-07-17 10:09:41,291] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:09:41,309] {logging_mixin.py:115} INFO - [2023-07-17 10:09:41,309] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:09:41.309306+00:00, run_after=2023-07-17T17:09:41.309306+00:00
+[2023-07-17 10:09:41,322] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.055 seconds
+[2023-07-17 10:10:13,396] {processor.py:153} INFO - Started process (PID=11648) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:10:13,397] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:10:13,398] {logging_mixin.py:115} INFO - [2023-07-17 10:10:13,398] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:10:13,402] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:10:13,415] {logging_mixin.py:115} INFO - [2023-07-17 10:10:13,415] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:10:13,430] {logging_mixin.py:115} INFO - [2023-07-17 10:10:13,430] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:10:13.430504+00:00, run_after=2023-07-17T17:10:13.430504+00:00
+[2023-07-17 10:10:13,440] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2023-07-17 10:10:47,643] {processor.py:153} INFO - Started process (PID=11836) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:10:47,644] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:10:47,644] {logging_mixin.py:115} INFO - [2023-07-17 10:10:47,644] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:10:47,649] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:10:47,662] {logging_mixin.py:115} INFO - [2023-07-17 10:10:47,662] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:10:47,675] {logging_mixin.py:115} INFO - [2023-07-17 10:10:47,675] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:10:47.675443+00:00, run_after=2023-07-17T17:10:47.675443+00:00
+[2023-07-17 10:10:47,685] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2023-07-17 10:11:22,438] {processor.py:153} INFO - Started process (PID=12258) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:11:22,439] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:11:22,439] {logging_mixin.py:115} INFO - [2023-07-17 10:11:22,439] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:11:22,443] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:11:22,455] {logging_mixin.py:115} INFO - [2023-07-17 10:11:22,455] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:11:22,467] {logging_mixin.py:115} INFO - [2023-07-17 10:11:22,467] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:11:22.467327+00:00, run_after=2023-07-17T17:11:22.467327+00:00
+[2023-07-17 10:11:22,477] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-07-17 10:11:54,378] {processor.py:153} INFO - Started process (PID=14395) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:11:54,379] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:11:54,380] {logging_mixin.py:115} INFO - [2023-07-17 10:11:54,379] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:11:54,384] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:11:54,405] {logging_mixin.py:115} INFO - [2023-07-17 10:11:54,405] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:11:54,427] {logging_mixin.py:115} INFO - [2023-07-17 10:11:54,427] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:11:54.427070+00:00, run_after=2023-07-17T17:11:54.427070+00:00
+[2023-07-17 10:11:54,439] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2023-07-17 10:12:28,119] {processor.py:153} INFO - Started process (PID=14596) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:12:28,120] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:12:28,120] {logging_mixin.py:115} INFO - [2023-07-17 10:12:28,120] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:12:28,126] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:12:28,140] {logging_mixin.py:115} INFO - [2023-07-17 10:12:28,140] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:12:28,155] {logging_mixin.py:115} INFO - [2023-07-17 10:12:28,155] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:12:28.155203+00:00, run_after=2023-07-17T17:12:28.155203+00:00
+[2023-07-17 10:12:28,164] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2023-07-17 10:13:00,014] {processor.py:153} INFO - Started process (PID=14821) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:13:00,015] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:13:00,016] {logging_mixin.py:115} INFO - [2023-07-17 10:13:00,016] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:13:00,021] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:13:00,042] {logging_mixin.py:115} INFO - [2023-07-17 10:13:00,042] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:13:00,058] {logging_mixin.py:115} INFO - [2023-07-17 10:13:00,058] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:13:00.057961+00:00, run_after=2023-07-17T17:13:00.057961+00:00
+[2023-07-17 10:13:00,078] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.067 seconds
+[2023-07-17 10:13:33,706] {processor.py:153} INFO - Started process (PID=15092) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:13:33,709] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:13:33,709] {logging_mixin.py:115} INFO - [2023-07-17 10:13:33,709] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:13:33,716] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:13:33,734] {logging_mixin.py:115} INFO - [2023-07-17 10:13:33,733] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:13:33,760] {logging_mixin.py:115} INFO - [2023-07-17 10:13:33,760] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:13:33.760163+00:00, run_after=2023-07-17T17:13:33.760163+00:00
+[2023-07-17 10:13:33,784] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2023-07-17 10:14:09,478] {processor.py:153} INFO - Started process (PID=15343) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:14:09,479] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:14:09,479] {logging_mixin.py:115} INFO - [2023-07-17 10:14:09,479] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:14:09,484] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:14:09,498] {logging_mixin.py:115} INFO - [2023-07-17 10:14:09,498] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:14:09,514] {logging_mixin.py:115} INFO - [2023-07-17 10:14:09,514] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:14:09.514145+00:00, run_after=2023-07-17T17:14:09.514145+00:00
+[2023-07-17 10:14:09,528] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2023-07-17 10:14:43,074] {processor.py:153} INFO - Started process (PID=15530) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:14:43,076] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:14:43,076] {logging_mixin.py:115} INFO - [2023-07-17 10:14:43,076] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:14:43,082] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:14:43,098] {logging_mixin.py:115} INFO - [2023-07-17 10:14:43,098] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:14:43,114] {logging_mixin.py:115} INFO - [2023-07-17 10:14:43,114] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:14:43.114616+00:00, run_after=2023-07-17T17:14:43.114616+00:00
+[2023-07-17 10:14:43,126] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2023-07-17 10:15:17,029] {processor.py:153} INFO - Started process (PID=15708) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:15:17,033] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:15:17,033] {logging_mixin.py:115} INFO - [2023-07-17 10:15:17,033] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:15:17,040] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:15:17,096] {logging_mixin.py:115} INFO - [2023-07-17 10:15:17,096] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:15:17,161] {logging_mixin.py:115} INFO - [2023-07-17 10:15:17,161] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:15:17.159968+00:00, run_after=2023-07-17T17:15:17.159968+00:00
+[2023-07-17 10:15:17,190] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.169 seconds
+[2023-07-17 10:15:52,714] {processor.py:153} INFO - Started process (PID=15980) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:15:52,715] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:15:52,716] {logging_mixin.py:115} INFO - [2023-07-17 10:15:52,716] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:15:52,719] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:15:52,731] {logging_mixin.py:115} INFO - [2023-07-17 10:15:52,731] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:15:52,744] {logging_mixin.py:115} INFO - [2023-07-17 10:15:52,744] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:15:52.743813+00:00, run_after=2023-07-17T17:15:52.743813+00:00
+[2023-07-17 10:15:52,753] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:16:25,804] {processor.py:153} INFO - Started process (PID=16213) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:16:25,805] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:16:25,806] {logging_mixin.py:115} INFO - [2023-07-17 10:16:25,806] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:16:25,810] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:16:25,831] {logging_mixin.py:115} INFO - [2023-07-17 10:16:25,831] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:16:25,854] {logging_mixin.py:115} INFO - [2023-07-17 10:16:25,854] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:16:25.853911+00:00, run_after=2023-07-17T17:16:25.853911+00:00
+[2023-07-17 10:16:25,881] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2023-07-17 10:17:02,035] {processor.py:153} INFO - Started process (PID=16503) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:17:02,041] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:17:02,041] {logging_mixin.py:115} INFO - [2023-07-17 10:17:02,041] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:17:02,052] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:17:02,078] {logging_mixin.py:115} INFO - [2023-07-17 10:17:02,078] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:17:02,109] {logging_mixin.py:115} INFO - [2023-07-17 10:17:02,109] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:17:02.108832+00:00, run_after=2023-07-17T17:17:02.108832+00:00
+[2023-07-17 10:17:02,125] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.092 seconds
+[2023-07-17 10:17:39,015] {processor.py:153} INFO - Started process (PID=16937) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:17:39,019] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:17:39,020] {logging_mixin.py:115} INFO - [2023-07-17 10:17:39,020] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:17:39,039] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:17:39,081] {logging_mixin.py:115} INFO - [2023-07-17 10:17:39,080] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:17:39,105] {logging_mixin.py:115} INFO - [2023-07-17 10:17:39,105] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:17:39.105076+00:00, run_after=2023-07-17T17:17:39.105076+00:00
+[2023-07-17 10:17:39,233] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.237 seconds
+[2023-07-17 10:18:19,417] {processor.py:153} INFO - Started process (PID=17225) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:18:19,421] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:18:19,421] {logging_mixin.py:115} INFO - [2023-07-17 10:18:19,421] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:18:19,425] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:18:19,441] {logging_mixin.py:115} INFO - [2023-07-17 10:18:19,441] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:18:19,458] {logging_mixin.py:115} INFO - [2023-07-17 10:18:19,458] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:18:19.457651+00:00, run_after=2023-07-17T17:18:19.457651+00:00
+[2023-07-17 10:18:19,473] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.058 seconds
+[2023-07-17 10:18:56,692] {processor.py:153} INFO - Started process (PID=17513) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:18:56,693] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:18:56,694] {logging_mixin.py:115} INFO - [2023-07-17 10:18:56,694] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:18:56,700] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:18:56,715] {logging_mixin.py:115} INFO - [2023-07-17 10:18:56,715] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:18:56,736] {logging_mixin.py:115} INFO - [2023-07-17 10:18:56,736] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:18:56.736039+00:00, run_after=2023-07-17T17:18:56.736039+00:00
+[2023-07-17 10:18:56,747] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.058 seconds
+[2023-07-17 10:19:30,270] {processor.py:153} INFO - Started process (PID=17694) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:19:30,271] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:19:30,271] {logging_mixin.py:115} INFO - [2023-07-17 10:19:30,271] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:19:30,275] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:19:30,292] {logging_mixin.py:115} INFO - [2023-07-17 10:19:30,292] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:19:30,309] {logging_mixin.py:115} INFO - [2023-07-17 10:19:30,308] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:19:30.308571+00:00, run_after=2023-07-17T17:19:30.308571+00:00
+[2023-07-17 10:19:30,321] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2023-07-17 10:20:04,446] {processor.py:153} INFO - Started process (PID=17867) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:20:04,447] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:20:04,448] {logging_mixin.py:115} INFO - [2023-07-17 10:20:04,448] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:20:04,455] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:20:04,474] {logging_mixin.py:115} INFO - [2023-07-17 10:20:04,473] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:20:04,491] {logging_mixin.py:115} INFO - [2023-07-17 10:20:04,491] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:20:04.490928+00:00, run_after=2023-07-17T17:20:04.490928+00:00
+[2023-07-17 10:20:04,508] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.064 seconds
+[2023-07-17 10:20:39,369] {processor.py:153} INFO - Started process (PID=18043) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:20:39,370] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:20:39,371] {logging_mixin.py:115} INFO - [2023-07-17 10:20:39,371] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:20:39,374] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:20:39,390] {logging_mixin.py:115} INFO - [2023-07-17 10:20:39,390] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:20:39,406] {logging_mixin.py:115} INFO - [2023-07-17 10:20:39,406] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:20:39.405643+00:00, run_after=2023-07-17T17:20:39.405643+00:00
+[2023-07-17 10:20:39,419] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2023-07-17 10:21:11,331] {processor.py:153} INFO - Started process (PID=18206) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:21:11,332] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:21:11,332] {logging_mixin.py:115} INFO - [2023-07-17 10:21:11,332] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:21:11,338] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:21:11,354] {logging_mixin.py:115} INFO - [2023-07-17 10:21:11,353] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:21:11,371] {logging_mixin.py:115} INFO - [2023-07-17 10:21:11,370] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:21:11.370290+00:00, run_after=2023-07-17T17:21:11.370290+00:00
+[2023-07-17 10:21:11,383] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2023-07-17 10:21:44,702] {processor.py:153} INFO - Started process (PID=19041) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:21:44,704] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:21:44,704] {logging_mixin.py:115} INFO - [2023-07-17 10:21:44,704] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:21:44,711] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:21:44,733] {logging_mixin.py:115} INFO - [2023-07-17 10:21:44,733] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:21:44,754] {logging_mixin.py:115} INFO - [2023-07-17 10:21:44,754] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:21:44.754074+00:00, run_after=2023-07-17T17:21:44.754074+00:00
+[2023-07-17 10:21:44,768] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.069 seconds
+[2023-07-17 10:22:20,075] {processor.py:153} INFO - Started process (PID=19221) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:22:20,076] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:22:20,077] {logging_mixin.py:115} INFO - [2023-07-17 10:22:20,077] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:22:20,082] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:22:20,098] {logging_mixin.py:115} INFO - [2023-07-17 10:22:20,098] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:22:20,114] {logging_mixin.py:115} INFO - [2023-07-17 10:22:20,114] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:22:20.113666+00:00, run_after=2023-07-17T17:22:20.113666+00:00
+[2023-07-17 10:22:20,126] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2023-07-17 10:22:54,505] {processor.py:153} INFO - Started process (PID=19461) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:22:54,506] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:22:54,507] {logging_mixin.py:115} INFO - [2023-07-17 10:22:54,506] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:22:54,510] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:22:54,523] {logging_mixin.py:115} INFO - [2023-07-17 10:22:54,523] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:22:54,536] {logging_mixin.py:115} INFO - [2023-07-17 10:22:54,536] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:22:54.536561+00:00, run_after=2023-07-17T17:22:54.536561+00:00
+[2023-07-17 10:22:54,546] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.043 seconds
+[2023-07-17 10:23:28,993] {processor.py:153} INFO - Started process (PID=19640) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:23:28,994] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:23:28,995] {logging_mixin.py:115} INFO - [2023-07-17 10:23:28,995] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:23:28,999] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:23:29,011] {logging_mixin.py:115} INFO - [2023-07-17 10:23:29,011] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:23:29,024] {logging_mixin.py:115} INFO - [2023-07-17 10:23:29,024] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:23:29.023917+00:00, run_after=2023-07-17T17:23:29.023917+00:00
+[2023-07-17 10:23:29,033] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-07-17 10:24:02,642] {processor.py:153} INFO - Started process (PID=19813) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:24:02,643] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:24:02,643] {logging_mixin.py:115} INFO - [2023-07-17 10:24:02,643] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:24:02,647] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:24:02,660] {logging_mixin.py:115} INFO - [2023-07-17 10:24:02,660] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:24:02,672] {logging_mixin.py:115} INFO - [2023-07-17 10:24:02,672] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:24:02.672068+00:00, run_after=2023-07-17T17:24:02.672068+00:00
+[2023-07-17 10:24:02,682] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-07-17 10:24:35,702] {processor.py:153} INFO - Started process (PID=19981) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:24:35,703] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:24:35,704] {logging_mixin.py:115} INFO - [2023-07-17 10:24:35,704] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:24:35,708] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:24:35,720] {logging_mixin.py:115} INFO - [2023-07-17 10:24:35,719] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:24:35,731] {logging_mixin.py:115} INFO - [2023-07-17 10:24:35,731] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:24:35.731546+00:00, run_after=2023-07-17T17:24:35.731546+00:00
+[2023-07-17 10:24:35,741] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:25:10,517] {processor.py:153} INFO - Started process (PID=20159) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:25:10,518] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:25:10,518] {logging_mixin.py:115} INFO - [2023-07-17 10:25:10,518] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:25:10,522] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:25:10,536] {logging_mixin.py:115} INFO - [2023-07-17 10:25:10,536] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:25:10,551] {logging_mixin.py:115} INFO - [2023-07-17 10:25:10,551] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:25:10.550860+00:00, run_after=2023-07-17T17:25:10.550860+00:00
+[2023-07-17 10:25:10,562] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2023-07-17 10:25:42,456] {processor.py:153} INFO - Started process (PID=20319) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:25:42,457] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:25:42,457] {logging_mixin.py:115} INFO - [2023-07-17 10:25:42,457] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:25:42,461] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:25:42,473] {logging_mixin.py:115} INFO - [2023-07-17 10:25:42,473] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:25:42,485] {logging_mixin.py:115} INFO - [2023-07-17 10:25:42,485] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:25:42.485231+00:00, run_after=2023-07-17T17:25:42.485231+00:00
+[2023-07-17 10:25:42,494] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-07-17 10:26:19,138] {processor.py:153} INFO - Started process (PID=20508) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:26:19,139] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:26:19,139] {logging_mixin.py:115} INFO - [2023-07-17 10:26:19,139] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:26:19,143] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:26:19,157] {logging_mixin.py:115} INFO - [2023-07-17 10:26:19,157] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:26:19,171] {logging_mixin.py:115} INFO - [2023-07-17 10:26:19,170] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:26:19.170753+00:00, run_after=2023-07-17T17:26:19.170753+00:00
+[2023-07-17 10:26:19,181] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2023-07-17 10:26:53,156] {processor.py:153} INFO - Started process (PID=20681) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:26:53,157] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:26:53,158] {logging_mixin.py:115} INFO - [2023-07-17 10:26:53,157] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:26:53,162] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:26:53,173] {logging_mixin.py:115} INFO - [2023-07-17 10:26:53,173] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:26:53,186] {logging_mixin.py:115} INFO - [2023-07-17 10:26:53,185] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:26:53.185761+00:00, run_after=2023-07-17T17:26:53.185761+00:00
+[2023-07-17 10:26:53,195] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:27:26,869] {processor.py:153} INFO - Started process (PID=20865) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:27:26,870] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:27:26,870] {logging_mixin.py:115} INFO - [2023-07-17 10:27:26,870] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:27:26,874] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:27:26,888] {logging_mixin.py:115} INFO - [2023-07-17 10:27:26,888] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:27:26,901] {logging_mixin.py:115} INFO - [2023-07-17 10:27:26,900] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:27:26.900777+00:00, run_after=2023-07-17T17:27:26.900777+00:00
+[2023-07-17 10:27:26,911] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2023-07-17 10:27:58,825] {processor.py:153} INFO - Started process (PID=21085) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:27:58,825] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:27:58,826] {logging_mixin.py:115} INFO - [2023-07-17 10:27:58,826] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:27:58,830] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:27:58,841] {logging_mixin.py:115} INFO - [2023-07-17 10:27:58,841] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:27:58,853] {logging_mixin.py:115} INFO - [2023-07-17 10:27:58,853] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:27:58.852975+00:00, run_after=2023-07-17T17:27:58.852975+00:00
+[2023-07-17 10:27:58,863] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:28:33,618] {processor.py:153} INFO - Started process (PID=21267) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:28:33,619] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:28:33,620] {logging_mixin.py:115} INFO - [2023-07-17 10:28:33,620] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:28:33,624] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:28:33,636] {logging_mixin.py:115} INFO - [2023-07-17 10:28:33,636] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:28:33,649] {logging_mixin.py:115} INFO - [2023-07-17 10:28:33,649] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:28:33.648800+00:00, run_after=2023-07-17T17:28:33.648800+00:00
+[2023-07-17 10:28:33,658] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-07-17 10:29:06,658] {processor.py:153} INFO - Started process (PID=21435) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:29:06,659] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:29:06,660] {logging_mixin.py:115} INFO - [2023-07-17 10:29:06,659] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:29:06,664] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:29:06,676] {logging_mixin.py:115} INFO - [2023-07-17 10:29:06,676] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:29:06,688] {logging_mixin.py:115} INFO - [2023-07-17 10:29:06,688] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:29:06.688567+00:00, run_after=2023-07-17T17:29:06.688567+00:00
+[2023-07-17 10:29:06,698] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-07-17 10:29:40,347] {processor.py:153} INFO - Started process (PID=21618) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:29:40,348] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:29:40,348] {logging_mixin.py:115} INFO - [2023-07-17 10:29:40,348] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:29:40,352] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:29:40,364] {logging_mixin.py:115} INFO - [2023-07-17 10:29:40,364] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:29:40,378] {logging_mixin.py:115} INFO - [2023-07-17 10:29:40,378] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:29:40.377877+00:00, run_after=2023-07-17T17:29:40.377877+00:00
+[2023-07-17 10:29:40,388] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.043 seconds
+[2023-07-17 10:30:15,819] {processor.py:153} INFO - Started process (PID=21869) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:30:15,820] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:30:15,821] {logging_mixin.py:115} INFO - [2023-07-17 10:30:15,821] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:30:15,825] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:30:15,842] {logging_mixin.py:115} INFO - [2023-07-17 10:30:15,842] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:30:15,860] {logging_mixin.py:115} INFO - [2023-07-17 10:30:15,859] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:30:15.859631+00:00, run_after=2023-07-17T17:30:15.859631+00:00
+[2023-07-17 10:30:15,875] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.059 seconds
+[2023-07-17 10:30:49,216] {processor.py:153} INFO - Started process (PID=22056) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:30:49,216] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:30:49,217] {logging_mixin.py:115} INFO - [2023-07-17 10:30:49,217] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:30:49,221] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:30:49,233] {logging_mixin.py:115} INFO - [2023-07-17 10:30:49,233] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:30:49,244] {logging_mixin.py:115} INFO - [2023-07-17 10:30:49,244] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:30:49.244417+00:00, run_after=2023-07-17T17:30:49.244417+00:00
+[2023-07-17 10:30:49,254] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:31:22,994] {processor.py:153} INFO - Started process (PID=22224) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:31:22,995] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:31:22,995] {logging_mixin.py:115} INFO - [2023-07-17 10:31:22,995] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:31:22,999] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:31:23,011] {logging_mixin.py:115} INFO - [2023-07-17 10:31:23,011] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:31:23,024] {logging_mixin.py:115} INFO - [2023-07-17 10:31:23,024] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:31:23.023832+00:00, run_after=2023-07-17T17:31:23.023832+00:00
+[2023-07-17 10:31:23,033] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:31:57,890] {processor.py:153} INFO - Started process (PID=22488) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:31:57,891] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:31:57,891] {logging_mixin.py:115} INFO - [2023-07-17 10:31:57,891] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:31:57,895] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:31:57,907] {logging_mixin.py:115} INFO - [2023-07-17 10:31:57,907] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:31:57,920] {logging_mixin.py:115} INFO - [2023-07-17 10:31:57,920] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:31:57.919765+00:00, run_after=2023-07-17T17:31:57.919765+00:00
+[2023-07-17 10:31:57,929] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:32:29,827] {processor.py:153} INFO - Started process (PID=22651) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:32:29,828] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:32:29,828] {logging_mixin.py:115} INFO - [2023-07-17 10:32:29,828] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:32:29,832] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:32:29,845] {logging_mixin.py:115} INFO - [2023-07-17 10:32:29,845] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:32:29,858] {logging_mixin.py:115} INFO - [2023-07-17 10:32:29,858] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:32:29.858188+00:00, run_after=2023-07-17T17:32:29.858188+00:00
+[2023-07-17 10:32:29,868] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.043 seconds
+[2023-07-17 10:33:04,522] {processor.py:153} INFO - Started process (PID=23003) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:33:04,522] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:33:04,523] {logging_mixin.py:115} INFO - [2023-07-17 10:33:04,523] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:33:04,527] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:33:04,539] {logging_mixin.py:115} INFO - [2023-07-17 10:33:04,539] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:33:04,552] {logging_mixin.py:115} INFO - [2023-07-17 10:33:04,552] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:33:04.552099+00:00, run_after=2023-07-17T17:33:04.552099+00:00
+[2023-07-17 10:33:04,562] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.043 seconds
+[2023-07-17 10:33:37,075] {processor.py:153} INFO - Started process (PID=23180) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:33:37,076] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:33:37,076] {logging_mixin.py:115} INFO - [2023-07-17 10:33:37,076] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:33:37,080] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:33:37,093] {logging_mixin.py:115} INFO - [2023-07-17 10:33:37,093] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:33:37,105] {logging_mixin.py:115} INFO - [2023-07-17 10:33:37,105] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:33:37.105113+00:00, run_after=2023-07-17T17:33:37.105113+00:00
+[2023-07-17 10:33:37,115] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-07-17 10:34:11,772] {processor.py:153} INFO - Started process (PID=23354) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:34:11,773] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:34:11,773] {logging_mixin.py:115} INFO - [2023-07-17 10:34:11,773] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:34:11,777] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:34:11,789] {logging_mixin.py:115} INFO - [2023-07-17 10:34:11,789] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:34:11,801] {logging_mixin.py:115} INFO - [2023-07-17 10:34:11,801] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:34:11.801119+00:00, run_after=2023-07-17T17:34:11.801119+00:00
+[2023-07-17 10:34:11,811] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-07-17 10:34:43,712] {processor.py:153} INFO - Started process (PID=23517) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:34:43,712] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:34:43,713] {logging_mixin.py:115} INFO - [2023-07-17 10:34:43,713] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:34:43,716] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:34:43,729] {logging_mixin.py:115} INFO - [2023-07-17 10:34:43,729] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:34:43,741] {logging_mixin.py:115} INFO - [2023-07-17 10:34:43,741] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:34:43.741516+00:00, run_after=2023-07-17T17:34:43.741516+00:00
+[2023-07-17 10:34:43,751] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-07-17 10:35:19,687] {processor.py:153} INFO - Started process (PID=23753) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:35:19,688] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:35:19,688] {logging_mixin.py:115} INFO - [2023-07-17 10:35:19,688] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:35:19,693] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:35:19,705] {logging_mixin.py:115} INFO - [2023-07-17 10:35:19,705] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:35:19,717] {logging_mixin.py:115} INFO - [2023-07-17 10:35:19,717] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:35:19.717613+00:00, run_after=2023-07-17T17:35:19.717613+00:00
+[2023-07-17 10:35:19,730] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.046 seconds
+[2023-07-17 10:35:52,789] {processor.py:153} INFO - Started process (PID=23926) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:35:52,790] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:35:52,790] {logging_mixin.py:115} INFO - [2023-07-17 10:35:52,790] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:35:52,794] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:35:52,807] {logging_mixin.py:115} INFO - [2023-07-17 10:35:52,807] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:35:52,821] {logging_mixin.py:115} INFO - [2023-07-17 10:35:52,821] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:35:52.821565+00:00, run_after=2023-07-17T17:35:52.821565+00:00
+[2023-07-17 10:35:52,831] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2023-07-17 10:36:25,574] {processor.py:153} INFO - Started process (PID=24094) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:36:25,575] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:36:25,575] {logging_mixin.py:115} INFO - [2023-07-17 10:36:25,575] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:36:25,579] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:36:25,592] {logging_mixin.py:115} INFO - [2023-07-17 10:36:25,592] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:36:25,605] {logging_mixin.py:115} INFO - [2023-07-17 10:36:25,605] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:36:25.605074+00:00, run_after=2023-07-17T17:36:25.605074+00:00
+[2023-07-17 10:36:25,615] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2023-07-17 10:37:00,626] {processor.py:153} INFO - Started process (PID=24291) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:37:00,627] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:37:00,627] {logging_mixin.py:115} INFO - [2023-07-17 10:37:00,627] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:37:00,631] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:37:00,644] {logging_mixin.py:115} INFO - [2023-07-17 10:37:00,644] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:37:00,658] {logging_mixin.py:115} INFO - [2023-07-17 10:37:00,658] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:37:00.657993+00:00, run_after=2023-07-17T17:37:00.657993+00:00
+[2023-07-17 10:37:00,668] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2023-07-17 10:37:34,224] {processor.py:153} INFO - Started process (PID=24640) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:37:34,225] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:37:34,225] {logging_mixin.py:115} INFO - [2023-07-17 10:37:34,225] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:37:34,229] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:37:34,241] {logging_mixin.py:115} INFO - [2023-07-17 10:37:34,241] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:37:34,254] {logging_mixin.py:115} INFO - [2023-07-17 10:37:34,254] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:37:34.253259+00:00, run_after=2023-07-17T17:37:34.253259+00:00
+[2023-07-17 10:37:34,263] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:38:11,405] {processor.py:153} INFO - Started process (PID=24899) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:38:11,407] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:38:11,407] {logging_mixin.py:115} INFO - [2023-07-17 10:38:11,407] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:38:11,411] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:38:11,424] {logging_mixin.py:115} INFO - [2023-07-17 10:38:11,423] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:38:11,437] {logging_mixin.py:115} INFO - [2023-07-17 10:38:11,436] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:38:11.436008+00:00, run_after=2023-07-17T17:38:11.436008+00:00
+[2023-07-17 10:38:11,446] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.043 seconds
+[2023-07-17 10:38:44,454] {processor.py:153} INFO - Started process (PID=25124) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:38:44,455] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:38:44,456] {logging_mixin.py:115} INFO - [2023-07-17 10:38:44,456] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:38:44,460] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:38:44,476] {logging_mixin.py:115} INFO - [2023-07-17 10:38:44,476] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:38:44,491] {logging_mixin.py:115} INFO - [2023-07-17 10:38:44,491] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:38:44.489858+00:00, run_after=2023-07-17T17:38:44.489858+00:00
+[2023-07-17 10:38:44,503] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2023-07-17 10:39:19,369] {processor.py:153} INFO - Started process (PID=25339) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:39:19,370] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:39:19,370] {logging_mixin.py:115} INFO - [2023-07-17 10:39:19,370] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:39:19,374] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:39:19,390] {logging_mixin.py:115} INFO - [2023-07-17 10:39:19,390] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:39:19,408] {logging_mixin.py:115} INFO - [2023-07-17 10:39:19,407] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:39:19.406824+00:00, run_after=2023-07-17T17:39:19.406824+00:00
+[2023-07-17 10:39:19,423] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2023-07-17 10:39:54,554] {processor.py:153} INFO - Started process (PID=25521) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:39:54,555] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:39:54,555] {logging_mixin.py:115} INFO - [2023-07-17 10:39:54,555] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:39:54,562] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:39:54,578] {logging_mixin.py:115} INFO - [2023-07-17 10:39:54,578] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:39:54,597] {logging_mixin.py:115} INFO - [2023-07-17 10:39:54,597] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:39:54.595888+00:00, run_after=2023-07-17T17:39:54.595888+00:00
+[2023-07-17 10:39:54,611] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.060 seconds
+[2023-07-17 10:40:32,666] {processor.py:153} INFO - Started process (PID=25717) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:40:32,666] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:40:32,667] {logging_mixin.py:115} INFO - [2023-07-17 10:40:32,667] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:40:32,671] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:40:32,685] {logging_mixin.py:115} INFO - [2023-07-17 10:40:32,685] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:40:32,699] {logging_mixin.py:115} INFO - [2023-07-17 10:40:32,699] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:40:32.698812+00:00, run_after=2023-07-17T17:40:32.698812+00:00
+[2023-07-17 10:40:32,711] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2023-07-17 10:41:05,397] {processor.py:153} INFO - Started process (PID=25916) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:41:05,398] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:41:05,398] {logging_mixin.py:115} INFO - [2023-07-17 10:41:05,398] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:41:05,404] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:41:05,421] {logging_mixin.py:115} INFO - [2023-07-17 10:41:05,421] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:41:05,440] {logging_mixin.py:115} INFO - [2023-07-17 10:41:05,440] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:41:05.439638+00:00, run_after=2023-07-17T17:41:05.439638+00:00
+[2023-07-17 10:41:05,450] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2023-07-17 10:41:40,519] {processor.py:153} INFO - Started process (PID=26096) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:41:40,520] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:41:40,521] {logging_mixin.py:115} INFO - [2023-07-17 10:41:40,521] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:41:40,527] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:41:40,543] {logging_mixin.py:115} INFO - [2023-07-17 10:41:40,543] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:41:40,559] {logging_mixin.py:115} INFO - [2023-07-17 10:41:40,559] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:41:40.558270+00:00, run_after=2023-07-17T17:41:40.558270+00:00
+[2023-07-17 10:41:40,571] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2023-07-17 10:42:14,659] {processor.py:153} INFO - Started process (PID=26271) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:42:14,660] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:42:14,660] {logging_mixin.py:115} INFO - [2023-07-17 10:42:14,660] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:42:14,665] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:42:14,682] {logging_mixin.py:115} INFO - [2023-07-17 10:42:14,681] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:42:14,702] {logging_mixin.py:115} INFO - [2023-07-17 10:42:14,702] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:42:14.700506+00:00, run_after=2023-07-17T17:42:14.700506+00:00
+[2023-07-17 10:42:14,713] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2023-07-17 10:42:47,840] {processor.py:153} INFO - Started process (PID=26507) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:42:47,841] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:42:47,842] {logging_mixin.py:115} INFO - [2023-07-17 10:42:47,842] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:42:47,847] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:42:47,863] {logging_mixin.py:115} INFO - [2023-07-17 10:42:47,862] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:42:47,879] {logging_mixin.py:115} INFO - [2023-07-17 10:42:47,879] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:42:47.878884+00:00, run_after=2023-07-17T17:42:47.878884+00:00
+[2023-07-17 10:42:47,891] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2023-07-17 10:43:19,040] {processor.py:153} INFO - Started process (PID=26775) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:43:19,043] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:43:19,044] {logging_mixin.py:115} INFO - [2023-07-17 10:43:19,044] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:43:19,057] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:43:19,077] {logging_mixin.py:115} INFO - [2023-07-17 10:43:19,077] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:43:19,106] {logging_mixin.py:115} INFO - [2023-07-17 10:43:19,106] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:43:19.105984+00:00, run_after=2023-07-17T17:43:19.105984+00:00
+[2023-07-17 10:43:19,126] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.089 seconds
+[2023-07-17 10:43:51,003] {processor.py:153} INFO - Started process (PID=26962) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:43:51,004] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:43:51,005] {logging_mixin.py:115} INFO - [2023-07-17 10:43:51,004] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:43:51,008] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:43:51,020] {logging_mixin.py:115} INFO - [2023-07-17 10:43:51,020] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:43:51,032] {logging_mixin.py:115} INFO - [2023-07-17 10:43:51,032] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:43:51.032642+00:00, run_after=2023-07-17T17:43:51.032642+00:00
+[2023-07-17 10:43:51,042] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-07-17 10:44:24,068] {processor.py:153} INFO - Started process (PID=27185) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:44:24,069] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:44:24,070] {logging_mixin.py:115} INFO - [2023-07-17 10:44:24,070] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:44:24,075] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:44:24,091] {logging_mixin.py:115} INFO - [2023-07-17 10:44:24,091] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:44:24,107] {logging_mixin.py:115} INFO - [2023-07-17 10:44:24,107] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:44:24.107678+00:00, run_after=2023-07-17T17:44:24.107678+00:00
+[2023-07-17 10:44:24,117] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2023-07-17 10:44:58,339] {processor.py:153} INFO - Started process (PID=28022) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:44:58,340] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:44:58,340] {logging_mixin.py:115} INFO - [2023-07-17 10:44:58,340] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:44:58,345] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:44:58,362] {logging_mixin.py:115} INFO - [2023-07-17 10:44:58,361] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:44:58,378] {logging_mixin.py:115} INFO - [2023-07-17 10:44:58,378] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:44:58.377813+00:00, run_after=2023-07-17T17:44:58.377813+00:00
+[2023-07-17 10:44:58,387] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2023-07-17 10:45:33,854] {processor.py:153} INFO - Started process (PID=28745) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:45:33,856] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-07-17 10:45:33,857] {logging_mixin.py:115} INFO - [2023-07-17 10:45:33,857] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:45:33,861] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-07-17 10:45:33,875] {logging_mixin.py:115} INFO - [2023-07-17 10:45:33,875] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:45:33,894] {logging_mixin.py:115} INFO - [2023-07-17 10:45:33,894] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-07-17T13:45:33.894025+00:00, run_after=2023-07-17T17:45:33.894025+00:00
+[2023-07-17 10:45:33,906] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.055 seconds

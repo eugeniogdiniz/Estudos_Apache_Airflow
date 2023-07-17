@@ -1,0 +1,470 @@
+[2023-07-17 09:52:44,005] {processor.py:153} INFO - Started process (PID=4024) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:52:44,006] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:52:44,006] {logging_mixin.py:115} INFO - [2023-07-17 09:52:44,006] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:52:44,008] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:52:44,016] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 09:53:23,214] {processor.py:153} INFO - Started process (PID=4676) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:53:23,216] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:53:23,216] {logging_mixin.py:115} INFO - [2023-07-17 09:53:23,216] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:53:23,218] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:53:23,229] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 09:53:58,053] {processor.py:153} INFO - Started process (PID=4786) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:53:58,054] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:53:58,054] {logging_mixin.py:115} INFO - [2023-07-17 09:53:58,054] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:53:58,056] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:53:58,064] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 09:54:34,376] {processor.py:153} INFO - Started process (PID=5039) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:54:34,377] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:54:34,378] {logging_mixin.py:115} INFO - [2023-07-17 09:54:34,378] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:54:34,379] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:54:34,389] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 09:55:09,189] {processor.py:153} INFO - Started process (PID=5291) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:55:09,190] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:55:09,190] {logging_mixin.py:115} INFO - [2023-07-17 09:55:09,190] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:55:09,192] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:55:09,202] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2023-07-17 09:55:41,145] {processor.py:153} INFO - Started process (PID=5468) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:55:41,146] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:55:41,147] {logging_mixin.py:115} INFO - [2023-07-17 09:55:41,146] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:55:41,148] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:55:41,158] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 09:56:15,036] {processor.py:153} INFO - Started process (PID=5829) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:56:15,037] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:56:15,038] {logging_mixin.py:115} INFO - [2023-07-17 09:56:15,038] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:56:15,040] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:56:15,054] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2023-07-17 09:56:49,098] {processor.py:153} INFO - Started process (PID=6287) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:56:49,099] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:56:49,099] {logging_mixin.py:115} INFO - [2023-07-17 09:56:49,099] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:56:49,102] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:56:49,114] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-07-17 09:57:31,727] {processor.py:153} INFO - Started process (PID=6896) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:57:31,729] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:57:31,729] {logging_mixin.py:115} INFO - [2023-07-17 09:57:31,729] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:57:31,733] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:57:31,749] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2023-07-17 09:58:04,728] {processor.py:153} INFO - Started process (PID=7297) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:58:04,731] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:58:04,732] {logging_mixin.py:115} INFO - [2023-07-17 09:58:04,732] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:58:04,733] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:58:04,748] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2023-07-17 09:58:40,674] {processor.py:153} INFO - Started process (PID=7749) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:58:40,675] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:58:40,675] {logging_mixin.py:115} INFO - [2023-07-17 09:58:40,675] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:58:40,677] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:58:40,685] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 09:59:13,714] {processor.py:153} INFO - Started process (PID=7918) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:59:13,714] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:59:13,715] {logging_mixin.py:115} INFO - [2023-07-17 09:59:13,715] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:59:13,716] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:59:13,725] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 09:59:50,237] {processor.py:153} INFO - Started process (PID=8214) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:59:50,238] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 09:59:50,238] {logging_mixin.py:115} INFO - [2023-07-17 09:59:50,238] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:59:50,240] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 09:59:50,307] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.073 seconds
+[2023-07-17 10:00:25,510] {processor.py:153} INFO - Started process (PID=8464) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:00:25,511] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:00:25,511] {logging_mixin.py:115} INFO - [2023-07-17 10:00:25,511] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:00:25,513] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:00:25,520] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:00:57,341] {processor.py:153} INFO - Started process (PID=8638) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:00:57,342] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:00:57,343] {logging_mixin.py:115} INFO - [2023-07-17 10:00:57,343] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:00:57,344] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:00:57,353] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:01:33,388] {processor.py:153} INFO - Started process (PID=8819) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:01:33,389] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:01:33,390] {logging_mixin.py:115} INFO - [2023-07-17 10:01:33,390] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:01:33,391] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:01:33,399] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:02:05,249] {processor.py:153} INFO - Started process (PID=8980) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:02:05,250] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:02:05,251] {logging_mixin.py:115} INFO - [2023-07-17 10:02:05,251] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:02:05,252] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:02:05,261] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:02:38,596] {processor.py:153} INFO - Started process (PID=9201) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:02:38,597] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:02:38,598] {logging_mixin.py:115} INFO - [2023-07-17 10:02:38,598] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:02:38,599] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:02:38,607] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:03:10,126] {processor.py:153} INFO - Started process (PID=9362) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:03:10,126] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:03:10,127] {logging_mixin.py:115} INFO - [2023-07-17 10:03:10,127] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:03:10,128] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:03:10,137] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:03:43,211] {processor.py:153} INFO - Started process (PID=9536) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:03:43,211] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:03:43,212] {logging_mixin.py:115} INFO - [2023-07-17 10:03:43,212] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:03:43,213] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:03:43,222] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2023-07-17 10:04:18,423] {processor.py:153} INFO - Started process (PID=9714) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:04:18,424] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:04:18,425] {logging_mixin.py:115} INFO - [2023-07-17 10:04:18,425] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:04:18,426] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:04:18,434] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:04:51,559] {processor.py:153} INFO - Started process (PID=9889) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:04:51,560] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:04:51,560] {logging_mixin.py:115} INFO - [2023-07-17 10:04:51,560] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:04:51,562] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:04:51,570] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:05:25,768] {processor.py:153} INFO - Started process (PID=10066) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:05:25,769] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:05:25,769] {logging_mixin.py:115} INFO - [2023-07-17 10:05:25,769] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:05:25,771] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:05:25,779] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:05:58,829] {processor.py:153} INFO - Started process (PID=10237) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:05:58,830] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:05:58,831] {logging_mixin.py:115} INFO - [2023-07-17 10:05:58,830] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:05:58,832] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:05:58,841] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:06:36,207] {processor.py:153} INFO - Started process (PID=10425) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:06:36,208] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:06:36,208] {logging_mixin.py:115} INFO - [2023-07-17 10:06:36,208] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:06:36,210] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:06:36,218] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:07:08,422] {processor.py:153} INFO - Started process (PID=10590) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:07:08,423] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:07:08,424] {logging_mixin.py:115} INFO - [2023-07-17 10:07:08,424] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:07:08,426] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:07:08,433] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:07:44,381] {processor.py:153} INFO - Started process (PID=10828) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:07:44,382] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:07:44,382] {logging_mixin.py:115} INFO - [2023-07-17 10:07:44,382] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:07:44,384] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:07:44,391] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:08:17,474] {processor.py:153} INFO - Started process (PID=11004) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:08:17,475] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:08:17,475] {logging_mixin.py:115} INFO - [2023-07-17 10:08:17,475] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:08:17,476] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:08:17,484] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:08:50,532] {processor.py:153} INFO - Started process (PID=11170) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:08:50,533] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:08:50,534] {logging_mixin.py:115} INFO - [2023-07-17 10:08:50,534] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:08:50,535] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:08:50,543] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:09:27,055] {processor.py:153} INFO - Started process (PID=11353) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:09:27,056] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:09:27,056] {logging_mixin.py:115} INFO - [2023-07-17 10:09:27,056] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:09:27,058] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:09:27,066] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:10:00,261] {processor.py:153} INFO - Started process (PID=11581) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:10:00,262] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:10:00,262] {logging_mixin.py:115} INFO - [2023-07-17 10:10:00,262] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:10:00,264] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:10:00,273] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:10:32,235] {processor.py:153} INFO - Started process (PID=11756) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:10:32,235] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:10:32,236] {logging_mixin.py:115} INFO - [2023-07-17 10:10:32,236] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:10:32,237] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:10:32,249] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:11:11,017] {processor.py:153} INFO - Started process (PID=12113) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:11:11,018] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:11:11,018] {logging_mixin.py:115} INFO - [2023-07-17 10:11:11,018] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:11:11,020] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:11:11,028] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:11:44,244] {processor.py:153} INFO - Started process (PID=14293) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:11:44,245] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:11:44,246] {logging_mixin.py:115} INFO - [2023-07-17 10:11:44,246] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:11:44,248] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:11:44,256] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:12:20,093] {processor.py:153} INFO - Started process (PID=14553) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:12:20,094] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:12:20,094] {logging_mixin.py:115} INFO - [2023-07-17 10:12:20,094] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:12:20,096] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:12:20,106] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:12:51,976] {processor.py:153} INFO - Started process (PID=14776) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:12:51,977] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:12:51,978] {logging_mixin.py:115} INFO - [2023-07-17 10:12:51,978] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:12:51,979] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:12:51,989] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:13:25,043] {processor.py:153} INFO - Started process (PID=14983) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:13:25,044] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:13:25,044] {logging_mixin.py:115} INFO - [2023-07-17 10:13:25,044] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:13:25,046] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:13:25,057] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2023-07-17 10:14:00,495] {processor.py:153} INFO - Started process (PID=15302) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:14:00,496] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:14:00,497] {logging_mixin.py:115} INFO - [2023-07-17 10:14:00,497] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:14:00,499] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:14:00,509] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2023-07-17 10:14:33,607] {processor.py:153} INFO - Started process (PID=15474) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:14:33,608] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:14:33,609] {logging_mixin.py:115} INFO - [2023-07-17 10:14:33,609] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:14:33,611] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:14:33,621] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:15:08,022] {processor.py:153} INFO - Started process (PID=15657) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:15:08,023] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:15:08,023] {logging_mixin.py:115} INFO - [2023-07-17 10:15:08,023] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:15:08,025] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:15:08,037] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2023-07-17 10:15:42,434] {processor.py:153} INFO - Started process (PID=15928) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:15:42,435] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:15:42,435] {logging_mixin.py:115} INFO - [2023-07-17 10:15:42,435] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:15:42,436] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:15:42,445] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:16:15,525] {processor.py:153} INFO - Started process (PID=16094) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:16:15,526] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:16:15,526] {logging_mixin.py:115} INFO - [2023-07-17 10:16:15,526] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:16:15,528] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:16:15,536] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:16:53,183] {processor.py:153} INFO - Started process (PID=16413) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:16:53,183] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:16:53,188] {logging_mixin.py:115} INFO - [2023-07-17 10:16:53,188] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:16:53,191] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:16:53,204] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2023-07-17 10:17:29,516] {processor.py:153} INFO - Started process (PID=16842) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:17:29,516] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:17:29,517] {logging_mixin.py:115} INFO - [2023-07-17 10:17:29,517] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:17:29,525] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:17:29,594] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.083 seconds
+[2023-07-17 10:18:06,392] {processor.py:153} INFO - Started process (PID=17156) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:18:06,392] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:18:06,393] {logging_mixin.py:115} INFO - [2023-07-17 10:18:06,393] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:18:06,395] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:18:06,406] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2023-07-17 10:18:41,211] {processor.py:153} INFO - Started process (PID=17382) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:18:41,211] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:18:41,212] {logging_mixin.py:115} INFO - [2023-07-17 10:18:41,212] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:18:41,214] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:18:41,232] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2023-07-17 10:19:16,121] {processor.py:153} INFO - Started process (PID=17620) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:19:16,123] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:19:16,123] {logging_mixin.py:115} INFO - [2023-07-17 10:19:16,123] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:19:16,125] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:19:16,134] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:19:49,695] {processor.py:153} INFO - Started process (PID=17790) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:19:49,696] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:19:49,697] {logging_mixin.py:115} INFO - [2023-07-17 10:19:49,697] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:19:49,699] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:19:49,711] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2023-07-17 10:20:24,706] {processor.py:153} INFO - Started process (PID=17969) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:20:24,707] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:20:24,707] {logging_mixin.py:115} INFO - [2023-07-17 10:20:24,707] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:20:24,709] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:20:24,720] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2023-07-17 10:20:58,800] {processor.py:153} INFO - Started process (PID=18142) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:20:58,801] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:20:58,802] {logging_mixin.py:115} INFO - [2023-07-17 10:20:58,801] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:20:58,803] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:20:58,815] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2023-07-17 10:21:32,337] {processor.py:153} INFO - Started process (PID=18971) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:21:32,338] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:21:32,339] {logging_mixin.py:115} INFO - [2023-07-17 10:21:32,339] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:21:32,341] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:21:32,353] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2023-07-17 10:22:08,063] {processor.py:153} INFO - Started process (PID=19161) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:22:08,064] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:22:08,064] {logging_mixin.py:115} INFO - [2023-07-17 10:22:08,064] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:22:08,066] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:22:08,077] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2023-07-17 10:22:43,251] {processor.py:153} INFO - Started process (PID=19401) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:22:43,252] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:22:43,252] {logging_mixin.py:115} INFO - [2023-07-17 10:22:43,252] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:22:43,254] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:22:43,263] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:23:16,474] {processor.py:153} INFO - Started process (PID=19578) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:23:16,475] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:23:16,476] {logging_mixin.py:115} INFO - [2023-07-17 10:23:16,476] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:23:16,478] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:23:16,488] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:23:52,425] {processor.py:153} INFO - Started process (PID=19760) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:23:52,426] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:23:52,426] {logging_mixin.py:115} INFO - [2023-07-17 10:23:52,426] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:23:52,427] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:23:52,436] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:24:24,496] {processor.py:153} INFO - Started process (PID=19929) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:24:24,497] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:24:24,497] {logging_mixin.py:115} INFO - [2023-07-17 10:24:24,497] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:24:24,499] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:24:24,508] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:24:57,987] {processor.py:153} INFO - Started process (PID=20093) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:24:57,988] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:24:57,988] {logging_mixin.py:115} INFO - [2023-07-17 10:24:57,988] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:24:57,990] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:24:57,999] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2023-07-17 10:25:31,060] {processor.py:153} INFO - Started process (PID=20260) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:25:31,061] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:25:31,062] {logging_mixin.py:115} INFO - [2023-07-17 10:25:31,062] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:25:31,063] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:25:31,072] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:26:04,739] {processor.py:153} INFO - Started process (PID=20434) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:26:04,740] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:26:04,740] {logging_mixin.py:115} INFO - [2023-07-17 10:26:04,740] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:26:04,742] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:26:04,750] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:26:38,372] {processor.py:153} INFO - Started process (PID=20608) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:26:38,372] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:26:38,373] {logging_mixin.py:115} INFO - [2023-07-17 10:26:38,373] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:26:38,374] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:26:38,383] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:27:12,597] {processor.py:153} INFO - Started process (PID=20782) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:27:12,598] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:27:12,599] {logging_mixin.py:115} INFO - [2023-07-17 10:27:12,599] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:27:12,600] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:27:12,608] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:27:46,988] {processor.py:153} INFO - Started process (PID=21018) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:27:46,989] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:27:46,989] {logging_mixin.py:115} INFO - [2023-07-17 10:27:46,989] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:27:46,991] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:27:47,000] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2023-07-17 10:28:19,342] {processor.py:153} INFO - Started process (PID=21193) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:28:19,343] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:28:19,344] {logging_mixin.py:115} INFO - [2023-07-17 10:28:19,344] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:28:19,345] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:28:19,353] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:28:54,134] {processor.py:153} INFO - Started process (PID=21372) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:28:54,135] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:28:54,136] {logging_mixin.py:115} INFO - [2023-07-17 10:28:54,136] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:28:54,137] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:28:54,145] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:29:27,203] {processor.py:153} INFO - Started process (PID=21551) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:29:27,204] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:29:27,204] {logging_mixin.py:115} INFO - [2023-07-17 10:29:27,204] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:29:27,206] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:29:27,214] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:30:00,883] {processor.py:153} INFO - Started process (PID=21758) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:30:00,884] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:30:00,885] {logging_mixin.py:115} INFO - [2023-07-17 10:30:00,885] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:30:00,887] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:30:00,899] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2023-07-17 10:30:34,082] {processor.py:153} INFO - Started process (PID=21979) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:30:34,083] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:30:34,083] {logging_mixin.py:115} INFO - [2023-07-17 10:30:34,083] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:30:34,085] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:30:34,093] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:31:11,742] {processor.py:153} INFO - Started process (PID=22166) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:31:11,743] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:31:11,743] {logging_mixin.py:115} INFO - [2023-07-17 10:31:11,743] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:31:11,745] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:31:11,753] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:31:45,391] {processor.py:153} INFO - Started process (PID=22427) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:31:45,392] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:31:45,392] {logging_mixin.py:115} INFO - [2023-07-17 10:31:45,392] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:31:45,394] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:31:45,402] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:32:18,426] {processor.py:153} INFO - Started process (PID=22593) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:32:18,427] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:32:18,427] {logging_mixin.py:115} INFO - [2023-07-17 10:32:18,427] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:32:18,429] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:32:18,437] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:32:50,864] {processor.py:153} INFO - Started process (PID=22821) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:32:50,865] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:32:50,865] {logging_mixin.py:115} INFO - [2023-07-17 10:32:50,865] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:32:50,867] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:32:50,876] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:33:23,933] {processor.py:153} INFO - Started process (PID=23109) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:33:23,934] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:33:23,934] {logging_mixin.py:115} INFO - [2023-07-17 10:33:23,934] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:33:23,936] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:33:23,944] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:33:59,878] {processor.py:153} INFO - Started process (PID=23293) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:33:59,879] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:33:59,879] {logging_mixin.py:115} INFO - [2023-07-17 10:33:59,879] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:33:59,881] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:33:59,889] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:34:33,158] {processor.py:153} INFO - Started process (PID=23460) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:34:33,159] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:34:33,159] {logging_mixin.py:115} INFO - [2023-07-17 10:34:33,159] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:34:33,161] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:34:33,169] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:35:06,266] {processor.py:153} INFO - Started process (PID=23686) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:35:06,269] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:35:06,270] {logging_mixin.py:115} INFO - [2023-07-17 10:35:06,270] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:35:06,273] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:35:06,285] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2023-07-17 10:35:41,395] {processor.py:153} INFO - Started process (PID=23870) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:35:41,396] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:35:41,396] {logging_mixin.py:115} INFO - [2023-07-17 10:35:41,396] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:35:41,397] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:35:41,406] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:36:15,443] {processor.py:153} INFO - Started process (PID=24042) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:36:15,444] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:36:15,445] {logging_mixin.py:115} INFO - [2023-07-17 10:36:15,445] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:36:15,446] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:36:15,455] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-07-17 10:36:48,103] {processor.py:153} INFO - Started process (PID=24229) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:36:48,104] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:36:48,104] {logging_mixin.py:115} INFO - [2023-07-17 10:36:48,104] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:36:48,106] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:36:48,114] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:37:24,090] {processor.py:153} INFO - Started process (PID=24535) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:37:24,091] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:37:24,091] {logging_mixin.py:115} INFO - [2023-07-17 10:37:24,091] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:37:24,093] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:37:24,101] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-07-17 10:37:58,372] {processor.py:153} INFO - Started process (PID=24831) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:37:58,373] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:37:58,373] {logging_mixin.py:115} INFO - [2023-07-17 10:37:58,373] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:37:58,375] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:37:58,385] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:38:31,948] {processor.py:153} INFO - Started process (PID=25062) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:38:31,950] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:38:31,951] {logging_mixin.py:115} INFO - [2023-07-17 10:38:31,950] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:38:31,952] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:38:31,962] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2023-07-17 10:39:05,026] {processor.py:153} INFO - Started process (PID=25260) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:39:05,027] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:39:05,027] {logging_mixin.py:115} INFO - [2023-07-17 10:39:05,027] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:39:05,029] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:39:05,040] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2023-07-17 10:39:41,686] {processor.py:153} INFO - Started process (PID=25447) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:39:41,687] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:39:41,688] {logging_mixin.py:115} INFO - [2023-07-17 10:39:41,688] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:39:41,689] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:39:41,701] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2023-07-17 10:40:14,850] {processor.py:153} INFO - Started process (PID=25626) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:40:14,851] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:40:14,852] {logging_mixin.py:115} INFO - [2023-07-17 10:40:14,852] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:40:14,854] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:40:14,867] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-07-17 10:40:49,607] {processor.py:153} INFO - Started process (PID=25833) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:40:49,607] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:40:49,608] {logging_mixin.py:115} INFO - [2023-07-17 10:40:49,608] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:40:49,610] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:40:49,620] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2023-07-17 10:41:25,387] {processor.py:153} INFO - Started process (PID=26015) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:41:25,388] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:41:25,389] {logging_mixin.py:115} INFO - [2023-07-17 10:41:25,389] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:41:25,392] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:41:25,406] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-07-17 10:41:58,107] {processor.py:153} INFO - Started process (PID=26185) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:41:58,108] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:41:58,108] {logging_mixin.py:115} INFO - [2023-07-17 10:41:58,108] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:41:58,110] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:41:58,120] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:42:30,089] {processor.py:153} INFO - Started process (PID=26354) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:42:30,090] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:42:30,091] {logging_mixin.py:115} INFO - [2023-07-17 10:42:30,091] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:42:30,092] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:42:30,103] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:43:02,283] {processor.py:153} INFO - Started process (PID=26589) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:43:02,283] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:43:02,284] {logging_mixin.py:115} INFO - [2023-07-17 10:43:02,284] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:43:02,285] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:43:02,297] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2023-07-17 10:43:36,730] {processor.py:153} INFO - Started process (PID=26887) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:43:36,731] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:43:36,731] {logging_mixin.py:115} INFO - [2023-07-17 10:43:36,731] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:43:36,734] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:43:36,744] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:44:09,700] {processor.py:153} INFO - Started process (PID=27057) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:44:09,700] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:44:09,701] {logging_mixin.py:115} INFO - [2023-07-17 10:44:09,701] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:44:09,704] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:44:09,715] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2023-07-17 10:44:42,074] {processor.py:153} INFO - Started process (PID=27638) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:44:42,075] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:44:42,075] {logging_mixin.py:115} INFO - [2023-07-17 10:44:42,075] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:44:42,077] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:44:42,088] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-07-17 10:45:15,751] {processor.py:153} INFO - Started process (PID=28196) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:45:15,752] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:45:15,752] {logging_mixin.py:115} INFO - [2023-07-17 10:45:15,752] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:45:15,755] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:45:15,769] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-07-17 10:45:48,133] {processor.py:153} INFO - Started process (PID=29266) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:45:48,133] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-17 10:45:48,134] {logging_mixin.py:115} INFO - [2023-07-17 10:45:48,134] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:45:48,135] {processor.py:653} WARNING - No viable dags retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-17 10:45:48,146] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds

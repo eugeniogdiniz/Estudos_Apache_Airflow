@@ -1,0 +1,690 @@
+[2023-07-17 09:52:33,998] {processor.py:153} INFO - Started process (PID=3928) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:52:33,998] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:52:33,999] {logging_mixin.py:115} INFO - [2023-07-17 09:52:33,999] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:52:34,041] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:52:34,257] {logging_mixin.py:115} INFO - [2023-07-17 09:52:34,257] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api_etl
+[2023-07-17 09:52:34,281] {logging_mixin.py:115} INFO - [2023-07-17 09:52:34,280] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api_etl
+[2023-07-17 09:52:34,296] {logging_mixin.py:115} INFO - [2023-07-17 09:52:34,296] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api_etl
+[2023-07-17 09:52:34,296] {logging_mixin.py:115} INFO - [2023-07-17 09:52:34,296] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:52:34,324] {logging_mixin.py:115} INFO - [2023-07-17 09:52:34,324] {dag.py:2398} INFO - Creating ORM DAG for tutorial_taskflow_api_etl
+[2023-07-17 09:52:34,373] {logging_mixin.py:115} INFO - [2023-07-17 09:52:34,372] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:52:34,421] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.426 seconds
+[2023-07-17 09:53:13,305] {processor.py:153} INFO - Started process (PID=4616) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:53:13,309] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:53:13,311] {logging_mixin.py:115} INFO - [2023-07-17 09:53:13,310] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:53:13,381] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:53:13,481] {logging_mixin.py:115} INFO - [2023-07-17 09:53:13,481] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:53:13,509] {logging_mixin.py:115} INFO - [2023-07-17 09:53:13,509] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:53:13,530] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.235 seconds
+[2023-07-17 09:53:48,906] {processor.py:153} INFO - Started process (PID=4727) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:53:48,907] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:53:48,907] {logging_mixin.py:115} INFO - [2023-07-17 09:53:48,907] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:53:48,919] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:53:48,931] {logging_mixin.py:115} INFO - [2023-07-17 09:53:48,931] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:53:48,943] {logging_mixin.py:115} INFO - [2023-07-17 09:53:48,943] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:53:48,953] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 09:54:22,871] {processor.py:153} INFO - Started process (PID=4946) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:54:22,871] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:54:22,872] {logging_mixin.py:115} INFO - [2023-07-17 09:54:22,872] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:54:22,891] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:54:22,946] {logging_mixin.py:115} INFO - [2023-07-17 09:54:22,946] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:54:22,964] {logging_mixin.py:115} INFO - [2023-07-17 09:54:22,964] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:54:22,989] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.123 seconds
+[2023-07-17 09:54:56,043] {processor.py:153} INFO - Started process (PID=5255) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:54:56,047] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:54:56,048] {logging_mixin.py:115} INFO - [2023-07-17 09:54:56,047] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:54:56,060] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:54:56,094] {logging_mixin.py:115} INFO - [2023-07-17 09:54:56,094] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:54:56,108] {logging_mixin.py:115} INFO - [2023-07-17 09:54:56,107] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:54:56,119] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.077 seconds
+[2023-07-17 09:55:27,989] {processor.py:153} INFO - Started process (PID=5370) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:55:27,990] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:55:27,990] {logging_mixin.py:115} INFO - [2023-07-17 09:55:27,990] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:55:28,004] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:55:28,036] {logging_mixin.py:115} INFO - [2023-07-17 09:55:28,036] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:55:28,051] {logging_mixin.py:115} INFO - [2023-07-17 09:55:28,050] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:55:28,063] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.076 seconds
+[2023-07-17 09:56:01,402] {processor.py:153} INFO - Started process (PID=5689) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:56:01,403] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:56:01,404] {logging_mixin.py:115} INFO - [2023-07-17 09:56:01,404] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:56:01,418] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:56:01,459] {logging_mixin.py:115} INFO - [2023-07-17 09:56:01,459] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:56:01,484] {logging_mixin.py:115} INFO - [2023-07-17 09:56:01,483] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:56:01,498] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.098 seconds
+[2023-07-17 09:56:31,906] {processor.py:153} INFO - Started process (PID=6054) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:56:31,907] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:56:31,907] {logging_mixin.py:115} INFO - [2023-07-17 09:56:31,907] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:56:31,920] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:56:31,952] {logging_mixin.py:115} INFO - [2023-07-17 09:56:31,952] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:56:31,966] {logging_mixin.py:115} INFO - [2023-07-17 09:56:31,966] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:56:31,978] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.075 seconds
+[2023-07-17 09:57:03,488] {processor.py:153} INFO - Started process (PID=6471) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:57:03,489] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:57:03,490] {logging_mixin.py:115} INFO - [2023-07-17 09:57:03,490] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:57:03,506] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:57:03,522] {logging_mixin.py:115} INFO - [2023-07-17 09:57:03,522] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:57:03,544] {logging_mixin.py:115} INFO - [2023-07-17 09:57:03,544] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:57:03,555] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.070 seconds
+[2023-07-17 09:57:43,920] {processor.py:153} INFO - Started process (PID=7022) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:57:43,921] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:57:43,921] {logging_mixin.py:115} INFO - [2023-07-17 09:57:43,921] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:57:43,939] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:57:43,986] {logging_mixin.py:115} INFO - [2023-07-17 09:57:43,986] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:57:44,000] {logging_mixin.py:115} INFO - [2023-07-17 09:57:43,999] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:57:44,011] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.094 seconds
+[2023-07-17 09:58:18,370] {processor.py:153} INFO - Started process (PID=7622) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:58:18,371] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:58:18,371] {logging_mixin.py:115} INFO - [2023-07-17 09:58:18,371] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:58:18,385] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:58:18,402] {logging_mixin.py:115} INFO - [2023-07-17 09:58:18,402] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:58:18,417] {logging_mixin.py:115} INFO - [2023-07-17 09:58:18,417] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:58:18,431] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2023-07-17 09:58:53,155] {processor.py:153} INFO - Started process (PID=7812) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:58:53,156] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:58:53,157] {logging_mixin.py:115} INFO - [2023-07-17 09:58:53,156] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:58:53,169] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:58:53,199] {logging_mixin.py:115} INFO - [2023-07-17 09:58:53,199] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:58:53,209] {logging_mixin.py:115} INFO - [2023-07-17 09:58:53,209] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:58:53,219] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.066 seconds
+[2023-07-17 09:59:26,098] {processor.py:153} INFO - Started process (PID=8071) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:59:26,099] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 09:59:26,099] {logging_mixin.py:115} INFO - [2023-07-17 09:59:26,099] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:59:26,111] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 09:59:26,123] {logging_mixin.py:115} INFO - [2023-07-17 09:59:26,123] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:59:26,135] {logging_mixin.py:115} INFO - [2023-07-17 09:59:26,135] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 09:59:26,145] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:00:01,050] {processor.py:153} INFO - Started process (PID=8342) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:00:01,051] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:00:01,051] {logging_mixin.py:115} INFO - [2023-07-17 10:00:01,051] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:00:01,064] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:00:01,095] {logging_mixin.py:115} INFO - [2023-07-17 10:00:01,095] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:00:01,106] {logging_mixin.py:115} INFO - [2023-07-17 10:00:01,105] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:00:01,115] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.067 seconds
+[2023-07-17 10:00:32,921] {processor.py:153} INFO - Started process (PID=8500) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:00:32,922] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:00:32,922] {logging_mixin.py:115} INFO - [2023-07-17 10:00:32,922] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:00:32,940] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:00:32,980] {logging_mixin.py:115} INFO - [2023-07-17 10:00:32,980] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:00:32,995] {logging_mixin.py:115} INFO - [2023-07-17 10:00:32,995] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:00:33,008] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.090 seconds
+[2023-07-17 10:01:05,498] {processor.py:153} INFO - Started process (PID=8679) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:01:05,499] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:01:05,500] {logging_mixin.py:115} INFO - [2023-07-17 10:01:05,500] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:01:05,511] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:01:05,522] {logging_mixin.py:115} INFO - [2023-07-17 10:01:05,522] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:01:05,533] {logging_mixin.py:115} INFO - [2023-07-17 10:01:05,533] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:01:05,543] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2023-07-17 10:01:37,855] {processor.py:153} INFO - Started process (PID=8843) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:01:37,856] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:01:37,856] {logging_mixin.py:115} INFO - [2023-07-17 10:01:37,856] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:01:37,868] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:01:37,896] {logging_mixin.py:115} INFO - [2023-07-17 10:01:37,896] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:01:37,906] {logging_mixin.py:115} INFO - [2023-07-17 10:01:37,906] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:01:37,917] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2023-07-17 10:02:10,454] {processor.py:153} INFO - Started process (PID=9008) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:02:10,455] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:02:10,455] {logging_mixin.py:115} INFO - [2023-07-17 10:02:10,455] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:02:10,467] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:02:10,478] {logging_mixin.py:115} INFO - [2023-07-17 10:02:10,478] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:02:10,489] {logging_mixin.py:115} INFO - [2023-07-17 10:02:10,489] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:02:10,499] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2023-07-17 10:02:44,035] {processor.py:153} INFO - Started process (PID=9227) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:02:44,036] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:02:44,036] {logging_mixin.py:115} INFO - [2023-07-17 10:02:44,036] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:02:44,048] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:02:44,078] {logging_mixin.py:115} INFO - [2023-07-17 10:02:44,077] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:02:44,089] {logging_mixin.py:115} INFO - [2023-07-17 10:02:44,089] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:02:44,099] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.066 seconds
+[2023-07-17 10:03:17,535] {processor.py:153} INFO - Started process (PID=9396) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:03:17,536] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:03:17,536] {logging_mixin.py:115} INFO - [2023-07-17 10:03:17,536] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:03:17,550] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:03:17,565] {logging_mixin.py:115} INFO - [2023-07-17 10:03:17,565] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:03:17,580] {logging_mixin.py:115} INFO - [2023-07-17 10:03:17,580] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:03:17,591] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.060 seconds
+[2023-07-17 10:03:49,486] {processor.py:153} INFO - Started process (PID=9566) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:03:49,486] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:03:49,487] {logging_mixin.py:115} INFO - [2023-07-17 10:03:49,487] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:03:49,498] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:03:49,509] {logging_mixin.py:115} INFO - [2023-07-17 10:03:49,509] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:03:49,520] {logging_mixin.py:115} INFO - [2023-07-17 10:03:49,520] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:03:49,529] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2023-07-17 10:04:21,303] {processor.py:153} INFO - Started process (PID=9731) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:04:21,304] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:04:21,305] {logging_mixin.py:115} INFO - [2023-07-17 10:04:21,305] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:04:21,316] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:04:21,326] {logging_mixin.py:115} INFO - [2023-07-17 10:04:21,326] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:04:21,337] {logging_mixin.py:115} INFO - [2023-07-17 10:04:21,337] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:04:21,347] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2023-07-17 10:04:56,080] {processor.py:153} INFO - Started process (PID=9908) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:04:56,081] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:04:56,082] {logging_mixin.py:115} INFO - [2023-07-17 10:04:56,082] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:04:56,093] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:04:56,105] {logging_mixin.py:115} INFO - [2023-07-17 10:04:56,105] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:04:56,116] {logging_mixin.py:115} INFO - [2023-07-17 10:04:56,116] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:04:56,126] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.048 seconds
+[2023-07-17 10:05:29,490] {processor.py:153} INFO - Started process (PID=10084) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:05:29,491] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:05:29,491] {logging_mixin.py:115} INFO - [2023-07-17 10:05:29,491] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:05:29,502] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:05:29,513] {logging_mixin.py:115} INFO - [2023-07-17 10:05:29,513] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:05:29,524] {logging_mixin.py:115} INFO - [2023-07-17 10:05:29,524] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:05:29,534] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2023-07-17 10:06:00,951] {processor.py:153} INFO - Started process (PID=10246) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:06:00,952] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:06:00,953] {logging_mixin.py:115} INFO - [2023-07-17 10:06:00,953] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:06:00,964] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:06:00,974] {logging_mixin.py:115} INFO - [2023-07-17 10:06:00,974] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:06:00,985] {logging_mixin.py:115} INFO - [2023-07-17 10:06:00,985] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:06:00,995] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2023-07-17 10:06:34,724] {processor.py:153} INFO - Started process (PID=10415) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:06:34,725] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:06:34,725] {logging_mixin.py:115} INFO - [2023-07-17 10:06:34,725] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:06:34,736] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:06:34,748] {logging_mixin.py:115} INFO - [2023-07-17 10:06:34,748] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:06:34,759] {logging_mixin.py:115} INFO - [2023-07-17 10:06:34,759] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:06:34,768] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2023-07-17 10:07:06,466] {processor.py:153} INFO - Started process (PID=10580) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:07:06,467] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:07:06,467] {logging_mixin.py:115} INFO - [2023-07-17 10:07:06,467] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:07:06,479] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:07:06,491] {logging_mixin.py:115} INFO - [2023-07-17 10:07:06,491] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:07:06,502] {logging_mixin.py:115} INFO - [2023-07-17 10:07:06,502] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:07:06,512] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.048 seconds
+[2023-07-17 10:07:38,981] {processor.py:153} INFO - Started process (PID=10799) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:07:38,982] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:07:38,982] {logging_mixin.py:115} INFO - [2023-07-17 10:07:38,982] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:07:38,994] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:07:39,022] {logging_mixin.py:115} INFO - [2023-07-17 10:07:39,022] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:07:39,032] {logging_mixin.py:115} INFO - [2023-07-17 10:07:39,032] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:07:39,042] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2023-07-17 10:08:11,491] {processor.py:153} INFO - Started process (PID=10977) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:08:11,492] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:08:11,493] {logging_mixin.py:115} INFO - [2023-07-17 10:08:11,493] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:08:11,504] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:08:11,532] {logging_mixin.py:115} INFO - [2023-07-17 10:08:11,532] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:08:11,542] {logging_mixin.py:115} INFO - [2023-07-17 10:08:11,542] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:08:11,552] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2023-07-17 10:08:44,140] {processor.py:153} INFO - Started process (PID=11137) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:08:44,141] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:08:44,141] {logging_mixin.py:115} INFO - [2023-07-17 10:08:44,141] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:08:44,152] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:08:44,183] {logging_mixin.py:115} INFO - [2023-07-17 10:08:44,183] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:08:44,193] {logging_mixin.py:115} INFO - [2023-07-17 10:08:44,193] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:08:44,203] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.065 seconds
+[2023-07-17 10:09:15,656] {processor.py:153} INFO - Started process (PID=11293) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:09:15,657] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:09:15,658] {logging_mixin.py:115} INFO - [2023-07-17 10:09:15,657] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:09:15,669] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:09:15,698] {logging_mixin.py:115} INFO - [2023-07-17 10:09:15,697] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:09:15,707] {logging_mixin.py:115} INFO - [2023-07-17 10:09:15,707] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:09:15,717] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2023-07-17 10:09:49,996] {processor.py:153} INFO - Started process (PID=11528) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:09:49,997] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:09:49,997] {logging_mixin.py:115} INFO - [2023-07-17 10:09:49,997] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:09:50,011] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:09:50,052] {logging_mixin.py:115} INFO - [2023-07-17 10:09:50,052] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:09:50,067] {logging_mixin.py:115} INFO - [2023-07-17 10:09:50,067] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:09:50,079] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.086 seconds
+[2023-07-17 10:10:23,254] {processor.py:153} INFO - Started process (PID=11697) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:10:23,255] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:10:23,259] {logging_mixin.py:115} INFO - [2023-07-17 10:10:23,258] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:10:23,278] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:10:23,291] {logging_mixin.py:115} INFO - [2023-07-17 10:10:23,291] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:10:23,311] {logging_mixin.py:115} INFO - [2023-07-17 10:10:23,311] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:10:23,321] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.071 seconds
+[2023-07-17 10:10:56,790] {processor.py:153} INFO - Started process (PID=12023) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:10:56,791] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:10:56,792] {logging_mixin.py:115} INFO - [2023-07-17 10:10:56,792] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:10:56,803] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:10:56,815] {logging_mixin.py:115} INFO - [2023-07-17 10:10:56,814] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:10:56,826] {logging_mixin.py:115} INFO - [2023-07-17 10:10:56,826] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:10:56,838] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2023-07-17 10:11:31,565] {processor.py:153} INFO - Started process (PID=14177) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:11:31,566] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:11:31,567] {logging_mixin.py:115} INFO - [2023-07-17 10:11:31,567] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:11:31,578] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:11:31,591] {logging_mixin.py:115} INFO - [2023-07-17 10:11:31,591] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:11:31,602] {logging_mixin.py:115} INFO - [2023-07-17 10:11:31,602] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:11:31,612] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:12:04,521] {processor.py:153} INFO - Started process (PID=14451) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:12:04,522] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:12:04,522] {logging_mixin.py:115} INFO - [2023-07-17 10:12:04,522] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:12:04,541] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:12:04,557] {logging_mixin.py:115} INFO - [2023-07-17 10:12:04,557] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:12:04,577] {logging_mixin.py:115} INFO - [2023-07-17 10:12:04,577] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:12:04,591] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.074 seconds
+[2023-07-17 10:12:36,045] {processor.py:153} INFO - Started process (PID=14690) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:12:36,046] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:12:36,047] {logging_mixin.py:115} INFO - [2023-07-17 10:12:36,047] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:12:36,059] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:12:36,092] {logging_mixin.py:115} INFO - [2023-07-17 10:12:36,092] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:12:36,103] {logging_mixin.py:115} INFO - [2023-07-17 10:12:36,103] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:12:36,114] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.072 seconds
+[2023-07-17 10:13:07,998] {processor.py:153} INFO - Started process (PID=14867) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:13:07,999] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:13:07,999] {logging_mixin.py:115} INFO - [2023-07-17 10:13:07,999] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:13:08,012] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:13:08,052] {logging_mixin.py:115} INFO - [2023-07-17 10:13:08,052] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:13:08,067] {logging_mixin.py:115} INFO - [2023-07-17 10:13:08,067] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:13:08,079] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.083 seconds
+[2023-07-17 10:13:44,052] {processor.py:153} INFO - Started process (PID=15213) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:13:44,053] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:13:44,053] {logging_mixin.py:115} INFO - [2023-07-17 10:13:44,053] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:13:44,067] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:13:44,081] {logging_mixin.py:115} INFO - [2023-07-17 10:13:44,080] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:13:44,092] {logging_mixin.py:115} INFO - [2023-07-17 10:13:44,092] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:13:44,105] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.056 seconds
+[2023-07-17 10:14:16,221] {processor.py:153} INFO - Started process (PID=15385) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:14:16,222] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:14:16,223] {logging_mixin.py:115} INFO - [2023-07-17 10:14:16,223] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:14:16,239] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:14:16,253] {logging_mixin.py:115} INFO - [2023-07-17 10:14:16,253] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:14:16,270] {logging_mixin.py:115} INFO - [2023-07-17 10:14:16,270] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:14:16,281] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2023-07-17 10:14:50,019] {processor.py:153} INFO - Started process (PID=15567) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:14:50,023] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:14:50,024] {logging_mixin.py:115} INFO - [2023-07-17 10:14:50,023] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:14:50,048] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:14:50,061] {logging_mixin.py:115} INFO - [2023-07-17 10:14:50,061] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:14:50,075] {logging_mixin.py:115} INFO - [2023-07-17 10:14:50,075] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:14:50,086] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.070 seconds
+[2023-07-17 10:15:23,001] {processor.py:153} INFO - Started process (PID=15781) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:15:23,002] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:15:23,002] {logging_mixin.py:115} INFO - [2023-07-17 10:15:23,002] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:15:23,016] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:15:23,028] {logging_mixin.py:115} INFO - [2023-07-17 10:15:23,028] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:15:23,042] {logging_mixin.py:115} INFO - [2023-07-17 10:15:23,042] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:15:23,052] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2023-07-17 10:15:56,487] {processor.py:153} INFO - Started process (PID=16000) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:15:56,488] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:15:56,489] {logging_mixin.py:115} INFO - [2023-07-17 10:15:56,488] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:15:56,500] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:15:56,511] {logging_mixin.py:115} INFO - [2023-07-17 10:15:56,511] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:15:56,522] {logging_mixin.py:115} INFO - [2023-07-17 10:15:56,522] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:15:56,531] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2023-07-17 10:16:27,779] {processor.py:153} INFO - Started process (PID=16224) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:16:27,779] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:16:27,780] {logging_mixin.py:115} INFO - [2023-07-17 10:16:27,780] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:16:27,792] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:16:27,803] {logging_mixin.py:115} INFO - [2023-07-17 10:16:27,803] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:16:27,815] {logging_mixin.py:115} INFO - [2023-07-17 10:16:27,815] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:16:27,825] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:16:59,747] {processor.py:153} INFO - Started process (PID=16463) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:16:59,749] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:16:59,750] {logging_mixin.py:115} INFO - [2023-07-17 10:16:59,750] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:16:59,771] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:16:59,791] {logging_mixin.py:115} INFO - [2023-07-17 10:16:59,791] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:16:59,813] {logging_mixin.py:115} INFO - [2023-07-17 10:16:59,813] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:16:59,826] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.082 seconds
+[2023-07-17 10:17:33,424] {processor.py:153} INFO - Started process (PID=16911) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:17:33,425] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:17:33,425] {logging_mixin.py:115} INFO - [2023-07-17 10:17:33,425] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:17:33,441] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:17:33,496] {logging_mixin.py:115} INFO - [2023-07-17 10:17:33,496] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:17:33,520] {logging_mixin.py:115} INFO - [2023-07-17 10:17:33,520] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:17:33,536] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.114 seconds
+[2023-07-17 10:18:09,252] {processor.py:153} INFO - Started process (PID=17175) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:18:09,253] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:18:09,253] {logging_mixin.py:115} INFO - [2023-07-17 10:18:09,253] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:18:09,268] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:18:09,317] {logging_mixin.py:115} INFO - [2023-07-17 10:18:09,316] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:18:09,335] {logging_mixin.py:115} INFO - [2023-07-17 10:18:09,335] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:18:09,347] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.102 seconds
+[2023-07-17 10:18:42,879] {processor.py:153} INFO - Started process (PID=17408) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:18:42,883] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:18:42,884] {logging_mixin.py:115} INFO - [2023-07-17 10:18:42,884] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:18:42,909] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:18:42,942] {logging_mixin.py:115} INFO - [2023-07-17 10:18:42,942] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:18:42,961] {logging_mixin.py:115} INFO - [2023-07-17 10:18:42,961] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:18:42,993] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.119 seconds
+[2023-07-17 10:19:14,992] {processor.py:153} INFO - Started process (PID=17615) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:19:14,993] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:19:14,993] {logging_mixin.py:115} INFO - [2023-07-17 10:19:14,993] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:19:15,007] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:19:15,020] {logging_mixin.py:115} INFO - [2023-07-17 10:19:15,020] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:19:15,035] {logging_mixin.py:115} INFO - [2023-07-17 10:19:15,035] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:19:15,049] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.060 seconds
+[2023-07-17 10:19:49,080] {processor.py:153} INFO - Started process (PID=17786) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:19:49,081] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:19:49,082] {logging_mixin.py:115} INFO - [2023-07-17 10:19:49,082] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:19:49,101] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:19:49,119] {logging_mixin.py:115} INFO - [2023-07-17 10:19:49,119] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:19:49,133] {logging_mixin.py:115} INFO - [2023-07-17 10:19:49,133] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:19:49,148] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.071 seconds
+[2023-07-17 10:20:22,451] {processor.py:153} INFO - Started process (PID=17959) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:20:22,452] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:20:22,452] {logging_mixin.py:115} INFO - [2023-07-17 10:20:22,452] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:20:22,467] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:20:22,482] {logging_mixin.py:115} INFO - [2023-07-17 10:20:22,482] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:20:22,495] {logging_mixin.py:115} INFO - [2023-07-17 10:20:22,495] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:20:22,506] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.057 seconds
+[2023-07-17 10:20:56,525] {processor.py:153} INFO - Started process (PID=18133) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:20:56,526] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:20:56,527] {logging_mixin.py:115} INFO - [2023-07-17 10:20:56,526] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:20:56,540] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:20:56,554] {logging_mixin.py:115} INFO - [2023-07-17 10:20:56,554] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:20:56,570] {logging_mixin.py:115} INFO - [2023-07-17 10:20:56,570] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:20:56,586] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2023-07-17 10:21:27,480] {processor.py:153} INFO - Started process (PID=18936) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:21:27,481] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:21:27,481] {logging_mixin.py:115} INFO - [2023-07-17 10:21:27,481] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:21:27,498] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:21:27,515] {logging_mixin.py:115} INFO - [2023-07-17 10:21:27,515] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:21:27,532] {logging_mixin.py:115} INFO - [2023-07-17 10:21:27,532] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:21:27,545] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.068 seconds
+[2023-07-17 10:22:00,984] {processor.py:153} INFO - Started process (PID=19119) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:22:00,985] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:22:00,986] {logging_mixin.py:115} INFO - [2023-07-17 10:22:00,986] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:22:00,999] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:22:01,013] {logging_mixin.py:115} INFO - [2023-07-17 10:22:01,013] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:22:01,028] {logging_mixin.py:115} INFO - [2023-07-17 10:22:01,028] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:22:01,042] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.061 seconds
+[2023-07-17 10:22:35,384] {processor.py:153} INFO - Started process (PID=19353) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:22:35,384] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:22:35,385] {logging_mixin.py:115} INFO - [2023-07-17 10:22:35,385] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:22:35,397] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:22:35,427] {logging_mixin.py:115} INFO - [2023-07-17 10:22:35,427] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:22:35,437] {logging_mixin.py:115} INFO - [2023-07-17 10:22:35,437] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:22:35,447] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.066 seconds
+[2023-07-17 10:23:06,202] {processor.py:153} INFO - Started process (PID=19525) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:23:06,203] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:23:06,203] {logging_mixin.py:115} INFO - [2023-07-17 10:23:06,203] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:23:06,216] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:23:06,227] {logging_mixin.py:115} INFO - [2023-07-17 10:23:06,227] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:23:06,240] {logging_mixin.py:115} INFO - [2023-07-17 10:23:06,240] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:23:06,250] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2023-07-17 10:23:41,021] {processor.py:153} INFO - Started process (PID=19703) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:23:41,022] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:23:41,023] {logging_mixin.py:115} INFO - [2023-07-17 10:23:41,023] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:23:41,034] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:23:41,047] {logging_mixin.py:115} INFO - [2023-07-17 10:23:41,047] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:23:41,060] {logging_mixin.py:115} INFO - [2023-07-17 10:23:41,059] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:23:41,070] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds
+[2023-07-17 10:24:11,774] {processor.py:153} INFO - Started process (PID=19858) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:24:11,775] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:24:11,775] {logging_mixin.py:115} INFO - [2023-07-17 10:24:11,775] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:24:11,792] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:24:11,804] {logging_mixin.py:115} INFO - [2023-07-17 10:24:11,804] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:24:11,815] {logging_mixin.py:115} INFO - [2023-07-17 10:24:11,815] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:24:11,826] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.055 seconds
+[2023-07-17 10:24:43,716] {processor.py:153} INFO - Started process (PID=20024) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:24:43,717] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:24:43,717] {logging_mixin.py:115} INFO - [2023-07-17 10:24:43,717] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:24:43,729] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:24:43,740] {logging_mixin.py:115} INFO - [2023-07-17 10:24:43,740] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:24:43,752] {logging_mixin.py:115} INFO - [2023-07-17 10:24:43,752] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:24:43,762] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:25:15,095] {processor.py:153} INFO - Started process (PID=20183) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:25:15,096] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:25:15,096] {logging_mixin.py:115} INFO - [2023-07-17 10:25:15,096] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:25:15,108] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:25:15,119] {logging_mixin.py:115} INFO - [2023-07-17 10:25:15,119] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:25:15,131] {logging_mixin.py:115} INFO - [2023-07-17 10:25:15,131] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:25:15,141] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:25:46,617] {processor.py:153} INFO - Started process (PID=20342) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:25:46,618] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:25:46,618] {logging_mixin.py:115} INFO - [2023-07-17 10:25:46,618] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:25:46,630] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:25:46,640] {logging_mixin.py:115} INFO - [2023-07-17 10:25:46,640] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:25:46,652] {logging_mixin.py:115} INFO - [2023-07-17 10:25:46,652] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:25:46,662] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2023-07-17 10:26:18,014] {processor.py:153} INFO - Started process (PID=20501) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:26:18,015] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:26:18,016] {logging_mixin.py:115} INFO - [2023-07-17 10:26:18,016] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:26:18,028] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:26:18,039] {logging_mixin.py:115} INFO - [2023-07-17 10:26:18,039] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:26:18,051] {logging_mixin.py:115} INFO - [2023-07-17 10:26:18,051] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:26:18,061] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:26:50,898] {processor.py:153} INFO - Started process (PID=20671) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:26:50,899] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:26:50,899] {logging_mixin.py:115} INFO - [2023-07-17 10:26:50,899] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:26:50,910] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:26:50,922] {logging_mixin.py:115} INFO - [2023-07-17 10:26:50,922] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:26:50,933] {logging_mixin.py:115} INFO - [2023-07-17 10:26:50,933] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:26:50,943] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.048 seconds
+[2023-07-17 10:27:22,868] {processor.py:153} INFO - Started process (PID=20832) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:27:22,869] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:27:22,869] {logging_mixin.py:115} INFO - [2023-07-17 10:27:22,869] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:27:22,885] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:27:22,899] {logging_mixin.py:115} INFO - [2023-07-17 10:27:22,899] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:27:22,915] {logging_mixin.py:115} INFO - [2023-07-17 10:27:22,915] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:27:22,931] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.066 seconds
+[2023-07-17 10:27:54,809] {processor.py:153} INFO - Started process (PID=21063) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:27:54,809] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:27:54,810] {logging_mixin.py:115} INFO - [2023-07-17 10:27:54,810] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:27:54,821] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:27:54,850] {logging_mixin.py:115} INFO - [2023-07-17 10:27:54,850] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:27:54,861] {logging_mixin.py:115} INFO - [2023-07-17 10:27:54,861] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:27:54,870] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2023-07-17 10:28:27,460] {processor.py:153} INFO - Started process (PID=21235) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:28:27,461] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:28:27,461] {logging_mixin.py:115} INFO - [2023-07-17 10:28:27,461] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:28:27,472] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:28:27,501] {logging_mixin.py:115} INFO - [2023-07-17 10:28:27,501] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:28:27,511] {logging_mixin.py:115} INFO - [2023-07-17 10:28:27,511] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:28:27,520] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2023-07-17 10:29:01,529] {processor.py:153} INFO - Started process (PID=21408) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:29:01,530] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:29:01,530] {logging_mixin.py:115} INFO - [2023-07-17 10:29:01,530] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:29:01,542] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:29:01,553] {logging_mixin.py:115} INFO - [2023-07-17 10:29:01,553] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:29:01,566] {logging_mixin.py:115} INFO - [2023-07-17 10:29:01,566] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:29:01,575] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:29:33,466] {processor.py:153} INFO - Started process (PID=21581) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:29:33,467] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:29:33,467] {logging_mixin.py:115} INFO - [2023-07-17 10:29:33,467] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:29:33,479] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:29:33,490] {logging_mixin.py:115} INFO - [2023-07-17 10:29:33,490] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:29:33,503] {logging_mixin.py:115} INFO - [2023-07-17 10:29:33,503] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:29:33,512] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:30:07,176] {processor.py:153} INFO - Started process (PID=21822) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:30:07,177] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:30:07,178] {logging_mixin.py:115} INFO - [2023-07-17 10:30:07,178] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:30:07,193] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:30:07,205] {logging_mixin.py:115} INFO - [2023-07-17 10:30:07,205] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:30:07,221] {logging_mixin.py:115} INFO - [2023-07-17 10:30:07,221] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:30:07,231] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.058 seconds
+[2023-07-17 10:30:41,469] {processor.py:153} INFO - Started process (PID=22015) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:30:41,470] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:30:41,470] {logging_mixin.py:115} INFO - [2023-07-17 10:30:41,470] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:30:41,482] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:30:41,494] {logging_mixin.py:115} INFO - [2023-07-17 10:30:41,494] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:30:41,507] {logging_mixin.py:115} INFO - [2023-07-17 10:30:41,507] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:30:41,516] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:31:15,135] {processor.py:153} INFO - Started process (PID=22182) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:31:15,136] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:31:15,137] {logging_mixin.py:115} INFO - [2023-07-17 10:31:15,137] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:31:15,149] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:31:15,160] {logging_mixin.py:115} INFO - [2023-07-17 10:31:15,160] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:31:15,172] {logging_mixin.py:115} INFO - [2023-07-17 10:31:15,172] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:31:15,182] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:31:48,779] {processor.py:153} INFO - Started process (PID=22442) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:31:48,780] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:31:48,780] {logging_mixin.py:115} INFO - [2023-07-17 10:31:48,780] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:31:48,791] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:31:48,803] {logging_mixin.py:115} INFO - [2023-07-17 10:31:48,803] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:31:48,815] {logging_mixin.py:115} INFO - [2023-07-17 10:31:48,815] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:31:48,824] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2023-07-17 10:32:19,908] {processor.py:153} INFO - Started process (PID=22602) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:32:19,909] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:32:19,909] {logging_mixin.py:115} INFO - [2023-07-17 10:32:19,909] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:32:19,921] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:32:19,934] {logging_mixin.py:115} INFO - [2023-07-17 10:32:19,933] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:32:19,946] {logging_mixin.py:115} INFO - [2023-07-17 10:32:19,946] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:32:19,956] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds
+[2023-07-17 10:32:50,121] {processor.py:153} INFO - Started process (PID=22807) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:32:50,122] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:32:50,123] {logging_mixin.py:115} INFO - [2023-07-17 10:32:50,123] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:32:50,135] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:32:50,172] {logging_mixin.py:115} INFO - [2023-07-17 10:32:50,172] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:32:50,182] {logging_mixin.py:115} INFO - [2023-07-17 10:32:50,182] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:32:50,192] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.073 seconds
+[2023-07-17 10:33:20,385] {processor.py:153} INFO - Started process (PID=23087) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:33:20,386] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:33:20,386] {logging_mixin.py:115} INFO - [2023-07-17 10:33:20,386] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:33:20,398] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:33:20,409] {logging_mixin.py:115} INFO - [2023-07-17 10:33:20,409] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:33:20,422] {logging_mixin.py:115} INFO - [2023-07-17 10:33:20,422] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:33:20,430] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.048 seconds
+[2023-07-17 10:33:53,614] {processor.py:153} INFO - Started process (PID=23263) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:33:53,615] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:33:53,615] {logging_mixin.py:115} INFO - [2023-07-17 10:33:53,615] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:33:53,627] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:33:53,638] {logging_mixin.py:115} INFO - [2023-07-17 10:33:53,638] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:33:53,651] {logging_mixin.py:115} INFO - [2023-07-17 10:33:53,651] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:33:53,664] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.053 seconds
+[2023-07-17 10:34:27,697] {processor.py:153} INFO - Started process (PID=23432) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:34:27,698] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:34:27,699] {logging_mixin.py:115} INFO - [2023-07-17 10:34:27,699] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:34:27,710] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:34:27,722] {logging_mixin.py:115} INFO - [2023-07-17 10:34:27,721] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:34:27,735] {logging_mixin.py:115} INFO - [2023-07-17 10:34:27,735] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:34:27,744] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:35:00,272] {processor.py:153} INFO - Started process (PID=23659) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:35:00,274] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:35:00,275] {logging_mixin.py:115} INFO - [2023-07-17 10:35:00,274] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:35:00,291] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:35:00,304] {logging_mixin.py:115} INFO - [2023-07-17 10:35:00,304] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:35:00,321] {logging_mixin.py:115} INFO - [2023-07-17 10:35:00,321] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:35:00,333] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2023-07-17 10:35:35,124] {processor.py:153} INFO - Started process (PID=23837) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:35:35,125] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:35:35,126] {logging_mixin.py:115} INFO - [2023-07-17 10:35:35,126] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:35:35,139] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:35:35,151] {logging_mixin.py:115} INFO - [2023-07-17 10:35:35,151] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:35:35,166] {logging_mixin.py:115} INFO - [2023-07-17 10:35:35,166] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:35:35,176] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2023-07-17 10:36:05,929] {processor.py:153} INFO - Started process (PID=23996) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:36:05,930] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:36:05,930] {logging_mixin.py:115} INFO - [2023-07-17 10:36:05,930] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:36:05,943] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:36:05,955] {logging_mixin.py:115} INFO - [2023-07-17 10:36:05,955] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:36:05,966] {logging_mixin.py:115} INFO - [2023-07-17 10:36:05,966] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:36:05,976] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-07-17 10:36:37,053] {processor.py:153} INFO - Started process (PID=24155) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:36:37,054] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:36:37,054] {logging_mixin.py:115} INFO - [2023-07-17 10:36:37,054] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:36:37,069] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:36:37,081] {logging_mixin.py:115} INFO - [2023-07-17 10:36:37,081] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:36:37,095] {logging_mixin.py:115} INFO - [2023-07-17 10:36:37,095] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:36:37,109] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.068 seconds
+[2023-07-17 10:37:11,411] {processor.py:153} INFO - Started process (PID=24413) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:37:11,412] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:37:11,412] {logging_mixin.py:115} INFO - [2023-07-17 10:37:11,412] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:37:11,428] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:37:11,440] {logging_mixin.py:115} INFO - [2023-07-17 10:37:11,440] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:37:11,453] {logging_mixin.py:115} INFO - [2023-07-17 10:37:11,453] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:37:11,463] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2023-07-17 10:37:42,217] {processor.py:153} INFO - Started process (PID=24680) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:37:42,217] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:37:42,218] {logging_mixin.py:115} INFO - [2023-07-17 10:37:42,218] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:37:42,229] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:37:42,258] {logging_mixin.py:115} INFO - [2023-07-17 10:37:42,258] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:37:42,268] {logging_mixin.py:115} INFO - [2023-07-17 10:37:42,268] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:37:42,278] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2023-07-17 10:38:14,779] {processor.py:153} INFO - Started process (PID=24917) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:38:14,779] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:38:14,780] {logging_mixin.py:115} INFO - [2023-07-17 10:38:14,780] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:38:14,792] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:38:14,823] {logging_mixin.py:115} INFO - [2023-07-17 10:38:14,823] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:38:14,833] {logging_mixin.py:115} INFO - [2023-07-17 10:38:14,833] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:38:14,842] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.066 seconds
+[2023-07-17 10:38:46,200] {processor.py:153} INFO - Started process (PID=25134) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:38:46,201] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:38:46,201] {logging_mixin.py:115} INFO - [2023-07-17 10:38:46,201] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:38:46,215] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:38:46,229] {logging_mixin.py:115} INFO - [2023-07-17 10:38:46,229] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:38:46,246] {logging_mixin.py:115} INFO - [2023-07-17 10:38:46,246] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:38:46,258] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.060 seconds
+[2023-07-17 10:39:17,107] {processor.py:153} INFO - Started process (PID=25328) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:39:17,108] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:39:17,109] {logging_mixin.py:115} INFO - [2023-07-17 10:39:17,109] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:39:17,125] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:39:17,139] {logging_mixin.py:115} INFO - [2023-07-17 10:39:17,139] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:39:17,156] {logging_mixin.py:115} INFO - [2023-07-17 10:39:17,155] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:39:17,167] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2023-07-17 10:39:53,133] {processor.py:153} INFO - Started process (PID=25509) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:39:53,133] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:39:53,134] {logging_mixin.py:115} INFO - [2023-07-17 10:39:53,134] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:39:53,146] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:39:53,157] {logging_mixin.py:115} INFO - [2023-07-17 10:39:53,157] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:39:53,172] {logging_mixin.py:115} INFO - [2023-07-17 10:39:53,172] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:39:53,181] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds
+[2023-07-17 10:40:24,133] {processor.py:153} INFO - Started process (PID=25675) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:40:24,134] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:40:24,134] {logging_mixin.py:115} INFO - [2023-07-17 10:40:24,134] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:40:24,152] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:40:24,168] {logging_mixin.py:115} INFO - [2023-07-17 10:40:24,168] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:40:24,184] {logging_mixin.py:115} INFO - [2023-07-17 10:40:24,184] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:40:24,202] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.072 seconds
+[2023-07-17 10:40:56,246] {processor.py:153} INFO - Started process (PID=25868) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:40:56,247] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:40:56,247] {logging_mixin.py:115} INFO - [2023-07-17 10:40:56,247] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:40:56,261] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:40:56,273] {logging_mixin.py:115} INFO - [2023-07-17 10:40:56,273] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:40:56,287] {logging_mixin.py:115} INFO - [2023-07-17 10:40:56,287] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:40:56,297] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2023-07-17 10:41:28,889] {processor.py:153} INFO - Started process (PID=26033) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:41:28,890] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:41:28,891] {logging_mixin.py:115} INFO - [2023-07-17 10:41:28,891] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:41:28,906] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:41:28,919] {logging_mixin.py:115} INFO - [2023-07-17 10:41:28,919] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:41:28,936] {logging_mixin.py:115} INFO - [2023-07-17 10:41:28,936] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:41:28,948] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.061 seconds
+[2023-07-17 10:42:01,494] {processor.py:153} INFO - Started process (PID=26200) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:42:01,495] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:42:01,495] {logging_mixin.py:115} INFO - [2023-07-17 10:42:01,495] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:42:01,510] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:42:01,524] {logging_mixin.py:115} INFO - [2023-07-17 10:42:01,524] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:42:01,541] {logging_mixin.py:115} INFO - [2023-07-17 10:42:01,541] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:42:01,552] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2023-07-17 10:42:34,100] {processor.py:153} INFO - Started process (PID=26423) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:42:34,101] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:42:34,101] {logging_mixin.py:115} INFO - [2023-07-17 10:42:34,101] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:42:34,116] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:42:34,147] {logging_mixin.py:115} INFO - [2023-07-17 10:42:34,147] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:42:34,159] {logging_mixin.py:115} INFO - [2023-07-17 10:42:34,159] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:42:34,169] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.072 seconds
+[2023-07-17 10:43:06,026] {processor.py:153} INFO - Started process (PID=26610) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:43:06,028] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:43:06,028] {logging_mixin.py:115} INFO - [2023-07-17 10:43:06,028] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:43:06,046] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:43:06,062] {logging_mixin.py:115} INFO - [2023-07-17 10:43:06,062] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:43:06,076] {logging_mixin.py:115} INFO - [2023-07-17 10:43:06,076] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:43:06,091] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.067 seconds
+[2023-07-17 10:43:38,990] {processor.py:153} INFO - Started process (PID=26896) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:43:38,991] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:43:38,991] {logging_mixin.py:115} INFO - [2023-07-17 10:43:38,991] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:43:39,006] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:43:39,019] {logging_mixin.py:115} INFO - [2023-07-17 10:43:39,019] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:43:39,034] {logging_mixin.py:115} INFO - [2023-07-17 10:43:39,034] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:43:39,043] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.055 seconds
+[2023-07-17 10:44:11,543] {processor.py:153} INFO - Started process (PID=27069) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:44:11,544] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:44:11,544] {logging_mixin.py:115} INFO - [2023-07-17 10:44:11,544] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:44:11,559] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:44:11,573] {logging_mixin.py:115} INFO - [2023-07-17 10:44:11,573] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:44:11,588] {logging_mixin.py:115} INFO - [2023-07-17 10:44:11,587] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:44:11,599] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.058 seconds
+[2023-07-17 10:44:46,361] {processor.py:153} INFO - Started process (PID=27669) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:44:46,362] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:44:46,363] {logging_mixin.py:115} INFO - [2023-07-17 10:44:46,363] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:44:46,375] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:44:46,388] {logging_mixin.py:115} INFO - [2023-07-17 10:44:46,388] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:44:46,401] {logging_mixin.py:115} INFO - [2023-07-17 10:44:46,401] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:44:46,415] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.056 seconds
+[2023-07-17 10:45:19,522] {processor.py:153} INFO - Started process (PID=28270) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:45:19,522] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:45:19,523] {logging_mixin.py:115} INFO - [2023-07-17 10:45:19,523] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:45:19,536] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:45:19,547] {logging_mixin.py:115} INFO - [2023-07-17 10:45:19,547] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:45:19,561] {logging_mixin.py:115} INFO - [2023-07-17 10:45:19,560] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:45:19,570] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds
+[2023-07-17 10:45:53,196] {processor.py:153} INFO - Started process (PID=29346) to work on /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:45:53,197] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-07-17 10:45:53,198] {logging_mixin.py:115} INFO - [2023-07-17 10:45:53,198] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:45:53,209] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-07-17 10:45:53,224] {logging_mixin.py:115} INFO - [2023-07-17 10:45:53,224] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:45:53,238] {logging_mixin.py:115} INFO - [2023-07-17 10:45:53,238] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-07-17 10:45:53,249] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.055 seconds

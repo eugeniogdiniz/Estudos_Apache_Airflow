@@ -1,0 +1,627 @@
+[2023-07-17 09:53:08,131] {processor.py:153} INFO - Started process (PID=4548) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:53:08,131] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:53:08,131] {logging_mixin.py:115} INFO - [2023-07-17 09:53:08,131] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:53:08,141] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:53:08,228] {logging_mixin.py:115} INFO - [2023-07-17 09:53:08,228] {manager.py:508} INFO - Created Permission View: can read on DAG:TwitterDAG
+[2023-07-17 09:53:08,243] {logging_mixin.py:115} INFO - [2023-07-17 09:53:08,243] {manager.py:508} INFO - Created Permission View: can edit on DAG:TwitterDAG
+[2023-07-17 09:53:08,251] {logging_mixin.py:115} INFO - [2023-07-17 09:53:08,251] {manager.py:508} INFO - Created Permission View: can delete on DAG:TwitterDAG
+[2023-07-17 09:53:08,252] {logging_mixin.py:115} INFO - [2023-07-17 09:53:08,252] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:53:08,260] {logging_mixin.py:115} INFO - [2023-07-17 09:53:08,260] {dag.py:2398} INFO - Creating ORM DAG for TwitterDAG
+[2023-07-17 09:53:08,269] {logging_mixin.py:115} INFO - [2023-07-17 09:53:08,269] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-17 09:53:08,285] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.157 seconds
+[2023-07-17 09:53:47,778] {processor.py:153} INFO - Started process (PID=4718) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:53:47,779] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:53:47,779] {logging_mixin.py:115} INFO - [2023-07-17 09:53:47,779] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:53:47,785] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:53:47,798] {logging_mixin.py:115} INFO - [2023-07-17 09:53:47,798] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:53:47,811] {logging_mixin.py:115} INFO - [2023-07-17 09:53:47,811] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-17 09:53:47,824] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.048 seconds
+[2023-07-17 09:54:28,104] {processor.py:153} INFO - Started process (PID=5029) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:54:28,105] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:54:28,105] {logging_mixin.py:115} INFO - [2023-07-17 09:54:28,105] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:54:28,112] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:54:28,125] {logging_mixin.py:115} INFO - [2023-07-17 09:54:28,124] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:54:28,139] {logging_mixin.py:115} INFO - [2023-07-17 09:54:28,139] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-17 09:54:28,150] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.049 seconds
+[2023-07-17 09:55:05,188] {processor.py:153} INFO - Started process (PID=5265) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:55:05,189] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:55:05,189] {logging_mixin.py:115} INFO - [2023-07-17 09:55:05,189] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:55:05,196] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:55:05,210] {logging_mixin.py:115} INFO - [2023-07-17 09:55:05,209] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:55:05,225] {logging_mixin.py:115} INFO - [2023-07-17 09:55:05,225] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-17 09:55:05,237] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.052 seconds
+[2023-07-17 09:55:38,265] {processor.py:153} INFO - Started process (PID=5448) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:55:38,266] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:55:38,266] {logging_mixin.py:115} INFO - [2023-07-17 09:55:38,266] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:55:38,273] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:55:38,285] {logging_mixin.py:115} INFO - [2023-07-17 09:55:38,285] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:55:38,299] {logging_mixin.py:115} INFO - [2023-07-17 09:55:38,299] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-17 09:55:38,308] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.046 seconds
+[2023-07-17 09:56:16,104] {processor.py:153} INFO - Started process (PID=5841) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:56:16,105] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:56:16,106] {logging_mixin.py:115} INFO - [2023-07-17 09:56:16,106] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:56:16,117] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:56:16,134] {logging_mixin.py:115} INFO - [2023-07-17 09:56:16,134] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:56:16,154] {logging_mixin.py:115} INFO - [2023-07-17 09:56:16,153] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-17 09:56:16,167] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.067 seconds
+[2023-07-17 09:56:50,224] {processor.py:153} INFO - Started process (PID=6325) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:56:50,225] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:56:50,225] {logging_mixin.py:115} INFO - [2023-07-17 09:56:50,225] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:56:50,231] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:56:50,244] {logging_mixin.py:115} INFO - [2023-07-17 09:56:50,244] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:56:50,257] {logging_mixin.py:115} INFO - [2023-07-17 09:56:50,257] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-17 09:56:50,268] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.046 seconds
+[2023-07-17 09:57:42,319] {processor.py:153} INFO - Started process (PID=7006) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:57:42,321] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:57:42,322] {logging_mixin.py:115} INFO - [2023-07-17 09:57:42,322] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:57:42,336] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:57:42,365] {logging_mixin.py:115} INFO - [2023-07-17 09:57:42,365] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:57:42,388] {logging_mixin.py:115} INFO - [2023-07-17 09:57:42,388] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 09:57:42,405] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.094 seconds
+[2023-07-17 09:58:15,018] {processor.py:153} INFO - Started process (PID=7597) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:58:15,019] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:58:15,020] {logging_mixin.py:115} INFO - [2023-07-17 09:58:15,020] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:58:15,028] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:58:15,051] {logging_mixin.py:115} INFO - [2023-07-17 09:58:15,050] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:58:15,068] {logging_mixin.py:115} INFO - [2023-07-17 09:58:15,068] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 09:58:15,084] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.069 seconds
+[2023-07-17 09:58:50,891] {processor.py:153} INFO - Started process (PID=7802) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:58:50,892] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:58:50,892] {logging_mixin.py:115} INFO - [2023-07-17 09:58:50,892] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:58:50,899] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:58:50,915] {logging_mixin.py:115} INFO - [2023-07-17 09:58:50,914] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:58:50,931] {logging_mixin.py:115} INFO - [2023-07-17 09:58:50,931] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 09:58:50,943] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.054 seconds
+[2023-07-17 09:59:30,277] {processor.py:153} INFO - Started process (PID=8095) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:59:30,278] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 09:59:30,278] {logging_mixin.py:115} INFO - [2023-07-17 09:59:30,278] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:59:30,285] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 09:59:30,301] {logging_mixin.py:115} INFO - [2023-07-17 09:59:30,301] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 09:59:30,317] {logging_mixin.py:115} INFO - [2023-07-17 09:59:30,317] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 09:59:30,330] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.055 seconds
+[2023-07-17 10:00:11,219] {processor.py:153} INFO - Started process (PID=8394) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:00:11,220] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:00:11,220] {logging_mixin.py:115} INFO - [2023-07-17 10:00:11,220] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:00:11,226] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:00:11,238] {logging_mixin.py:115} INFO - [2023-07-17 10:00:11,237] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:00:11,251] {logging_mixin.py:115} INFO - [2023-07-17 10:00:11,251] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:00:11,260] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:00:42,063] {processor.py:153} INFO - Started process (PID=8559) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:00:42,064] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:00:42,064] {logging_mixin.py:115} INFO - [2023-07-17 10:00:42,064] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:00:42,069] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:00:42,080] {logging_mixin.py:115} INFO - [2023-07-17 10:00:42,080] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:00:42,092] {logging_mixin.py:115} INFO - [2023-07-17 10:00:42,092] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:00:42,102] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.041 seconds
+[2023-07-17 10:01:18,725] {processor.py:153} INFO - Started process (PID=8750) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:01:18,726] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:01:18,726] {logging_mixin.py:115} INFO - [2023-07-17 10:01:18,726] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:01:18,732] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:01:18,743] {logging_mixin.py:115} INFO - [2023-07-17 10:01:18,743] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:01:18,755] {logging_mixin.py:115} INFO - [2023-07-17 10:01:18,755] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:01:18,764] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.041 seconds
+[2023-07-17 10:01:51,671] {processor.py:153} INFO - Started process (PID=8915) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:01:51,672] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:01:51,672] {logging_mixin.py:115} INFO - [2023-07-17 10:01:51,672] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:01:51,678] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:01:51,694] {logging_mixin.py:115} INFO - [2023-07-17 10:01:51,694] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:01:51,707] {logging_mixin.py:115} INFO - [2023-07-17 10:01:51,707] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:01:51,715] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.047 seconds
+[2023-07-17 10:02:26,485] {processor.py:153} INFO - Started process (PID=9091) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:02:26,486] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:02:26,486] {logging_mixin.py:115} INFO - [2023-07-17 10:02:26,486] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:02:26,492] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:02:26,504] {logging_mixin.py:115} INFO - [2023-07-17 10:02:26,504] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:02:26,516] {logging_mixin.py:115} INFO - [2023-07-17 10:02:26,516] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:02:26,527] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.045 seconds
+[2023-07-17 10:03:03,377] {processor.py:153} INFO - Started process (PID=9330) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:03:03,378] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:03:03,379] {logging_mixin.py:115} INFO - [2023-07-17 10:03:03,378] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:03:03,385] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:03:03,395] {logging_mixin.py:115} INFO - [2023-07-17 10:03:03,395] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:03:03,407] {logging_mixin.py:115} INFO - [2023-07-17 10:03:03,407] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:03:03,416] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.042 seconds
+[2023-07-17 10:03:38,250] {processor.py:153} INFO - Started process (PID=9513) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:03:38,252] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:03:38,252] {logging_mixin.py:115} INFO - [2023-07-17 10:03:38,252] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:03:38,258] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:03:38,269] {logging_mixin.py:115} INFO - [2023-07-17 10:03:38,269] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:03:38,282] {logging_mixin.py:115} INFO - [2023-07-17 10:03:38,282] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:03:38,291] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-07-17 10:04:16,168] {processor.py:153} INFO - Started process (PID=9702) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:04:16,169] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:04:16,170] {logging_mixin.py:115} INFO - [2023-07-17 10:04:16,169] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:04:16,176] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:04:16,187] {logging_mixin.py:115} INFO - [2023-07-17 10:04:16,187] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:04:16,202] {logging_mixin.py:115} INFO - [2023-07-17 10:04:16,202] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:04:16,213] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.047 seconds
+[2023-07-17 10:04:49,855] {processor.py:153} INFO - Started process (PID=9880) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:04:49,856] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:04:49,857] {logging_mixin.py:115} INFO - [2023-07-17 10:04:49,857] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:04:49,863] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:04:49,874] {logging_mixin.py:115} INFO - [2023-07-17 10:04:49,874] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:04:49,886] {logging_mixin.py:115} INFO - [2023-07-17 10:04:49,886] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:04:49,895] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.042 seconds
+[2023-07-17 10:05:24,022] {processor.py:153} INFO - Started process (PID=10055) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:05:24,023] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:05:24,023] {logging_mixin.py:115} INFO - [2023-07-17 10:05:24,023] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:05:24,030] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:05:24,041] {logging_mixin.py:115} INFO - [2023-07-17 10:05:24,041] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:05:24,053] {logging_mixin.py:115} INFO - [2023-07-17 10:05:24,053] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:05:24,062] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.042 seconds
+[2023-07-17 10:05:56,570] {processor.py:153} INFO - Started process (PID=10226) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:05:56,571] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:05:56,572] {logging_mixin.py:115} INFO - [2023-07-17 10:05:56,572] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:05:56,578] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:05:56,590] {logging_mixin.py:115} INFO - [2023-07-17 10:05:56,590] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:05:56,604] {logging_mixin.py:115} INFO - [2023-07-17 10:05:56,603] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:05:56,613] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.045 seconds
+[2023-07-17 10:06:32,460] {processor.py:153} INFO - Started process (PID=10404) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:06:32,461] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:06:32,461] {logging_mixin.py:115} INFO - [2023-07-17 10:06:32,461] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:06:32,468] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:06:32,479] {logging_mixin.py:115} INFO - [2023-07-17 10:06:32,479] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:06:32,491] {logging_mixin.py:115} INFO - [2023-07-17 10:06:32,491] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:06:32,500] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.042 seconds
+[2023-07-17 10:07:04,423] {processor.py:153} INFO - Started process (PID=10569) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:07:04,424] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:07:04,425] {logging_mixin.py:115} INFO - [2023-07-17 10:07:04,425] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:07:04,431] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:07:04,442] {logging_mixin.py:115} INFO - [2023-07-17 10:07:04,441] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:07:04,453] {logging_mixin.py:115} INFO - [2023-07-17 10:07:04,453] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:07:04,462] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.041 seconds
+[2023-07-17 10:07:41,092] {processor.py:153} INFO - Started process (PID=10813) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:07:41,093] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:07:41,093] {logging_mixin.py:115} INFO - [2023-07-17 10:07:41,093] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:07:41,099] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:07:41,110] {logging_mixin.py:115} INFO - [2023-07-17 10:07:41,110] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:07:41,122] {logging_mixin.py:115} INFO - [2023-07-17 10:07:41,122] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:07:41,131] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.041 seconds
+[2023-07-17 10:08:14,873] {processor.py:153} INFO - Started process (PID=10989) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:08:14,873] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:08:14,874] {logging_mixin.py:115} INFO - [2023-07-17 10:08:14,874] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:08:14,880] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:08:14,891] {logging_mixin.py:115} INFO - [2023-07-17 10:08:14,891] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:08:14,906] {logging_mixin.py:115} INFO - [2023-07-17 10:08:14,906] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:08:14,916] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.046 seconds
+[2023-07-17 10:08:51,142] {processor.py:153} INFO - Started process (PID=11174) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:08:51,143] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:08:51,143] {logging_mixin.py:115} INFO - [2023-07-17 10:08:51,143] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:08:51,149] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:08:51,160] {logging_mixin.py:115} INFO - [2023-07-17 10:08:51,160] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:08:51,172] {logging_mixin.py:115} INFO - [2023-07-17 10:08:51,172] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:08:51,181] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.041 seconds
+[2023-07-17 10:09:28,188] {processor.py:153} INFO - Started process (PID=11370) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:09:28,189] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:09:28,189] {logging_mixin.py:115} INFO - [2023-07-17 10:09:28,189] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:09:28,196] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:09:28,212] {logging_mixin.py:115} INFO - [2023-07-17 10:09:28,212] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:09:28,228] {logging_mixin.py:115} INFO - [2023-07-17 10:09:28,228] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:09:28,238] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.052 seconds
+[2023-07-17 10:10:05,395] {processor.py:153} INFO - Started process (PID=11607) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:10:05,396] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:10:05,397] {logging_mixin.py:115} INFO - [2023-07-17 10:10:05,397] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:10:05,404] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:10:05,418] {logging_mixin.py:115} INFO - [2023-07-17 10:10:05,418] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:10:05,434] {logging_mixin.py:115} INFO - [2023-07-17 10:10:05,434] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:10:05,448] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-07-17 10:10:39,113] {processor.py:153} INFO - Started process (PID=11794) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:10:39,114] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:10:39,114] {logging_mixin.py:115} INFO - [2023-07-17 10:10:39,114] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:10:39,121] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:10:39,133] {logging_mixin.py:115} INFO - [2023-07-17 10:10:39,133] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:10:39,148] {logging_mixin.py:115} INFO - [2023-07-17 10:10:39,148] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:10:39,158] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.047 seconds
+[2023-07-17 10:11:19,538] {processor.py:153} INFO - Started process (PID=12193) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:11:19,539] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:11:19,540] {logging_mixin.py:115} INFO - [2023-07-17 10:11:19,540] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:11:19,548] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:11:19,561] {logging_mixin.py:115} INFO - [2023-07-17 10:11:19,561] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:11:19,581] {logging_mixin.py:115} INFO - [2023-07-17 10:11:19,581] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:11:19,594] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.059 seconds
+[2023-07-17 10:11:53,255] {processor.py:153} INFO - Started process (PID=14387) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:11:53,256] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:11:53,256] {logging_mixin.py:115} INFO - [2023-07-17 10:11:53,256] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:11:53,263] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:11:53,279] {logging_mixin.py:115} INFO - [2023-07-17 10:11:53,279] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:11:53,300] {logging_mixin.py:115} INFO - [2023-07-17 10:11:53,300] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:11:53,310] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-07-17 10:12:30,537] {processor.py:153} INFO - Started process (PID=14609) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:12:30,538] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:12:30,539] {logging_mixin.py:115} INFO - [2023-07-17 10:12:30,539] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:12:30,549] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:12:30,565] {logging_mixin.py:115} INFO - [2023-07-17 10:12:30,565] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:12:30,585] {logging_mixin.py:115} INFO - [2023-07-17 10:12:30,585] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:12:30,595] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.060 seconds
+[2023-07-17 10:13:05,124] {processor.py:153} INFO - Started process (PID=14850) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:13:05,125] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:13:05,126] {logging_mixin.py:115} INFO - [2023-07-17 10:13:05,126] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:13:05,133] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:13:05,146] {logging_mixin.py:115} INFO - [2023-07-17 10:13:05,146] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:13:05,160] {logging_mixin.py:115} INFO - [2023-07-17 10:13:05,159] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:13:05,170] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.048 seconds
+[2023-07-17 10:13:42,413] {processor.py:153} INFO - Started process (PID=15203) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:13:42,413] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:13:42,414] {logging_mixin.py:115} INFO - [2023-07-17 10:13:42,414] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:13:42,421] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:13:42,433] {logging_mixin.py:115} INFO - [2023-07-17 10:13:42,433] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:13:42,447] {logging_mixin.py:115} INFO - [2023-07-17 10:13:42,447] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:13:42,456] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.046 seconds
+[2023-07-17 10:14:19,916] {processor.py:153} INFO - Started process (PID=15404) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:14:19,916] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:14:19,917] {logging_mixin.py:115} INFO - [2023-07-17 10:14:19,917] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:14:19,927] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:14:19,944] {logging_mixin.py:115} INFO - [2023-07-17 10:14:19,944] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:14:19,964] {logging_mixin.py:115} INFO - [2023-07-17 10:14:19,964] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:14:19,974] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.062 seconds
+[2023-07-17 10:14:55,935] {processor.py:153} INFO - Started process (PID=15598) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:14:55,935] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:14:55,936] {logging_mixin.py:115} INFO - [2023-07-17 10:14:55,936] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:14:55,942] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:14:55,958] {logging_mixin.py:115} INFO - [2023-07-17 10:14:55,958] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:14:55,975] {logging_mixin.py:115} INFO - [2023-07-17 10:14:55,975] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:14:55,989] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.057 seconds
+[2023-07-17 10:15:31,774] {processor.py:153} INFO - Started process (PID=15856) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:15:31,775] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:15:31,775] {logging_mixin.py:115} INFO - [2023-07-17 10:15:31,775] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:15:31,782] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:15:31,793] {logging_mixin.py:115} INFO - [2023-07-17 10:15:31,793] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:15:31,806] {logging_mixin.py:115} INFO - [2023-07-17 10:15:31,806] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:15:31,815] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-07-17 10:16:07,514] {processor.py:153} INFO - Started process (PID=16051) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:16:07,515] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:16:07,515] {logging_mixin.py:115} INFO - [2023-07-17 10:16:07,515] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:16:07,521] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:16:07,533] {logging_mixin.py:115} INFO - [2023-07-17 10:16:07,533] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:16:07,547] {logging_mixin.py:115} INFO - [2023-07-17 10:16:07,546] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:16:07,555] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:16:44,098] {processor.py:153} INFO - Started process (PID=16327) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:16:44,099] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:16:44,100] {logging_mixin.py:115} INFO - [2023-07-17 10:16:44,100] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:16:44,115] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:16:44,135] {logging_mixin.py:115} INFO - [2023-07-17 10:16:44,134] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:16:44,159] {logging_mixin.py:115} INFO - [2023-07-17 10:16:44,159] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:16:44,177] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.083 seconds
+[2023-07-17 10:17:19,759] {processor.py:153} INFO - Started process (PID=16796) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:17:19,759] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:17:19,760] {logging_mixin.py:115} INFO - [2023-07-17 10:17:19,760] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:17:19,776] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:17:19,829] {logging_mixin.py:115} INFO - [2023-07-17 10:17:19,829] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:17:19,855] {logging_mixin.py:115} INFO - [2023-07-17 10:17:19,855] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:17:19,893] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.138 seconds
+[2023-07-17 10:18:01,852] {processor.py:153} INFO - Started process (PID=17134) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:18:01,853] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:18:01,853] {logging_mixin.py:115} INFO - [2023-07-17 10:18:01,853] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:18:01,865] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:18:01,892] {logging_mixin.py:115} INFO - [2023-07-17 10:18:01,892] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:18:01,920] {logging_mixin.py:115} INFO - [2023-07-17 10:18:01,920] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:18:01,936] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.092 seconds
+[2023-07-17 10:18:37,172] {processor.py:153} INFO - Started process (PID=17321) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:18:37,173] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:18:37,173] {logging_mixin.py:115} INFO - [2023-07-17 10:18:37,173] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:18:37,180] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:18:37,194] {logging_mixin.py:115} INFO - [2023-07-17 10:18:37,194] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:18:37,209] {logging_mixin.py:115} INFO - [2023-07-17 10:18:37,209] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:18:37,219] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.050 seconds
+[2023-07-17 10:19:12,740] {processor.py:153} INFO - Started process (PID=17601) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:19:12,741] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:19:12,741] {logging_mixin.py:115} INFO - [2023-07-17 10:19:12,741] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:19:12,748] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:19:12,763] {logging_mixin.py:115} INFO - [2023-07-17 10:19:12,763] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:19:12,778] {logging_mixin.py:115} INFO - [2023-07-17 10:19:12,778] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:19:12,790] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-07-17 10:19:45,690] {processor.py:153} INFO - Started process (PID=17771) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:19:45,691] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:19:45,691] {logging_mixin.py:115} INFO - [2023-07-17 10:19:45,691] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:19:45,698] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:19:45,714] {logging_mixin.py:115} INFO - [2023-07-17 10:19:45,714] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:19:45,731] {logging_mixin.py:115} INFO - [2023-07-17 10:19:45,731] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:19:45,744] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-07-17 10:20:21,324] {processor.py:153} INFO - Started process (PID=17956) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:20:21,325] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:20:21,326] {logging_mixin.py:115} INFO - [2023-07-17 10:20:21,325] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:20:21,332] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:20:21,345] {logging_mixin.py:115} INFO - [2023-07-17 10:20:21,345] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:20:21,362] {logging_mixin.py:115} INFO - [2023-07-17 10:20:21,362] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:20:21,372] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.050 seconds
+[2023-07-17 10:20:56,252] {processor.py:153} INFO - Started process (PID=18129) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:20:56,252] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:20:56,253] {logging_mixin.py:115} INFO - [2023-07-17 10:20:56,253] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:20:56,262] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:20:56,277] {logging_mixin.py:115} INFO - [2023-07-17 10:20:56,277] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:20:56,297] {logging_mixin.py:115} INFO - [2023-07-17 10:20:56,297] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:20:56,311] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.062 seconds
+[2023-07-17 10:21:29,565] {processor.py:153} INFO - Started process (PID=18949) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:21:29,566] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:21:29,567] {logging_mixin.py:115} INFO - [2023-07-17 10:21:29,566] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:21:29,573] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:21:29,586] {logging_mixin.py:115} INFO - [2023-07-17 10:21:29,586] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:21:29,601] {logging_mixin.py:115} INFO - [2023-07-17 10:21:29,601] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:21:29,611] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.048 seconds
+[2023-07-17 10:22:03,516] {processor.py:153} INFO - Started process (PID=19135) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:22:03,517] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:22:03,518] {logging_mixin.py:115} INFO - [2023-07-17 10:22:03,517] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:22:03,527] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:22:03,543] {logging_mixin.py:115} INFO - [2023-07-17 10:22:03,543] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:22:03,565] {logging_mixin.py:115} INFO - [2023-07-17 10:22:03,565] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:22:03,579] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.067 seconds
+[2023-07-17 10:22:39,382] {processor.py:153} INFO - Started process (PID=19373) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:22:39,383] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:22:39,384] {logging_mixin.py:115} INFO - [2023-07-17 10:22:39,384] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:22:39,391] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:22:39,402] {logging_mixin.py:115} INFO - [2023-07-17 10:22:39,402] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:22:39,415] {logging_mixin.py:115} INFO - [2023-07-17 10:22:39,415] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:22:39,424] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:23:12,465] {processor.py:153} INFO - Started process (PID=19558) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:23:12,466] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:23:12,466] {logging_mixin.py:115} INFO - [2023-07-17 10:23:12,466] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:23:12,473] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:23:12,484] {logging_mixin.py:115} INFO - [2023-07-17 10:23:12,484] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:23:12,498] {logging_mixin.py:115} INFO - [2023-07-17 10:23:12,498] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:23:12,507] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:23:49,545] {processor.py:153} INFO - Started process (PID=19745) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:23:49,545] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:23:49,546] {logging_mixin.py:115} INFO - [2023-07-17 10:23:49,546] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:23:49,553] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:23:49,565] {logging_mixin.py:115} INFO - [2023-07-17 10:23:49,564] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:23:49,580] {logging_mixin.py:115} INFO - [2023-07-17 10:23:49,580] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:23:49,591] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.049 seconds
+[2023-07-17 10:24:25,626] {processor.py:153} INFO - Started process (PID=19932) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:24:25,627] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:24:25,627] {logging_mixin.py:115} INFO - [2023-07-17 10:24:25,627] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:24:25,634] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:24:25,645] {logging_mixin.py:115} INFO - [2023-07-17 10:24:25,645] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:24:25,658] {logging_mixin.py:115} INFO - [2023-07-17 10:24:25,658] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:24:25,667] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-07-17 10:24:59,123] {processor.py:153} INFO - Started process (PID=20101) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:24:59,124] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:24:59,125] {logging_mixin.py:115} INFO - [2023-07-17 10:24:59,125] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:24:59,131] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:24:59,143] {logging_mixin.py:115} INFO - [2023-07-17 10:24:59,142] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:24:59,155] {logging_mixin.py:115} INFO - [2023-07-17 10:24:59,154] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:24:59,164] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-07-17 10:25:35,061] {processor.py:153} INFO - Started process (PID=20283) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:25:35,062] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:25:35,062] {logging_mixin.py:115} INFO - [2023-07-17 10:25:35,062] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:25:35,069] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:25:35,081] {logging_mixin.py:115} INFO - [2023-07-17 10:25:35,081] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:25:35,094] {logging_mixin.py:115} INFO - [2023-07-17 10:25:35,094] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:25:35,102] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:26:11,009] {processor.py:153} INFO - Started process (PID=20465) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:26:11,010] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:26:11,010] {logging_mixin.py:115} INFO - [2023-07-17 10:26:11,010] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:26:11,017] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:26:11,028] {logging_mixin.py:115} INFO - [2023-07-17 10:26:11,028] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:26:11,041] {logging_mixin.py:115} INFO - [2023-07-17 10:26:11,040] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:26:11,050] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:26:49,403] {processor.py:153} INFO - Started process (PID=20663) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:26:49,404] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:26:49,404] {logging_mixin.py:115} INFO - [2023-07-17 10:26:49,404] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:26:49,411] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:26:49,422] {logging_mixin.py:115} INFO - [2023-07-17 10:26:49,422] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:26:49,435] {logging_mixin.py:115} INFO - [2023-07-17 10:26:49,434] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:26:49,444] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-07-17 10:27:25,127] {processor.py:153} INFO - Started process (PID=20854) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:27:25,128] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:27:25,128] {logging_mixin.py:115} INFO - [2023-07-17 10:27:25,128] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:27:25,134] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:27:25,145] {logging_mixin.py:115} INFO - [2023-07-17 10:27:25,145] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:27:25,156] {logging_mixin.py:115} INFO - [2023-07-17 10:27:25,156] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:27:25,165] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.040 seconds
+[2023-07-17 10:27:59,952] {processor.py:153} INFO - Started process (PID=21089) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:27:59,952] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:27:59,953] {logging_mixin.py:115} INFO - [2023-07-17 10:27:59,953] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:27:59,960] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:27:59,972] {logging_mixin.py:115} INFO - [2023-07-17 10:27:59,972] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:27:59,986] {logging_mixin.py:115} INFO - [2023-07-17 10:27:59,986] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:27:59,996] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.047 seconds
+[2023-07-17 10:28:35,879] {processor.py:153} INFO - Started process (PID=21280) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:28:35,880] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:28:35,880] {logging_mixin.py:115} INFO - [2023-07-17 10:28:35,880] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:28:35,886] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:28:35,898] {logging_mixin.py:115} INFO - [2023-07-17 10:28:35,898] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:28:35,911] {logging_mixin.py:115} INFO - [2023-07-17 10:28:35,910] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:28:35,920] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:29:10,664] {processor.py:153} INFO - Started process (PID=21456) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:29:10,664] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:29:10,665] {logging_mixin.py:115} INFO - [2023-07-17 10:29:10,665] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:29:10,672] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:29:10,684] {logging_mixin.py:115} INFO - [2023-07-17 10:29:10,683] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:29:10,697] {logging_mixin.py:115} INFO - [2023-07-17 10:29:10,696] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:29:10,705] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:29:45,480] {processor.py:153} INFO - Started process (PID=21644) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:29:45,481] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:29:45,481] {logging_mixin.py:115} INFO - [2023-07-17 10:29:45,481] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:29:45,488] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:29:45,501] {logging_mixin.py:115} INFO - [2023-07-17 10:29:45,500] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:29:45,515] {logging_mixin.py:115} INFO - [2023-07-17 10:29:45,514] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:29:45,524] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.047 seconds
+[2023-07-17 10:30:20,152] {processor.py:153} INFO - Started process (PID=21913) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:30:20,153] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:30:20,153] {logging_mixin.py:115} INFO - [2023-07-17 10:30:20,153] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:30:20,159] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:30:20,172] {logging_mixin.py:115} INFO - [2023-07-17 10:30:20,172] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:30:20,184] {logging_mixin.py:115} INFO - [2023-07-17 10:30:20,184] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:30:20,195] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.046 seconds
+[2023-07-17 10:30:55,738] {processor.py:153} INFO - Started process (PID=22087) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:30:55,739] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:30:55,739] {logging_mixin.py:115} INFO - [2023-07-17 10:30:55,739] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:30:55,745] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:30:55,757] {logging_mixin.py:115} INFO - [2023-07-17 10:30:55,757] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:30:55,770] {logging_mixin.py:115} INFO - [2023-07-17 10:30:55,770] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:30:55,779] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-07-17 10:31:30,865] {processor.py:153} INFO - Started process (PID=22287) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:31:30,866] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:31:30,867] {logging_mixin.py:115} INFO - [2023-07-17 10:31:30,867] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:31:30,874] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:31:30,892] {logging_mixin.py:115} INFO - [2023-07-17 10:31:30,892] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:31:30,912] {logging_mixin.py:115} INFO - [2023-07-17 10:31:30,911] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:31:30,922] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.060 seconds
+[2023-07-17 10:32:09,292] {processor.py:153} INFO - Started process (PID=22547) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:32:09,293] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:32:09,293] {logging_mixin.py:115} INFO - [2023-07-17 10:32:09,293] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:32:09,299] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:32:09,310] {logging_mixin.py:115} INFO - [2023-07-17 10:32:09,310] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:32:09,323] {logging_mixin.py:115} INFO - [2023-07-17 10:32:09,323] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:32:09,332] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-07-17 10:32:45,108] {processor.py:153} INFO - Started process (PID=22780) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:32:45,109] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:32:45,109] {logging_mixin.py:115} INFO - [2023-07-17 10:32:45,109] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:32:45,116] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:32:45,127] {logging_mixin.py:115} INFO - [2023-07-17 10:32:45,127] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:32:45,139] {logging_mixin.py:115} INFO - [2023-07-17 10:32:45,139] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:32:45,149] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-07-17 10:33:19,935] {processor.py:153} INFO - Started process (PID=23083) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:33:19,936] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:33:19,936] {logging_mixin.py:115} INFO - [2023-07-17 10:33:19,936] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:33:19,943] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:33:19,954] {logging_mixin.py:115} INFO - [2023-07-17 10:33:19,954] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:33:19,967] {logging_mixin.py:115} INFO - [2023-07-17 10:33:19,967] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:33:19,976] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:33:55,876] {processor.py:153} INFO - Started process (PID=23272) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:33:55,876] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:33:55,877] {logging_mixin.py:115} INFO - [2023-07-17 10:33:55,877] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:33:55,883] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:33:55,896] {logging_mixin.py:115} INFO - [2023-07-17 10:33:55,896] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:33:55,909] {logging_mixin.py:115} INFO - [2023-07-17 10:33:55,909] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:33:55,921] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.048 seconds
+[2023-07-17 10:34:33,437] {processor.py:153} INFO - Started process (PID=23463) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:34:33,438] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:34:33,439] {logging_mixin.py:115} INFO - [2023-07-17 10:34:33,439] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:34:33,445] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:34:33,457] {logging_mixin.py:115} INFO - [2023-07-17 10:34:33,457] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:34:33,469] {logging_mixin.py:115} INFO - [2023-07-17 10:34:33,469] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:34:33,479] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:35:08,566] {processor.py:153} INFO - Started process (PID=23701) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:35:08,567] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:35:08,567] {logging_mixin.py:115} INFO - [2023-07-17 10:35:08,567] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:35:08,577] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:35:08,592] {logging_mixin.py:115} INFO - [2023-07-17 10:35:08,592] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:35:08,613] {logging_mixin.py:115} INFO - [2023-07-17 10:35:08,613] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:35:08,623] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.061 seconds
+[2023-07-17 10:35:42,827] {processor.py:153} INFO - Started process (PID=23878) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:35:42,828] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:35:42,829] {logging_mixin.py:115} INFO - [2023-07-17 10:35:42,829] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:35:42,835] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:35:42,848] {logging_mixin.py:115} INFO - [2023-07-17 10:35:42,848] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:35:42,860] {logging_mixin.py:115} INFO - [2023-07-17 10:35:42,860] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:35:42,871] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.046 seconds
+[2023-07-17 10:36:17,337] {processor.py:153} INFO - Started process (PID=24052) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:36:17,338] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:36:17,338] {logging_mixin.py:115} INFO - [2023-07-17 10:36:17,338] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:36:17,344] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:36:17,356] {logging_mixin.py:115} INFO - [2023-07-17 10:36:17,356] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:36:17,367] {logging_mixin.py:115} INFO - [2023-07-17 10:36:17,367] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:36:17,377] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.043 seconds
+[2023-07-17 10:36:53,240] {processor.py:153} INFO - Started process (PID=24255) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:36:53,241] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:36:53,241] {logging_mixin.py:115} INFO - [2023-07-17 10:36:53,241] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:36:53,248] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:36:53,260] {logging_mixin.py:115} INFO - [2023-07-17 10:36:53,259] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:36:53,272] {logging_mixin.py:115} INFO - [2023-07-17 10:36:53,272] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:36:53,282] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:37:32,213] {processor.py:153} INFO - Started process (PID=24626) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:37:32,214] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:37:32,215] {logging_mixin.py:115} INFO - [2023-07-17 10:37:32,215] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:37:32,221] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:37:32,232] {logging_mixin.py:115} INFO - [2023-07-17 10:37:32,232] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:37:32,245] {logging_mixin.py:115} INFO - [2023-07-17 10:37:32,245] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:37:32,255] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:38:07,401] {processor.py:153} INFO - Started process (PID=24876) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:38:07,402] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:38:07,403] {logging_mixin.py:115} INFO - [2023-07-17 10:38:07,402] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:38:07,415] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:38:07,433] {logging_mixin.py:115} INFO - [2023-07-17 10:38:07,433] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:38:07,451] {logging_mixin.py:115} INFO - [2023-07-17 10:38:07,451] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:38:07,464] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.065 seconds
+[2023-07-17 10:38:42,200] {processor.py:153} INFO - Started process (PID=25113) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:38:42,200] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:38:42,201] {logging_mixin.py:115} INFO - [2023-07-17 10:38:42,201] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:38:42,208] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:38:42,220] {logging_mixin.py:115} INFO - [2023-07-17 10:38:42,220] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:38:42,239] {logging_mixin.py:115} INFO - [2023-07-17 10:38:42,239] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:38:42,250] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-07-17 10:39:21,627] {processor.py:153} INFO - Started process (PID=25350) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:39:21,628] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:39:21,628] {logging_mixin.py:115} INFO - [2023-07-17 10:39:21,628] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:39:21,636] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:39:21,648] {logging_mixin.py:115} INFO - [2023-07-17 10:39:21,647] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:39:21,661] {logging_mixin.py:115} INFO - [2023-07-17 10:39:21,661] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:39:21,669] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.044 seconds
+[2023-07-17 10:39:56,714] {processor.py:153} INFO - Started process (PID=25529) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:39:56,716] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:39:56,716] {logging_mixin.py:115} INFO - [2023-07-17 10:39:56,716] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:39:56,722] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:39:56,735] {logging_mixin.py:115} INFO - [2023-07-17 10:39:56,735] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:39:56,748] {logging_mixin.py:115} INFO - [2023-07-17 10:39:56,748] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:39:56,757] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.045 seconds
+[2023-07-17 10:40:34,501] {processor.py:153} INFO - Started process (PID=25728) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:40:34,502] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:40:34,503] {logging_mixin.py:115} INFO - [2023-07-17 10:40:34,503] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:40:34,515] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:40:34,536] {logging_mixin.py:115} INFO - [2023-07-17 10:40:34,536] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:40:34,553] {logging_mixin.py:115} INFO - [2023-07-17 10:40:34,553] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:40:34,563] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.150 seconds
+[2023-07-17 10:41:08,632] {processor.py:153} INFO - Started process (PID=25931) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:41:08,633] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:41:08,634] {logging_mixin.py:115} INFO - [2023-07-17 10:41:08,634] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:41:08,643] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:41:08,657] {logging_mixin.py:115} INFO - [2023-07-17 10:41:08,657] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:41:08,675] {logging_mixin.py:115} INFO - [2023-07-17 10:41:08,675] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:41:08,687] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.058 seconds
+[2023-07-17 10:41:46,687] {processor.py:153} INFO - Started process (PID=26126) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:41:46,688] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:41:46,688] {logging_mixin.py:115} INFO - [2023-07-17 10:41:46,688] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:41:46,696] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:41:46,708] {logging_mixin.py:115} INFO - [2023-07-17 10:41:46,707] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:41:46,723] {logging_mixin.py:115} INFO - [2023-07-17 10:41:46,722] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:41:46,732] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.047 seconds
+[2023-07-17 10:42:19,505] {processor.py:153} INFO - Started process (PID=26299) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:42:19,506] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:42:19,506] {logging_mixin.py:115} INFO - [2023-07-17 10:42:19,506] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:42:19,515] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:42:19,533] {logging_mixin.py:115} INFO - [2023-07-17 10:42:19,533] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:42:19,550] {logging_mixin.py:115} INFO - [2023-07-17 10:42:19,550] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:42:19,561] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.060 seconds
+[2023-07-17 10:42:55,749] {processor.py:153} INFO - Started process (PID=26549) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:42:55,750] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:42:55,751] {logging_mixin.py:115} INFO - [2023-07-17 10:42:55,750] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:42:55,757] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:42:55,769] {logging_mixin.py:115} INFO - [2023-07-17 10:42:55,769] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:42:55,784] {logging_mixin.py:115} INFO - [2023-07-17 10:42:55,784] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:42:55,794] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.047 seconds
+[2023-07-17 10:43:29,317] {processor.py:153} INFO - Started process (PID=26849) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:43:29,318] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:43:29,318] {logging_mixin.py:115} INFO - [2023-07-17 10:43:29,318] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:43:29,328] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:43:29,342] {logging_mixin.py:115} INFO - [2023-07-17 10:43:29,342] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:43:29,359] {logging_mixin.py:115} INFO - [2023-07-17 10:43:29,359] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:43:29,369] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.056 seconds
+[2023-07-17 10:44:03,525] {processor.py:153} INFO - Started process (PID=27027) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:44:03,526] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:44:03,526] {logging_mixin.py:115} INFO - [2023-07-17 10:44:03,526] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:44:03,533] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:44:03,548] {logging_mixin.py:115} INFO - [2023-07-17 10:44:03,547] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:44:03,562] {logging_mixin.py:115} INFO - [2023-07-17 10:44:03,562] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:44:03,572] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.049 seconds
+[2023-07-17 10:44:40,086] {processor.py:153} INFO - Started process (PID=27604) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:44:40,087] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:44:40,088] {logging_mixin.py:115} INFO - [2023-07-17 10:44:40,088] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:44:40,095] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:44:40,106] {logging_mixin.py:115} INFO - [2023-07-17 10:44:40,106] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:44:40,120] {logging_mixin.py:115} INFO - [2023-07-17 10:44:40,120] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:44:40,129] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.045 seconds
+[2023-07-17 10:45:14,605] {processor.py:153} INFO - Started process (PID=28175) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:45:14,606] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:45:14,606] {logging_mixin.py:115} INFO - [2023-07-17 10:45:14,606] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:45:14,614] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:45:14,626] {logging_mixin.py:115} INFO - [2023-07-17 10:45:14,626] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:45:14,642] {logging_mixin.py:115} INFO - [2023-07-17 10:45:14,642] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:45:14,655] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.053 seconds
+[2023-07-17 10:45:52,069] {processor.py:153} INFO - Started process (PID=29340) to work on /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:45:52,070] {processor.py:641} INFO - Processing file /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-07-17 10:45:52,071] {logging_mixin.py:115} INFO - [2023-07-17 10:45:52,071] {dagbag.py:507} INFO - Filling up the DagBag from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:45:52,077] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py
+[2023-07-17 10:45:52,089] {logging_mixin.py:115} INFO - [2023-07-17 10:45:52,089] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-07-17 10:45:52,103] {logging_mixin.py:115} INFO - [2023-07-17 10:45:52,103] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-07-17T00:00:00+00:00, run_after=2023-07-18T00:00:00+00:00
+[2023-07-17 10:45:52,113] {processor.py:161} INFO - Processing /home/eugenio/Documents/curso/airflow_pipeline/dags/twitter_dag.py took 0.046 seconds
