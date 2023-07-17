@@ -35,33 +35,33 @@ Primeiro, vamos fazer o download do Spark, que está disponível através do sit
 
 Vamos baixar através do comando wget no terminal com a URL de download.
 
-##### wget https://archive.apache.org/dist/spark/spark-3.1.3/spark-3.1.3-bin-hadoop3.2.tgz
+    wget https://archive.apache.org/dist/spark/spark-3.1.3/spark-3.1.3-bin-hadoop3.2.tgz
 
 Depois de terminado o download podemos descompactar o arquivo através do comando tar e passando por parâmetros as configurações -xvzf e o nome do arquivo.
 
-##### tar -xvzf spark-3.1.3-bin-hadoop3.2.tgz
+    tar -xvzf spark-3.1.3-bin-hadoop3.2.tgz
 
 Apenas com esses passos já somos capazes de utilizar o SparkSubmit.
 
 Vamos exemplificar isso rodando o script transformation.py.
 
-##### cd spark-3.1.3-bin-hadoop3.2
+    cd spark-3.1.3-bin-hadoop3.2
 
 Para isso, executamos no terminal dentro da pasta descompactada o caminho bin e o arquivo spark-submit.
 
-##### ./bin/spark-submit 
+    ./bin/spark-submit 
 
 Esse executável recebe como parâmetro a localização do script a ser executado, no nosso caso é o caminho até o arquivo transformation.py.
 
-##### ./bin/spark-submit …/src/spark/transformation.py
+    ./bin/spark-submit …/src/spark/transformation.py
 
 Também vamos precisar passar mais três parâmetros, mas esses são pré requisitos do nosso script. Os parâmetros são: src, dest e process date.
 
-##### ./bin/spark-submit …/src/spark/transformation.py --src --dest --process-date
+    ./bin/spark-submit …/src/spark/transformation.py --src --dest --process-date
 
 Para o src colocamos o caminho até os dados brutos no nosso data lake. Para o dest podemos colocar dentro de uma pasta temporária de output e o process-date você pode colocar a data em que está rodando o seu processo.
 
-./bin/spark-submit …/src/spark/transformation.py --src …/datalake/twitter_datasciencie --dest ##### …/src/spark/output --process-date 2022-08-15
+    ./bin/spark-submit …/src/spark/transformation.py --src …/datalake/twitter_datasciencie --dest     …/src/spark/output --process-date 2022-08-15
 
 Executando esse comando vamos ter os dados processados na pasta output.
 
@@ -70,13 +70,12 @@ Viu como foi simples instalar o Spark e usar o SparkSubmit?
 
 ### Código para habilitar programas do Spark
 
-#
-wget https://archive.apache.org/dist/spark/spark-3.1.3/spark-3.1.3-bin-hadoop3.2.tgz
 
-tar -xvzf spark-3.1.3-bin-hadoop3.2.tgz
+    wget https://archive.apache.org/dist/spark/spark-3.1.3/spark-3.1.3-bin-hadoop3.2.tgz
 
-dir
+    tar -xvzf spark-3.1.3-bin-hadoop3.2.tgz
 
-./bin/spark-submit /home/eugenio/Documents/curso/src/Spark/transformation.py --src /home/eugenio/Documents/curso/curso2/datalake/twitter_datascience --dest /home/eugenio/Documents/curso/src/Spark --process-date 2023-07-16
+    dir
 
-#
+    ./bin/spark-submit /home/eugenio/Documents/curso/src/Spark/transformation.py --src /home/eugenio/Documents/curso/curso2/datalake/twitter_datascience --dest /home/eugenio/Documents/curso/src/Spark --process-date 2023-07-16
+
