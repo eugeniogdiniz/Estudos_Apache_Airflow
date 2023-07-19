@@ -19,7 +19,7 @@ def export_json(df, dest):
 
 def twitter_insight(spark, src, dest, process_date):
 
-    df_tweet = spark.read.json(join(src, 'tweet'))
+    df_tweet = spark.read.json(join(src, 'tweets'))
 
     tweet_conversas = get_tweet_conversas(df_tweet)
 
